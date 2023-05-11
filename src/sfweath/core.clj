@@ -9,7 +9,9 @@
   (System/getenv "OPENAI_API_KEY"))
 
 (if (nil? openapi-key)
-  (System/exit 1))
+  (do
+    (println "please set OPENAI_API_KEY")
+    (System/exit 1)))
 
 (defn fetch-url [url]
   (html/html-resource (java.net.URL. url)))
