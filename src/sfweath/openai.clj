@@ -6,7 +6,7 @@
 
 (def initial-setup "You are a helpful assistant that provides data on Weather Area Forecast discussion.")
 
-(def prompt "please give a short description (less than 50 words) of weather from next Area Forecast Discussion. Is it a good weather or bad? Data: ")
+(def prompt "Below is an Area Forecast Discussion. Is it a good weather? Any important fenomena? Give short description, less than 75 words. Data: ")
 
 (defn prep-body [afd]
   (ch/generate-string
