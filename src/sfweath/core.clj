@@ -1,4 +1,4 @@
-(ns sfweath
+(ns sfweath.core
   (:require [net.cgrand.enlive-html :as html]))
 
 (def base-url
@@ -13,4 +13,5 @@
 (def text
   (first (html/texts (html/select page [:pre.glossaryProduct]))))
 
-(println text)
+(defn -main [& args]
+  (println text))
