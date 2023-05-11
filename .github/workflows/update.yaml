@@ -10,6 +10,8 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
     - name: Fetch data
+      env:
+        OPENAI_API_KEY:${{ secrets.OPENAI_API_KEY }}
       run: lein run sfweath.core
     - name: Commit results
       run: |
