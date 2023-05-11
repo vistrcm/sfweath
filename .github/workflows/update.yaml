@@ -1,5 +1,6 @@
 name: get weather data
 on:
+  workflow_dispatch:
   schedule:
     - cron: "01 07 * * *"
 jobs:
@@ -9,7 +10,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
     - name: Fetch data
-      run: lein run sfweath.core > afd
+      run: lein run sfweath.core
     - name: Commit results
       run: |
         set -e
