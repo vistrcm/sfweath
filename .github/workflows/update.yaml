@@ -1,0 +1,22 @@
+name: get weather data
+on:
+  schedule:
+    - cron: "37 05 * * *"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Fetch data
+      run: clojure -M main.clj > afd
+    - name: Commit results
+      run: |
+        set -e
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+
+        d="$(date --rfc-3339=s)"
+        git add --all
+        git commit --allow-empty -m "Periodic update: $d"
+        git push origin master
