@@ -1,7 +1,7 @@
 name: get weather data
 on:
   schedule:
-    - cron: "41 06 * * *"
+    - cron: "01 07 * * *"
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -19,4 +19,4 @@ jobs:
         d="$(date --rfc-3339=s)"
         git add afd
         git commit --allow-empty -m "Periodic update: $d"
-        git push origin master
+        git push origin main
