@@ -1,18 +1,28 @@
 (ns sfweath.core
   (:require [net.cgrand.enlive-html :as html]
             [sfweath.openai]
+            [sfweath.telegram]
             [clojure.string :as str]))
 
 (def base-url
   "https://forecast.weather.gov/product.php?site=NWS&issuedby=MTR&product=AFD&format=txt&version=1&glossary=0")
 
-(def openapi-key
-  (System/getenv "OPENAI_API_KEY"))
+(defn get-param-or-exit [name]
+  (let [val (System/getenv name)]
+    (if (nil? val)
+      (do
+        (println (str "please set " name))
+        (System/exit 1))
+      val)))
 
-(if (nil? openapi-key)
-  (do
-    (println "please set OPENAI_API_KEY")
-    (System/exit 1)))
+(def openapi-key
+  (get-param-or-exit "OPENAI_API_KEY"))
+
+(def telegram-token
+  (get-param-or-exit "TELEGRAM_BOT_TOKEN"))
+
+(def telegram-channel
+  (get-param-or-exit "TELEGRAM_CH"))
 
 (defn fetch-url [url]
   (html/html-resource (java.net.URL. url)))
@@ -33,6 +43,7 @@
       :message
       :content))
 
-(defn -main [& args]
+(defn -main [& _]
   (spit "afd" text)
-  (spit "afd.sum" summary))
+  (spit "afd.sum" summary)
+  (sfweath.telegram/send-message telegram-token telegram-channel summary))
