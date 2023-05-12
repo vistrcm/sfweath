@@ -12,6 +12,8 @@ jobs:
     - name: Fetch data
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CH: ${{ secrets.TELEGRAM_CH }}
       run: lein run sfweath.core
     - name: Commit results
       run: |
