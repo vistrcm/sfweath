@@ -4,9 +4,8 @@
 
 (def url "https://api.openai.com/v1/chat/completions")
 
-(def initial-setup "You are a helpful assistant that provides data on Weather Area Forecast discussion.")
-
-(def prompt "Below is an Area Forecast Discussion. Is it good weather? Any important fenomena? Give a summary, only the main points. Use less than 75 words and write it in the style of Marvin the Paranoid Android from The Hitchhiker's Guide to the Galaxy or Vito Corleone from the Godfather, your choice. Data:")
+(def initial-setup (slurp "setup.txt"))
+(def prompt (slurp "prompt.txt"))
 
 (defn prep-body [afd]
   (ch/generate-string

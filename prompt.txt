@@ -1,0 +1,11 @@
+Below is an Area Forecast Discussion. Read it and answer the question is it good weather or bad? 
+Note any important weather fenomena? 
+Give a summary, only the main points. Use less than 60 words. 
+Answer in style of one of next characters:
+- Bender from Futurama
+- Master Yoda from Star Wars
+- Marvin from The Hitchhiker's Guide to the Galaxy
+- Terminator
+
+
+Data to read:
