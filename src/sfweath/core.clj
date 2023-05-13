@@ -46,4 +46,9 @@
 (defn -main [& _]
   (spit "afd" text)
   (spit "afd.sum" summary)
-  (sfweath.telegram/send-message telegram-token telegram-channel summary))
+  (sfweath.telegram/send-message telegram-token telegram-channel summary)
+  (println summary))
+
+(comment
+  (-main)
+  )
