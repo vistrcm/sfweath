@@ -22,7 +22,7 @@
   (get-param-or-exit "TELEGRAM_BOT_TOKEN"))
 
 (def telegram-channel
-  (get-param-or-exit "TELEGRAM_CH"))
+  (System/getenv "TELEGRAM_CH"))
 
 (defn fetch-url [url]
   (html/html-resource (java.net.URL. url)))
@@ -46,7 +46,9 @@
 (defn -main [& _]
   (spit "afd" text)
   (spit "afd.sum" summary)
-  (sfweath.telegram/send-message telegram-token telegram-channel summary)
+  (if (some? telegram-channel)
+    (sfweath.telegram/send-message telegram-token telegram-channel summary)
+    (println "skipping telegram message"))
   (println summary))
 
 (comment
