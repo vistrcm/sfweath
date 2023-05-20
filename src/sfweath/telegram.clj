@@ -14,10 +14,7 @@
   ([auth method]
    (request auth method nil)))
 
-(defn get-me [auth]
-  (request auth "getMe"))
-
-(defn get-udates [auth]
+(defn- get-udates [auth]
   (request auth "getUpdates"))
 
 (defn send-message [auth chat-id msg]
