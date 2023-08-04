@@ -24,6 +24,12 @@
 (def telegram-channel
   (System/getenv "TELEGRAM_CH"))
 
+(def send-probability
+  (let [val (System/getenv "SEND_PROBABILITY")]
+    (if (nil? val)
+      1.0
+      (new Double val))))
+
 (defn fetch-url [url]
   (html/html-resource (java.net.URL. url)))
 
@@ -46,9 +52,13 @@
 (defn -main [& _]
   (spit "afd" text)
   (spit "afd.sum" summary)
-  (if (some? telegram-channel)
+
+  (if (and
+       (some? telegram-channel)
+       (<= (rand) send-probability))
     (sfweath.telegram/send-message telegram-token telegram-channel summary)
-    (println "skipping telegram message"))
+    (println
+     (str "skipping telegram message. prob: " send-probability ". ch: " telegram-channel)))
   (println summary))
 
 (comment
