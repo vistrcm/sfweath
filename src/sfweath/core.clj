@@ -53,12 +53,10 @@
   (spit "afd" text)
   (spit "afd.sum" summary)
 
-  (if (and
-       (some? telegram-channel)
-       (<= (rand) send-probability))
+  (if (and (some? telegram-channel)
+           (<= (rand) send-probability))
     (sfweath.telegram/send-message telegram-token telegram-channel summary)
-    (println
-     (str "skipping telegram message. prob: " send-probability ". ch: " telegram-channel)))
+    (println (str "skipping telegram message. prob: " send-probability ". ch: " telegram-channel)))
   (println summary))
 
 (comment
