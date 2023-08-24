@@ -9,7 +9,7 @@
 
 (defn prep-body [afd]
   (ch/generate-string
-   {:model "gpt-3.5-turbo-16k-0613"
+   {:model "gpt-4"
     :messages [{:role "system" :content initial-setup}
                {:role "user" :content (str prompt "\n" afd)}]
     :max_tokens 200
