@@ -2,7 +2,7 @@ name: get weather data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "01 14 * * *"
+    - cron: "03 17 * * *"
 jobs:
   update:
     runs-on: ubuntu-latest
