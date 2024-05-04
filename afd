@@ -1,156 +1,170 @@
 
-569
-FXUS66 KMTR 031202
+351
+FXUS66 KMTR 041543
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-502 AM PDT Fri May 3 2024
+843 AM PDT Sat May 4 2024
 
-...New AVIATION, MARINE...
+...New UPDATE, MARINE...
 
 .SYNOPSIS...
-Issued at 1243 AM PDT Fri May 3 2024
+Issued at 1201 AM PDT Sat May 4 2024
 
-A cold front will bring rain, gusty winds, and colder
-temperatures on Saturday. Dry weather returns Sunday as a gradual
-warming trend kicks off.
+A cold front will bring rain, strong winds, and much colder
+temperatures to the area today. A gradual warming trend will start
+Monday with dry weather and plenty of sunshine next week.
+
+&&
+
+.UPDATE...
+Issued at 838 AM PDT Sat May 4 2024
+
+Forecast on track with no changes needed this morning as rain has
+spread well into the Bay Area. Some evidence of a narrow cold
+frontal rain band evident on radar, currently exiting the North
+Bay as of writing. Expect gusty winds and brief heavy rain as this
+feature passes through, with lingering light to moderate rain
+behind it into late morning. Rain totals appear largely on track
+with between 0.50-0.80" in the North Bay so far. As far as we can
+tell, no major impacts so far, outside of some very minor water on
+roadway reports. See previously issued SHORT TERM for more info.
 
 &&
 
 .SHORT TERM...
 (Today and tonight)
-Issued at 108 AM PDT Fri May 3 2024
+Issued at 1201 AM PDT Sat May 4 2024
 
-A shallow marine layer will bring low stratus to coastal areas and
-adjacent valleys Friday morning. High temperatures will depend on
-whether a location is in or out of the marine layer. For example,
-Pt. Reyes is only expected to reach 56 degrees today, while Santa
-Rosa will flirt with 80, and enjoy ample sunshine. By the
-afternoon, an approaching cold front will cause the winds to
-increase, with rain reaching the North Bay early Saturday morning.
+KMUX is starting to pick up on the main frontal rain band as it
+approaches the North Bay early this morning. To add timing
+precision, I used a blend of high-resolution short term models to
+create 1 hourly PoP grids. Based on the new official forecast,
+rain is expected to reach Santa Rosa by 4 AM, San Francisco by 6
+AM, San Jose by 8 AM, and Salinas by 10 AM. The main band of rain
+should last 6-8 hours before tapering off. The expected total
+rainfall is continuing to tick up slightly, with 0.5-1.0" in most
+lowlands and 1.0-1.5" in the coastal mountains. Prefrontal SW
+winds are moderate this morning, but will increase to a strong
+breeze as the front approaches and switch to a NW direction after
+it passes.
+
+The confidence in the prefrontal stratiform rain described above is
+quite high, with very little ensemble spread. The bigger question
+today is if thunderstorms will develop in the cold, post frontal
+environment. The expected 700 mb temperature is near the daily
+minimum, which would suggest some instability, but there`s a few
+complications. First, the coldest mid-level air doesn`t settle in
+until Saturday night, after the surface temperature is on the
+down swing. Second, the 500 mb temperature is not as impressive
+as the 700 mb temperature with a more stable 3.5 C/km lapse rate
+between those two levels. This indicates any convection that
+initiates tomorrow will have a vertical limit of about 10,000 ft.
+With the top end of the hail growth zone (-30C) at over 22,000
+ft, this limits the amount of ice that will be generated. The most
+likely scenario is that after the front moves through some
+isolated, low-topped convective showers will pop up through the
+evening. There is a scenario, however, where the skies clear
+after the front passes and the surface temperature increases more
+than expected. This could lead to some evening thunderstorms,
+particularly in the North Bay where the front will clear first
+and the potential surface heating is higher. To demonstrate this,
+I adjusted the NAM model sounding at Santa Rosa, increasing the
+surface temperature a few degrees to line up with our forecast of
+13C/55.4F. This alone increased the CAPE from 130 J/kg to over 500
+J/kg. If the surface temperature exceeds our expectations, the
+instability will be even higher. In other words, if the sun comes
+out in the afternoon, the chance for evening thunderstorms
+increases significantly.
 
 &&
 
 .LONG TERM...
-(Saturday through Thursday)
-Issued at 108 AM PDT Fri May 3 2024
+(Sunday through Friday)
+Issued at 1201 AM PDT Sat May 4 2024
 
-A gale force, 997 mb, vertically stacked low pressure system is
-currently near the Gulf of Alaska. This system will be driven
-southeast by a 150 kt jet stream through Saturday. This strong jet
-max will also create divergence aloft, allowing the surface
-pressure to remain steady or even decrease slightly as the system
-loses latitude. The low center is expected to come ashore near
-Northern California or Southern Oregon early Saturday morning. An
-associated cold front will cross the Bay Area through the day
-Saturday. This frontal passage will bring periods of rain and
-gusty winds as it ushers in a new, colder air mass.
-
-Precipitable water values are expected to be above 1" on Saturday,
-with some guidance as high as 1.25". As the cold, dense air lifts
-this moisture, rain clouds will develop. The total QPF is holding
-pretty steady with most places expected to receive around 0.5" on
-Saturday. While not a total wash-out, this is a significant
-amount for May, which has monthly normal rainfall pretty close to
-the expected amount from this one system.
-
-During the afternoon OAK balloon launch Thursday, the 1000-700 mb
-thickness was measured at 2967 m. This new air mass will drop the
-that to around 2815 m, according to the NAM point sounding. By
-Sunday morning, NAM has the 700 mb temperature down to -12.7C,
-which is well below the 10th percentile (-5.2 C) and even the
-daily minimum (-9.9 C) from May 5, 1988. Note the 1000-500 mb
-thickness drop isn`t as impressive due to more flat mid-level
-lapse rates. This suggests that any convection that takes
-advantage of the cold air aloft will be low-topped, even by Bay
-Area standards. Additionally, the coldest mid-level air arrives
-overnight Saturday/early Sunday during the diurnal minimum. These
-two factors should limit the potential for thunderstorms, although
-a slight chance remains.
-
-Finally, this system will bring a noticeable drop in temperature,
-especially for inland areas. Friday will feature inland temps in
-the mid to upper 70s. 24 hours later, these same places will be
-stuck in the upper 50s or low 60s.
-
-Beyond Saturday, the forecast is more straight forward. Ridging
-from subtropical high pressure builds in Sunday which will
-gradually transition to the standard coastal trough set-up by mid
-next week. This pattern will bring the return of dry weather, lots
-of sunshine, and a gradual warming trend. Coastal areas may reach
-the low 70s and some inland areas will be in the 80s by late
-week.
+The cold front and associated low pressure system will clear the
+area by Sunday, leaving cold air in place. Sunday morning will be
+on the chilly side, with many inland areas dropping into the upper
+30s or low 40s. There is a slight chance for some lingering
+showers on Sunday, but they should be isolated and on a decreasing
+trend through the day (if anything develops in the first place).
+Otherwise a gradual warming trend will kick off next week with
+Sunday highs in the 50s and 60s and Friday highs in the 70s and
+80s. Expect lots of sunshine with breezy winds along the coast,
+especially during the first half of the week.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 457 AM PDT Fri May 3 2024
+Issued at 447 AM PDT Sat May 4 2024
 
-Currently seeing between LIFR and VFR at the terminals. Widespread
-VFR to prevail by this afternoon. Winds will be breezy to gusty out
-of the west through this evening. Mid-to-low end MVFR ceilings make
-a return tonight ahead of the approaching cold front. This cold
-front will bring rain and breezy to gusty southwesterly winds to
-the terminals tonight into tomorrow with LVK, MRY, SJC, and SNS
-not slated to see rain until beyond the 24-hour TAF period.
+Currently seeing the low pressure system and its associated cold
+front moving southeast across the region with STS already
+reporting rain. This cold front will continue to traverse across
+the region through the morning bringing widespread rain, winds
+with gusts of up to 25 knots, and MVFR conditions to all
+terminals. Winds will briefly become southerly/southwesterly ahead
+and through the cold frontal passage. VFR conditions and westerly
+winds will prevail at all terminals once the cold front moves out
+from over a terminal.
 
-Vicinity of SFO...Currently IFR with breezy to gusty westerly flow.
-Confidence is highest in the terminal returning to VFR between 15Z
-and 18Z this morning. Westerly winds will only continue to ramp up
-as the day goes on. An Airport Weather Warning is in effect from 22Z
-through 03Z for gusts of up to 40 knots. Winds will remain gusty
-while becoming southwesterly ahead and through the cold front. Rain
-chances return to the terminal after 13Z tomorrow morning.
+Vicinity of SFO...Currently MVFR with breezy southwesterly flow.
+Winds will become gusty ahead and through the cold frontal passage.
+Behind the cold front, VFR conditions and westerly winds prevail.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...Currently LIFR with breezy southwesterly
-flow at MRY and IFR with breezy northwesterly flow at SNS. Highest
-confidence is in both terminals returning to VFR by 18Z. MVFR
-stratus returns to both terminals this evening with MRY further
-deteriorating to IFR as the night progresses. Winds will be breezy
-out of the west through the TAF period. Rain does not reach either
-terminal until beyond the 24-hour TAF period.
+Monterey Bay Terminals...Currently MVFR with breezy southerly flow
+at MRY and IFR with breezy northerly flow at SNS. Winds will become
+gusty out of the southwest ahead and through the cold frontal
+passage. Behind the cold front, VFR conditions and westerly winds
+prevail.
 
 &&
 
 .MARINE...
-(Today through Wednesday)
-Issued at 457 AM PDT Fri May 3 2024
+(Today through Thursday)
+Issued at 838 AM PDT Sat May 4 2024
 
-Strong and gusty northwesterly winds will persist for yet another
-day as the region remains in between high pressure over the
-Eastern  Pacific Ocean and low pressure over the Southwest. Gale
-force gusts  will be possible, especially over the coastal waters
-and  southernmost zones. Tonight, a cold front will drop down from
-the  Pacific Northwest bringing rain and moderate to fresh breezes
-across  the waters. As the low pressure system exits to the east
-and the  pressure gradient is allowed to relax, winds will
-diminish going  into next week.
+Widespread rain and fresh southwesterly breezes are affecting the
+waters. Fresh northwesterly breezes will prevail behind main rain
+band with scattered rain showers possible into the evening. Dry
+conditions return and winds reduce into Sunday. Gusty winds build
+into the middle of the next work week and last into the late week.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...Small Craft Advisory until 9 AM PDT this morning for Mry Bay.
+PZ...Small Craft Advisory until 3 PM PDT this afternoon for SF Bay N
+     of Bay Bridge.
+
+     Small Craft Advisory until 9 PM PDT this evening for Mry Bay-Pt
+     Pinos to Pt Piedras Blancas 0-10 nm.
+
+     Small Craft Advisory from 9 AM Sunday to 3 AM PDT Monday for Mry
+     Bay-Pt Pinos to Pt Piedras Blancas 0-10 nm.
 
      Small Craft Advisory from 3 PM this afternoon to 9 PM PDT this
-     evening for Mry Bay.
+     evening for Pt Arena to Pt Reyes 0-10 nm.
 
-     Small Craft Advisory until 9 PM PDT this evening for Pigeon Pt
-     to Pt Pinos 0-10 nm-Pigeon Pt to Pt Pinos 10-60 NM-Pt Arena
-     to Pt Reyes 0-10 nm-Pt Reyes to Pigeon Pt 0-10 nm.
+     Small Craft Advisory until 3 PM PDT this afternoon for Pigeon Pt
+     to Pt Pinos 0-10 nm-Pigeon Pt to Pt Pinos 10-60 NM.
 
-     Gale Warning until 3 AM PDT Saturday for Pt Pinos to Pt Piedras
-     Blancas 0-10 nm.
+     Small Craft Advisory from 3 PM Sunday to 3 AM PDT Monday for
+     Pigeon Pt to Pt Pinos 0-10 nm.
 
-     Small Craft Advisory until 3 PM PDT this afternoon for Pt Arena
-     to Pt Reyes 10-60 NM.
+     Gale Warning until 9 AM PDT this morning for Pt Pinos to Pt
+     Piedras Blancas 0-10 nm.
 
-     Small Craft Advisory from 3 AM to 9 AM PDT Saturday for Pt Arena
-     to Pt Reyes 10-60 NM.
+     Small Craft Advisory until 9 AM PDT this morning for Pt Arena to
+     Pt Reyes 10-60 NM.
+
+     Small Craft Advisory from 3 PM this afternoon to 3 AM PDT Sunday
+     for Pt Arena to Pt Reyes 10-60 NM.
 
 &&
 
@@ -159,7 +173,7 @@ $$
 SHORT TERM...Flynn
 LONG TERM....Flynn
 AVIATION...Sarment
-MARINE...Sarment
+MARINE...Murdock
 
 Visit us at www.weather.gov/sanfrancisco
 
