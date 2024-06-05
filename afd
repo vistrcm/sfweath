@@ -1,37 +1,60 @@
 
-120
-FXUS66 KMTR 041134
+032
+FXUS66 KMTR 051126
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-431 AM PDT Tue Jun 4 2024
+425 AM PDT Wed Jun 5 2024
 
 ...New AVIATION...
 
 .SYNOPSIS...
-Issued at 230 AM PDT Tue Jun 4 2024
+Issued at 200 AM PDT Wed Jun 5 2024
 
-Warm to hot inland, coolest at the immediate coast today. A Heat
+Hot inland, while cooler at the immediate coast today. A Heat
 Advisory is in effect for inland areas today through Thursday.
-Temperatures will moderate towards the latter part of the week.
+Temperatures moderating towards the latter part of the week.
 
 &&
 
 .SHORT TERM...
 (Today and tonight)
-Issued at 247 AM PDT Tue Jun 4 2024
+Issued at 307 AM PDT Wed Jun 5 2024
 
-Sky condition is clear (allowing improved radiative cooling vs cloud
-cover 24 hours ago) except for few-scattered thin high clouds and
-patchy morning mist or fog along the immediate coastline within a
-marine layer varying from a few to several hundred feet deep North
-Bay to 1600 feet deep over the north Central Coast.
+An area of low ceiling stratus and/or fog was working its way
+southward over the coastal waters and may briefly reach or form
+along the coastline through daybreak. Otherwise the sky is clear
+over the forecast area. On microphysics satellite imagery a coastally
+trapped southerly wind reversal with fog is moving north of Point
+Conception, though based on recent observations and current model
+output it should have trouble reaching northward today since there`s
+a fair amount of surface high pressure prevailing to our northwest,
+e.g. the ACV-SFO pressure gradient is moderate at 6.7 mb. Though
+it`s still a good idea to closely monitor the SMX-SFO and SBA-SFO
+pressure gradients.
 
-The advertised Heat Advisory goes into effect today for the North
-Bay and the East Bay (the advisory expanding to include areas of
-the South Bay, interior Monterey county including the southern
-Salinas Valley and San Benito county Wednesday-Thursday).
+High pressure and large scale sinking motion continues with the
+apex of 500 mb heights ~ 590 decameters with the high pressure
+system moving to our east later today. 850 mb temperatures are
+forecast to rise a couple more degrees today nearing 24 Celsius
+and will however hold nearly steady through Friday afternoon, this
+is close to the max moving average on Oakland upper air long term
+climatology in early June.
+
+Surface heating after sun rise today will connect with the
+aforementioned warm lower level temperatures i.e. 850 mb (and 925 mb)
+levels boosting highs today mainly above to well above early June
+normal high temperatures. Due to a maritime influence highs will
+be coolest along the immediate coastline/beaches with 70s to a few
+warmer spots not far from the beaches in the lower 80s, then
+inland just a bit bayside highs will be 80 to 90 with lower 90s
+just away from the SF Bay. Farthest inland away from any maritime
+influence highs today will be in the 90s to near 100 degrees.
+
+The Heat Advisory continues today for much of the Bay Area and north
+Central Coast except along the immediate coastline and along the SF
+Bay Shoreline.
 
 Here are some heat safety tips:
 
@@ -41,93 +64,68 @@ Here are some heat safety tips:
 * Never leave people or pets unattended in vehicles.
 * Use sunscreen if going to the coast or the pool.
 
-Highs today will be mainly above to well above early June normal
-high temperatures. Highs will be coolest along the immediate
-coastline/beaches with 70s to a few warmer spots not far from the
-beaches in the lower 80s, bayside highs will be 80 to 90 with
-lower 90s just away from the SF Bay. Farthest inland highs today
-in the 90s to near 100 degrees far northern Napa county,
-easternmost Contra Costa county and far southern Monterey county.
-The Santa Rosa coop station may near the June 4th record high 98F
-in 1949.
-
 &&
 
 .LONG TERM...
-(Wednesday through Monday)
-Issued at 247 AM PDT Tue Jun 4 2024
+(Thursday through Tuesday)
+Issued at 307 AM PDT Wed Jun 5 2024
 
-As mentioned, the heat advisory continues inland areas Wednesday
-and Thursday. Warm to hot daytime highs, above to well above June
-normal highs - hottest inland with 90s to lower 100s, nearer the
-coast 80s and 90s, and 70s/80 at the beaches. Hot weather will
-result in elevated fire weather conditions at least through
-Thursday. Improving chances of patchy night and morning coastal
-stratus and fog redeveloping later in the week. The NAM forecasts
-the SFO-SAC pressure gradient (westerly winds) prevailing Thursday
-afternoon and evening, however it still make take an extra day or
-two for the afternoon sea breeze to bring some relief farther inland.
-
-A high pressure system is forecast to remain nearly stationary over
-the west late this week into next week, surrounded by low pressure
-systems of various strength. Weak upper level troughing may reach
-California over the weekend, the daily sea breeze likely during
-then bringing relief at least partially inland each afternoon and
-evening.
+The Heat Advisory continues Thursday for the same locations as
+today. Then late in the week and over the weekend improving chances
+of afternoon and evening onshore breezes develop, inland daytime
+highs will lower back to near typical highs for this time in June,
+also reducing heat risks. Weak upper level troughing arrives late
+in the week and weekend, how this upper level trough then may evolve
+is a low confidence forecast per divergence in model solutions for
+early next week.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 431 AM PDT Tue Jun 4 2024
+Issued at 425 AM PDT Wed Jun 5 2024
 
-VFR except for a patch or two of stratus and fog /LIFR-IFR/ along
-the immediate coastline this morning. The NAM forecasts the ACV-SFO
-pressure gradient to strengthen to nearly 9 mb by later today, the
-UKI-STS pressure gradient strong at 2 mb to 3 mb. Local influxes of
-cooler marine air will continue nearest the immediate coastline,
-for example statistical guidance is forecasting a gusty west wind
-to around 30 knots at KSFO this afternoon and evening. Additionally,
-the leading edge of stratus and fog approx 300 miles northwest of
-the Bay Area where surface dewpoint temps are higher is forecast
-to reach our coastline late tonight and Wednesday morning per
-recent HREF output; coastal waters sea surface temperatures remain
-chilly which favors coastal stratus and fog.
+VFR except patchy stratus and/or fog /LIFR-IFR/ along the immediate
+coastline this morning and a few more areas of coastal stratus and/or
+fog /LIFR-IFR/ developing late tonight and Thursday morning.
 
-Vicinity of SFO...VFR. Light west wind this morning, increasing to
-22 to 32 knots beginning 21z and continuing to mid-late evening.
+Vicinity of SFO...VFR. West wind 10 knots, becoming gusty to near
+30 knots this afternoon and evening. West wind decreasing overnight
+to near 10 knots.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...VFR. Light and variable winds this morning,
-becoming west to northwest winds 5 to 12 knots during the day.
-Patchy stratus and/or fog /LIFR-IFR/ early Wednesday morning.
+Monterey Bay Terminals...VFR except patchy stratus and/or fog
+/LIFR-IFR/ this morning. Light and variable winds this morning,
+west to northwest 10 to 15 knots this afternoon. A mix of onshore
+winds 5 to 10 knots and light and variable winds later tonight and
+Thursday morning.
 
 &&
 
 .MARINE...
-(Today through Sunday)
-Issued at 252 AM PDT Tue Jun 4 2024
+(Tonight through next Sunday)
+Issued at 256 AM PDT Wed Jun 5 2024
 
-Breezy to gusty north and northwest winds affect all of the
-waters through the mid week. Meanwhile, large NW swell will arrive
-in the coastal waters of Northern and Central California. These
-rough seas will last through Thursday. Conditions will then
-gradually improve going into the weekend.
+Breezy to gusty northwest winds continue to cause hazardous
+conditions with steep wind waves. Winds begin to reduce into the
+late week as the upper level wind pattern changes. A moderate
+period northwest swell will build over the waters late Wednesday
+into Thursday.
 
 &&
 
 .BEACHES...
-Issued at 859 PM PDT Mon Jun 3 2024
+Issued at 415 AM PDT Wed Jun 5 2024
 
 A Beach Hazards Statement is in effect from Wednesday morning
 through Thursday evening.
 
-A moderate-rough NW swell will arrive Wednesday and create large
+A moderate-rough NW swell will arrive today and create large
 breaking waves and an increased risk for sneaker waves. Breaking
-waves will reach as high as 15-20 ft, especially along steep
-beaches. Sneaker waves can run over 100 ft up a dry beach, pulling
-people in the water from rocks, jetties, and beaches. Inexperienced
+waves will reach as high as 15 ft, especially along steep beaches.
+Sneaker waves can run over 100 ft up a dry beach, pulling people
+in the water from rocks, jetties, and beaches. Inexperienced
 swimmers should stay out of the water. Observe the ocean for 20
 minutes before relaxing on the beach. The hot weather inland will
 lead to more people visiting the beach this week. Know where
@@ -137,54 +135,50 @@ on the ocean!
 &&
 
 .CLIMATE...
-Issued at 127 AM PDT Sat Jun 1 2024
+Issued at 152 AM PDT Wed Jun 5 2024
 
 Record high temperatures at the long term climate stations for
-June 4th and 5th:
+June 5th:
 
-Station             June 4th             June 5th
+Station             June 5th
 
-Santa Rosa          98 in 1949           102 in 1926
-Kentfield          101 in 1981           102 in 1926
-Napa               102 in 1981           105 in 1903
-Richmond            90 in 1955            86 in 1983
-Livermore          105 in 1960           104 in 1926
-San Francisco       92 in 1949            95 in 1883
-SFO Airport         92 in 1955, 1949      89 in 1972
-Redwood City       100 in 1981            97 in 2002, 1972
-Half Moon Bay       71 in 1955            74 in 1958
-Oakland downtown    96 in 1981            87 in 2002
-San Jose            98 in 1904           100 in 1926
-Salinas Airport     92 in 1949            87 in 1949
-King City          102 in 1981, 1957     105 in 1926
+Santa Rosa         102 in 1926
+Kentfield          102 in 1926
+Napa               105 in 1903
+Richmond            86 in 1983
+Livermore          104 in 1926
+San Francisco       95 in 1883
+SFO Airport         89 in 1972
+Redwood City        97 in 2002, 1972
+Half Moon Bay       74 in 1958
+Oakland downtown    87 in 2002
+San Jose           100 in 1926
+Salinas Airport     87 in 1949
+King City          105 in 1926
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement from Wednesday morning through Thursday
-     evening for CAZ006-505-509-530.
+CA...Beach Hazards Statement from 8 AM PDT this morning through
+     Thursday evening for CAZ006-505-509-530.
+
+     Heat Advisory until midnight PDT Thursday night for CAZ503-504-
+     506-510-512>515.
 
      Heat Advisory from 8 AM this morning to midnight PDT Thursday
-     night for CAZ503-504-506-510-515.
+     night for CAZ516-518.
 
-     Heat Advisory from 8 AM Wednesday to midnight PDT Thursday night
-     for CAZ513-514-516-518.
+PZ...Small Craft Advisory until 3 AM PDT Thursday for Pt Arena to Pt
+     Reyes 0-10 nm-Pt Reyes to Pigeon Pt 0-10 nm.
 
-PZ...Small Craft Advisory from 3 PM this afternoon to 9 PM PDT this
-     evening for Mry Bay-SF Bay N of Bay Bridge.
+     Small Craft Advisory until 9 AM PDT this morning for Pt Pinos to
+     Pt Piedras Blancas 0-10 nm.
 
-     Small Craft Advisory until 3 AM PDT Thursday for Pigeon Pt to Pt
-     Pinos 10-60 NM-Pt Arena to Pt Reyes 0-10 nm-Pt Arena to Pt
+     Small Craft Advisory until 3 AM PDT Friday for Pt Arena to Pt
      Reyes 10-60 NM.
 
-     Small Craft Advisory from 9 AM this morning to 3 AM PDT Thursday
-     for Pt Reyes to Pigeon Pt 0-10 nm.
-
-     Small Craft Advisory from 9 AM this morning to 3 AM PDT
-     Wednesday for Pigeon Pt to Pt Pinos 0-10 nm.
-
-     Small Craft Advisory until 9 AM PDT Wednesday for Pt Pinos to Pt
-     Piedras Blancas 0-10 nm.
+     Small Craft Advisory until 3 PM PDT Thursday for Pigeon Pt to Pt
+     Pinos 10-60 NM.
 
 &&
 
