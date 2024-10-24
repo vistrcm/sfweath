@@ -1,115 +1,168 @@
 
-449
-FXUS66 KMTR 231129
+944
+FXUS66 KMTR 241600
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-429 AM PDT Wed Oct 23 2024
+900 AM PDT Thu Oct 24 2024
 
-...New AVIATION...
+...New UPDATE, MARINE...
 
 .SYNOPSIS...
-Issued at 233 AM PDT Wed Oct 23 2024
+Issued at 142 AM PDT Thu Oct 24 2024
 
-Drying trend through midweek with light offshore winds through
-Thursday morning. Increasing moisture late this week into the
-weekend, with a slight chance of rain for the North Bay. More
-uncertainty further south.
+Dry airmass and elevated fire weather concerns continue today.
+Conditions improve Friday as an upper low approaches and moisture
+increases. Rain chances late this weekend. Extended period remains
+active.
+
+&&
+
+.UPDATE...
+Issued at 859 AM PDT Thu Oct 24 2024
+
+Mostly clear skies continue this morning with generally light
+offshore flow. The fire weather snooper showed some winds at
+higher elevation are overperforming the forecast, with several
+stations gusting into the mid-20s throughout the Bay Area. To
+account for this discrepancy, I analyzed the current observations
+against various high-resolution guidance. The most appropriate
+blend came out to the max of HRRR and WRF, and that was carried
+out through the next 24 hours when the winds should diminish. With
+offshore winds and low humidity, the result is another day of
+moderate fire danger in the North Bay mountains, Diablo Range and
+Santa Cruz mountains. This change didn`t have much of an effect of
+the low-lands, where it will still be a very nice day.
 
 &&
 
 .SHORT TERM...
 (Today and tonight)
-Issued at 233 AM PDT Wed Oct 23 2024
+Issued at 142 AM PDT Thu Oct 24 2024
 
-The midweek drying trend is underway this morning with a nocturnal
-drying event ongoing as of writing. Many sites above 1200-1500
-feet are seeing RH in the 10-15% range across the Bay Area, and to
-a lesser extent in the North Bay. The good news is that we lack
-any major threat for strong offshore winds today. Weak offshore
-winds are likely to develop to some degree today as the gradient
-reverses, but likely not reaching critical fire weather
-thresholds. By tonight, the offshore gradient strengthens a bit,
-promoting a stronger push of offshore wind. Still not expecting
-critical thresholds at this time, but fire danger is certainly
-elevated over the next few days with peak windy conditions
-occuring overnight tonight into Thursday morning.
+Light offshore winds underway this morning with the highest gusts
+mostly confined above 1500 feet. As of writing, Mt. Diablo and Mt.
+St. Helena are the two winners with gusts in the mid-30s mph. RH
+across the region has thankfully not reached critical levels,
+whereas most locations that are experiencing offshore winds are in
+the 20-30% range. SFO-WMC gradient sitting around -5.5 mb
+(negative = offshore-oriented), and is forecast to bottom out
+right around this issuance...gradually increasing (decreasing
+offshore wind potential) through today. Even though the winds are
+expected to decrease and become more onshore tonight, conditions
+will still be relatively dry, as the best RH improvements don`t
+arrive until the weekend.
 
 &&
 
 .LONG TERM...
-(Thursday through Tuesday)
-Issued at 233 AM PDT Wed Oct 23 2024
+(Friday through Wednesday)
+Issued at 142 AM PDT Thu Oct 24 2024
 
-The offshore-oriented pressure gradient begins to subside and
-reverse Thursday once the responsible shortwave trough moves into
-the northern plains. By Friday, we should start seeing the
-influence of the deep upper low in the Gulf of Alaska as it makes
-its way into our region. Rain chances enter the picture by late
-Saturday for the North Bay and kind of linger through the early
-part of the week. Like previous forecast issuances, this is
-largely because of the level of uncertainty in the forecast. A
-notable change this morning is that the confidence in rain chances
-for the North Bay is a bit higher for the late weekend, but
-amounts still uncertain, and will most likely be very light.
-Elsewhere, there is still considerable uncertainty with the track
-of this strong, closed low. The GFS ensemble system advertising a
-slightly wetter scenario, and the ECMWF ensemble system promoting
-a more interior track that would lead to dryer and potentially
-windy conditions. Please stay tuned to the forecast for the latest
-developments.
+If you`ve been following along with the "uncertainty saga" from
+the previous couple of days, I have better news for you this
+morning. Keep reading to find out! Conditions Friday and Saturday
+appear fairly quiet and represent a transition state as a deep
+upper low moves out of the Gulf of Alaska. There is a cut off low
+several hundred miles offshore that will linger and eventually get
+caught up in this deeper Gulf of Alaska low. However, as it passes
+through in the form of a transient shortwave trough late Friday,
+we will see the marine layer start to deepen and humidity start
+to climb. Not too much other sensible weather out of this initial
+shortwave aside from maybe some high clouds. The real story comes
+in by Sunday when the deep upper low approaches the PNW and digs
+southward at the mercy of a 120 kt meridional jet upstream from
+the base of the trough. This is where the "uncertainty saga" takes
+a turn. Ensemble guidance is finally converging on a solution with
+reasonable confidence to start talking about specifics. The ECMWF
+ensemble system has started coming in wetter (trending more in
+line with the GFS ensemble system), and cluster analysis
+advertises moderate-to-high confidence in the track and position
+of the upper low Sunday into Monday. What does this mean for
+sensible weather? Rain! No, not for everyone. Calm down, San Jose.
+The north-south cut off for measurable rainfall in the current
+forecast is right around the SF Bay, and the Santa Cruz mountains
+will likely see some light amounts as well due to the additional
+help from orographic forcing. Points south of the bay will likely
+struggle to see much, while points north could see a tenth of an
+inch or two. The highest amounts are forecasted in the North Bay
+counties, ranging from 0.10" to around 0.50" by Sunday night...higher
+amounts as you go north and along coastal ranges. Beyond Sunday
+and into the middle of the week, this is where uncertainty takes
+another stand. Confidence is high that we will remain in an active
+pattern through at least the 1st of the month, but rain chances
+with the evolution of this system and the trajectory of future
+systems remain up in the air. Nothing stark to point at for now
+beyond Sunday/Monday, but there is a small chance we could pick up
+some additional rainfall through midweek.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 429 AM PDT Wed Oct 23 2024
+Issued at 411 AM PDT Thu Oct 24 2024
 
-Generally VFR through the TAF period across the region. Light
-offshore flow continues through the rest of the morning, followed by
-light to breezy onshore winds in the afternoon and evening. Another
-pulse of offshore flow tonight and Thursday morning should keep the
-terminals VFR beyond the end of the TAF period.
+VFR through the TAF period across the region. Light offshore flow
+continues through the morning, followed by light to breezy onshore
+winds in the afternoon and evening. Light winds, possibly offshore,
+return overnight.
 
-Vicinity of SFO... VFR through the TAF period. Light winds through
-the morning with onshore flow resuming during the afternoon and
-evening. Light flow, possibly offshore, returns overnight into
-Thursday morning
+Vicinity of SFO... VFR through the TAF period. Light offshore winds
+this morning with breezy onshore flow resuming during the afternoon
+and evening.
 
 SFO Bridge Approach... Similar to SFO.
 
-Monterey Bay Terminals... Light offshore flow this morning with
-breezy onshore flow expected in the afternoon and evening hours.
-Offshore flow overnight and Thursday morning keeps the terminals VFR
-through the end of the TAF period.
+Monterey Bay Terminals... VFR through the TAF period. Light offshore
+flow through the morning with breezy northwest flow expected in the
+afternoon and evening hours.
 
 &&
 
 .MARINE...
-(Today through Monday)
-Issued at 233 AM PDT Wed Oct 23 2024
+(Today through Tuesday)
+Issued at 859 AM PDT Thu Oct 24 2024
 
-Northwest to north winds persist over the outer waters through
-late week with occasional moderate northwesterly gusts extending
-into the southern inner coastal waters from Pigeon Point
-southward. Winds will begin to diminish over the coastal waters by
-late week into the weekend as high pressure weakens over the
-Pacific.
+Expect breezy north and northwest winds to linger into the weekend
+and increase in the late weekend. Significant wave  heights in the
+outer waters become moderate today through Friday  morning with a
+gradual building trend beginning Friday afternoon  with
+significant wave heights of 10-12 feet expected in the outer
+waters Monday.
+
+&&
+
+.FIRE WEATHER...
+Issued at 334 PM PDT Wed Oct 23 2024
+
+Near critical fire weather conditions will exist over portions of
+the Bay Area and Central Coast through at least Thursday due to
+breezy offshore flow and lower humidity. Surface high pressure is
+on track to build over E OR/N NV/S ID tonight with low pressure
+remaining along the CA coast. This orientation will allow for
+offshore flow to develop. Model guidance initially downplayed the
+potential for offshore, but yesterday and today guidance suggest
+offshore from SFO-WMC gradient to be -9 to -11 mb. Not a big
+gradient, but impactful nonetheless. Local WRF model captures the
+offshore flow late tonight and early Thursday with NE winds 10-20
+mph with gusts 30 mph (locally 40+mph Mt St Helena). Marginal
+humidity recovery 1,000 feet as well with recovery early in the
+night then drying late as peak offshore flow kicks in. Offshore
+gradient eases Thursday day, but low humidity remains. Regions for
+most critical conditions will be North Bay Mts and East Bay
+Hills.
+
+North Ops GACC also has highlighted the Diablo/Santa Cruz zone
+for very dry conditions through Thursday as well.
+
+MM
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...Small Craft Advisory from 9 AM this morning to 9 PM PDT this
-     evening for Pigeon Pt to Pt Pinos 0-10 nm.
-
-     Small Craft Advisory from 3 PM this afternoon to 9 PM PDT this
-     evening for Pt Pinos to Pt Piedras Blancas 0-10 nm.
-
-     Small Craft Advisory until 9 AM PDT Thursday for Pigeon Pt to Pt
-     Pinos 10-60 NM-Pt Arena to Pt Reyes 10-60 NM.
-
+PZ...None.
 &&
 
 $$
