@@ -1,140 +1,157 @@
 
-346
-FXUS66 KMTR 251150
+840
+FXUS66 KMTR 261149
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-450 AM PDT Fri Oct 25 2024
+449 AM PDT Sat Oct 26 2024
 
-...New SYNOPSIS, FIRE WEATHER...
+...New AVIATION, MARINE...
 
 .SYNOPSIS...
-Issued at 449 AM PDT Fri Oct 25 2024
+Issued at 312 AM PDT Sat Oct 26 2024
 
-Weak offshore flow will help keep temperatures around 5-10 degrees
-above normal inland today, with dry conditions maintaining
-elevated fire weather concerns through sunset this evening. A
-upper level trough moves onshore Sunday, dropping temperatures to
-around or slightly below normal for the upcoming work week.
+Seasonal to warm temperatures continue Saturday before much
+cooler, fall like temperatures return Sunday. An approaching low
+pressure system will bring light rain to the Bay Area on Sunday
+and result in cool, humid, and windy conditions through next week.
 
 &&
 
 .SHORT TERM...
 (Today and tonight)
-Issued at 303 AM PDT Fri Oct 25 2024
+Issued at 312 AM PDT Sat Oct 26 2024
 
-Elevated fire weather concerns will continue through early Friday
-morning, particularly above 1000 feet, where poor (~5-25%) overnight
-humidity recoveries and light offshore flow continue. A glance at
-the fire snooper shows that the driest sites (humidity values
-between 5 to 15%) are all located at elevations above 3000 feet and
-are observing light (< 10 mph) offshore flow. The SFO-WMC pressure
-gradient is still fairly strong and, as of 2AM, is clocking in at
--8.90 mb after peaking at -10.20 mb at 7 PM. HRRR pressure gradient
- guidance indicates the gradient will continue to weaken
- throughout Friday morning with the gradient expected to flip
- positive (i.e. onshore flow) by late this morning/early this
- afternoon. This shift back to onshore flow will help alleviate
- fire weather concerns but dry daytime conditions (humidity values
- between 15-30%) will continue across the interior through the
- remainder of Friday. Some relief can be expected by Friday night
- as the marine layer is forecast to deepen, expand inland, and
- increase overnight humidity recoveries from poor to fair across
- much of the interior. Friday`s high temperatures will range from
- the 70s to low 80s inland and closer to the 60s to low 70s along
- the coast. Overnight Friday into Saturday, temperatures will cool
- down into the upper 40s to mid 50s.
+For the past few days temperatures have been leaning above average
+across the Bay Area, however, that all stands to change this weekend
+as an upper level low moves inland. Today will be the warmest day
+through at least next weekend with temperatures remaining fairly
+seasonal in the 60s along the coast and 70s across the interior. The
+NBM deterministic forecast continues to trend on the warmer side
+(highs in the upper 70s to low 80s inland) in comparison to other
+models which trended towards highs in the low to upper 70s across
+the interior. Given this, for high temperatures on Saturday we
+leaned more towards the solutions supported by the HRRR and WRF
+which pulled max temperatures down by a few degrees. Today is a good
+day to get any last "changing of the season" chores done as we look
+forward to our first real taste of fall on Sunday.
+
+By Saturday night, overcast conditions will return as the marine
+layer deepens and spreads inland ahead of the approaching low
+pressure system. This cloud cover will help to keep overnight
+temperatures Saturday into Sunday slightly higher than they are this
+morning. This increased cloud cover will act as a sort of
+"insulation" and prevent increased radiational cooling from
+occurring (aka trapping more heat at the surface). Low
+temperatures Saturday morning will be in the 40s to low 50s across
+the region, comparatively, low temperatures Sunday morning will
+be around 5 to 8 degrees warmer (widespread mid to upper 50s). For
+those interested in how our rain chances are shaping up, let`s
+head to the long term discussion.
 
 &&
 
 .LONG TERM...
-(Saturday through Thursday)
-Issued at 303 AM PDT Fri Oct 25 2024
+(Sunday through Friday)
+Issued at 312 AM PDT Sat Oct 26 2024
 
-The leading edge of the next system bringing rain chances, primarily
-across the North Bay, arrives late Saturday night into early Sunday
-morning. As the trough begins to move inland, it takes on a positive
-tilt, which will cutoff any potential moisture fetch from Hurricane
-Kristy this far north. The active longwave pattern produces another
-trough that moves onshore farther north late next week, once again
-with limited coverage of rain chances across the North Bay.
+Now for the main attraction, an upper level low will move into the
+West Coast beginning Sunday and bring with it elevated rain chances
+to portions of the Bay Area. The overall forecast remains generally
+the same as earlier, with the highest probability of rain exceeding
+0.1" in the North Bay and some potential for light drizzle
+(generally less than 0.1") across coastal portions of the Bay Area.
+Probabilistic guidance shows a 42% chance of exceeding 0.1" in Santa
+Rosa while farther north, near Cloverdale and Sea Ranch, there is
+a 60 to 70% chance of exceeding 0.1" of rain on Sunday.
+Comparatively, the likelihood of exceeding 0.1" of rain drops to
+between 5 to 20% in the East Bay and South Bay as rain chances
+decrease moving southward. Looking at QPF cluster analysis shows
+most models in agreement with the idea that the highest likelihood
+of rain will be in the North Bay. However, it is worth noting
+that clusters weighted more heavily towards the GFS suggest at
+least some rain (still less than 0.1") could extend into portions
+of the South Bay and East Bay. While any rain that does extend
+into the San Francisco Peninsula, East Bay, and South Bay will be
+light it will still be the wettest day that most areas will have
+seen since last spring.
 
-The return of steady onshore flow will bring the influence of the
-marine layer farther inland for the end of the weekend and the
-upcoming work week. Expect increasing coverage of morning stratus,
-patchy fog and drizzle along the coast with cooler than normal
-temperatures area wide through the remainder of the extended
-forecast.
+Sunday marks the beginning of our pattern shift with high
+temperatures running on average 3 to 5 degrees below normal but a
+few sites may be running closer to 5 to 10 degrees below normal.
+High temperatures generally look to be in the 60s to low 70s (in the
+warmest spots) across the interior next week while closer to the
+coast temperatures will be in the upper 50s to low 60s. The caveat
+to this forecast is that the NBM has been running warm as the model
+is being more heavily weighted to favor warmer temperatures due to
+our recent heatwave (early October). The NBM tenth percentile shows
+high temperatures slightly cooler in the mid to upper 60s across the
+interior next week which is a scenario worth keeping in mind given
+the recent NBM warm bias. Gusty winds look likely to develop in the
+wake of this low pressure system along the coast, across valleys,
+and across mountain gaps/passes through midweek. Both the GFS and
+ECMWF keep the pattern fairly active with another weak system moving
+through late next week. This system looks to increase precipitation
+chances again, but, the setup looks similar to this weekend where
+the highest precipitation chances will be in the North Bay and
+lower elsewhere.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 435 AM PDT Fri Oct 25 2024
+Issued at 431 AM PDT Sat Oct 26 2024
 
-VFR is expected to prevail through the forecast period. Weak
-offshore flow this morning will eventually return back to onshore
-later today with a gradual return of low marine stratus and patchy
-fog overnight into early Saturday morning.
+VFR is expected to prevail through the forecast period, even as
+the marine layer gradually build through the forecast period. A
+steady fetch of mid/high level cloud cover from a slow moving Hurricane
+Kristy will limit low stratus coverage over the terminals.
 
-Vicinity of SFO...High confidence VFR through the TAF period. Expect
-breezy onshore winds later this afternoon with a return of low
-marine stratus in area, but may not impact the terminal directly.
+Vicinity of SFO...Light and variable winds this morning will
+become gusty at times this afternoon, then ease after sunset.
+Low marine stratus will hover in vicinity of SFO but struggle to
+organize inland as mid/high level clouds stream overhead through
+much of the forecast period.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...High confidence VFR through the TAF period.
-Mostly calm winds this morning will eventually become breezy with an
-onshore component and some stratus expected to develop and spread
-north from the Big Sur area later tonight into early Saturday
-morning.
+Monterey Bay Terminals...Low marine stratus that had filled in to
+the Salinas Valley late last night was eventually eroded by
+mid/level clouds originating from Hurricane Kristy after midnight.
+Expect VFR to prevail through the forecast period.
+
 
 &&
 
 .MARINE...
-(Today through Wednesday)
-Issued at 303 AM PDT Fri Oct 25 2024
+(Today through Thursday)
+Issued at 431 AM PDT Sat Oct 26 2024
 
-Moderate wave heights today will persist through much of the
-weekend  before an upper trough moves onshore across the Pacific
-Northwest on  Sunday. Wave heights will increase in response to
-increasing N/NW  surface winds, with significant wave heights of
-10-12 feet expected  in the outer waters by Monday.
-
-&&
-
-.FIRE WEATHER...
-Issued at 449 AM PDT Fri Oct 25 2024
-
-Offshore flow will continue to weaken through the remainder of
-Friday morning before gradually transitioning to onshore flow by
-this afternoon. Current overnight humidity recoveries remain poor
-above 1,000 feet with most sites reporting humidities between 25 to
-40% while locally drier conditions persist at higher elevations.
-Guidance from the HRRR and NAM indicates that the KSFO-KWMC pressure
-gradient will transition from negative (offshore) to positive
-(onshore) by late this morning/early this afternoon. The KSFO-KWMC
-pressure gradient has continued to weaken with a pressure difference
-of -8.20 mb reported at 4AM compared to -8.90 mb at 2AM. While the
-winds have begun to weaken, elevated fire weather concerns will
-linger through Friday evening as drier conditions persist through
-the remainder of the day. Fire weather concerns will then decrease
-heading into the weekend as an approaching upper level system brings
-moister air, improving both nighttime and daytime humidities, and
-elevated potential for light wetting rains to the North Bay.
+Moderate to breezy winds continue through the weekend along
+with moderate wave heights before an upper trough moves onshore
+across the Pacific Northwest during the day on Sunday. Wave
+heights will increase further in response to gusty northerly winds
+building into the area. Expect significant wave heights of 10-12
+feet to develop over the outer waters by Monday, creating
+hazardous conditions for small craft vessels.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...None.
+PZ...Small Craft Advisory from 9 PM Sunday to 9 AM PDT Monday for
+     Pigeon Pt to Pt Pinos 10-60 NM-Pt Arena to Pt Reyes 0-10 nm.
+
+     Small Craft Advisory from 3 PM Sunday to 9 AM PDT Monday for Pt
+     Arena to Pt Reyes 10-60 NM.
+
 &&
 
 $$
 
 SHORT TERM...Kennedy
-LONG TERM....JM
+LONG TERM....Kennedy
 AVIATION...JM
 MARINE...JM
 
