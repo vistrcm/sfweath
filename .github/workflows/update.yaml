@@ -7,28 +7,28 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v2
-    - name: SF channel
-      env:
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-        TELEGRAM_CH: ${{ secrets.TELEGRAM_CH_SF }}
-        SEND_PROBABILITY: 0.1
-      run: lein run sfweath.core
-    - name: main channel
-      env:
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-        TELEGRAM_CH: ${{ secrets.TELEGRAM_CH }}
-      run: lein run sfweath.core
-    - name: Commit results
-      run: |
-        set -e
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --global user.name "github-actions[bot]"
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: SF channel
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CH: ${{ secrets.TELEGRAM_CH_SF }}
+          SEND_PROBABILITY: 0.1
+        run: lein run sfweath.core
+      - name: main channel
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CH: ${{ secrets.TELEGRAM_CH }}
+        run: lein run sfweath.core
+      - name: Commit results
+        run: |
+          set -e
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
 
-        d="$(date --rfc-3339=s)"
-        git add afd afd.sum
-        git commit --allow-empty -m "Periodic update: $d"
-        git push origin main
+          d="$(date --rfc-3339=s)"
+          git add afd afd.sum
+          git commit --allow-empty -m "Periodic update: $d"
+          git push origin main
