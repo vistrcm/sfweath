@@ -1,167 +1,169 @@
 
-526
-FXUS66 KMTR 291157
+659
+FXUS66 KMTR 301702
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-357 AM PST Sun Dec 29 2024
+902 AM PST Mon Dec 30 2024
 
-...New AVIATION, MARINE...
+...New UPDATE, MARINE...
 
 .SYNOPSIS...
-Issued at 1232 AM PST Sun Dec 29 2024
+Issued at 1203 AM PST Mon Dec 30 2024
 
-Rain and gusty winds today as a cold front ushers in a new, dry
-air mass. Clear skies will yield plenty of sunshine and cold
-morning temperatures this week.
+A new weather pattern will bring much colder temperatures to the
+Bay Area this week. The next couple weeks look much drier than
+recent trends.
+
+&&
+
+.UPDATE...
+Issued at 859 AM PST Mon Dec 30 2024
+
+Lingering fog and low stratus remains around the interior East and
+South Bay down to Holister, the southern Salinas Valley, and
+around the Watsonville area, with the rest of the region remaining
+generally clear. Low temperatures this morning were somewhat
+warmer than the forecast, and the operations team will take a
+closer look at forecast lows for the next couploe of days with the
+next update, particularly with regards to any impacts on the
+Freeze and Frost products to be issued.
+
+DialH
 
 &&
 
 .SHORT TERM...
 (Today and tonight)
-Issued at 1232 AM PST Sun Dec 29 2024
+Issued at 1203 AM PST Mon Dec 30 2024
 
-Key Messages for the Short Term:
--Moderate to heavy rainfall across the North Bay this morning
--Largely light to moderate rain elsewhere on Sunday
--Elevated wind gusts of 30 to 40 mph, isolated to 50 in North Bay
-
-The rain is just now entering the KMUX field of view and should
-reach Santa Rosa by 4-6 AM and San Francisco by 6-8 AM. This cold
-front still looks to be fast moving. This means the rain rates
-will be high at times, but the limited duration will help
-alleviate widespread flooding concerns in the waterways. The more
-likely impact is urban flooding, shallow landslides, and downed
-trees due to the antecedent saturation, high rain rates, and
-strong, shifting wind gusts as the front moves through. Total
-rainfall today is expected to be between 0.5-1.5" in the North Bay
-and between 0.25 and 0.5" through the rest of the Bay Area. The
-Central Coast will be drier and less windy as the cold front loses
-steam, but we`re still expecting up to 1/4" in the early
-afternoon. In addition to rain, the cold front will bring a sharp
-shift in the wind direction from southerly to northerly. By the
-afternoon/early evening, the sun will make a triumphant return as
-the new, dry air mass settles in.
+The big question over the short term is how cold will it get this
+morning. Much drier air has arrived in the post frontal
+environment. The precipitable water has dropped from around 1.3"
+during the rain yesterday, to around 0.37" as measured by GOES 18.
+We`ve been expecting this dry air to cause much colder
+temperatures tonight. The forecast challenge stems from the fact
+that the temperature can`t drop below the dew point. If the
+temperature drops to the dew point, the air is saturated and any
+further cooling will condense water vapor into liquid (cloud or
+fog formation). This process actually releases heat back into the
+air, and the clouds restrict radiational cooling to space, both
+putting a big damper on further cooling. While the precipitable
+water (water vapor through the entire troposphere depth) is
+behaving as expected, the surface dew points are still elevated.
+The recent rounds of rain have led to elevated soil moisture. USGC
+soil moisture gauges across the region are showing around 25-30%
+water content in the soil (we get worried about landslides around
+35%). As the dry air moves in, this water is evaporating, which
+increases the water vapor content and therefore the surface dew
+point. Now this process is overshadowed by the plummeting dew
+points in the new air mass, but it does work to slow the fall.
+Many areas are starting to report mist starting to form and the
+temperatures are still widely in the mid 40s at this time. I used
+a new forecast blend (33% NBM, 33% NBM ensemble mean, 33% bias
+corrected consensus of short term guidance) that warmed the
+temperature a couple degrees this morning, but somehow the
+confidence on a 6 hour temperature forecast is still rather low. I
+decided not to make any changes to the frost advisory for now. If
+things continue, the Santa Clara Valley may have to be removed.
+Other than the cold temperatures in the morning, it will be a
+beautiful brisk day getting into the upper 50s with lots of
+sunshine and only a gentle breeze.
 
 &&
 
 .LONG TERM...
-(Monday through Saturday)
-Issued at 1232 AM PST Sun Dec 29 2024
+(Tuesday through Sunday)
+Issued at 1203 AM PST Mon Dec 30 2024
 
-Key Messages for the Long Term:
--Frost and freeze conditions expected Mon-Thu mornings
+Tuesday morning will be the coldest of the week. Temperatures are
+expected to drop into the low to mid 30s for many inland
+locations and lower 40s along the coast. While it`s becoming
+increasingly rare to break daily low temperature records (22
+degrees at San Jose from 1895), the last day of 2024 will bring
+the coldest temperatures of the year for much of the Bay Area and
+Central Coast. Radiational cooling is the dominate reason. Long
+nights, calm winds, clear skies and dry air will enhance this
+process. With zonal flow, the actual air mass isn`t that cold. The
+850 mb (roughly 5,000 ft) temperature will be around 41 F, which
+is near the Dec 31 average of 43 F. It`s much easier to forecast
+large air masses than shallow, boundary layer processes. A little
+bit of wind could mix warmer air down to the surface, for
+instance. As such, it`s not quite clear exactly how cold it will
+get Tuesday, but the bike commuters out there will want to wear
+gloves for sure.
 
-Building high pressure behind the front will bring much more
-benign conditions next week. The only real concern is cold morning
-temperatures. Otherwise it will be a glorious week with plenty of
-sunshine and high temps in the mid 50s to lower 60s. The long
-nights, clear skies, and dry air mass will encourage enhanced
-radiational cooling. The actual air mass isn`t terribly cold, with
-850 temps somewhere between the 25th and 50th percentile for this
-time of year. This means a nocturnal inversion will set up, cold
-dense air will sink, and the valleys will be colder than the
-mountains. The temperature change will be noticeable in a "grab
-your heavier jacket before walking the dog" type of way. Monday
-morning is expected to be 10-15 degrees colder than Sunday
-morning. As the winds weaken, Tuesday will be even colder, with
-most lowlands expecting the coldest day of the season. Santa Rosa
-could even drop into the upper 20s. Since this is driven by
-radiational cooling in the shallow boundary layer, the forecast is
-challenging. Any wind will mix down warmer air and the exact min
-temp is hard to pin down. I used a blend of 1/3 deterministic NBM
-and 2/3 NBM ensemble mean for min temp. The ensemble mean is much
-cooler than the deterministic. In many locations the deterministic
-NBM is well above the ensemble box and whisker plots warmest
-whisker (top 10%). Raw model output is also warmer than the NBM,
-and you may see some large minimum temperature discrepancy
-between different weather apps this week. Our forecast confidence
-is pretty low as a result, and I`m a little concerned that the
-heavy bias correction is based on a much different weather pattern
-over the last month. Up until now December has been 2-5 degrees
-above normal. As more higher resolution models start to "see"
-Monday and Tuesday, we will get a clearer picture of how cold it
-will actually get this week.
+Wednesday low temps will jump up a few degrees as a plume of
+moisture from the subtropical Pacific takes aim at far northern
+California. This warming will be gradual, and there will very
+likely still be some frost advisories for the typical cold spots
+Wednesday morning. The moisture plume will slide south through
+Friday, when we may pick up some light rain. There`s an equal
+chance that it just brings some clouds, but the impacts will be
+limited either way. More dry air moves in over the weekend and
+into next week as the jet stream becomes meridional, and a more
+stable ridge anchors over the Eastern Pacific. While there may be
+a day of light rain Fri, the next couple weeks look dry enough to
+put the cushions back on the patio furniture to me.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 357 AM PST Sun Dec 29 2024
+Issued at 415 AM PST Mon Dec 30 2024
 
-VFR-MVFR deteriorating to more widespread MVFR-IFR, gusty winds
-and moderate to heavy rain with a cold frontal passage in the Bay
-Area this morning. Lowering ceilings, visibilities, moderate rain
-with the cold front will also reach the north Central Coast by
-late morning and afternoon. Winds strongest near and along frontal
-passage, instability (and shear) increasing too; will closely
-monitor KMUX radar, satellite, observations and amend TAFs as
-needed.
+Post cold frontal conditions are varying from clear /VFR/ to
+patchy fog /LIFR-VLIFR/. Light mixing winds and a clear to mainly
+clear sky (radiative cooling to space) are helping to form patches
+of fog. Fog will mix out through morning with a northerly to
+northeasterly light wind gradually increasing to 5 to 10 knots by
+late morning and early afternoon in the Bay Area. Closer to the
+coast winds likely become onshore 5 to 10 knots in the afternoon.
+VFR in the afternoon and tonight, though a few additional fog
+patches may form late at night and Tuesday morning.
 
-Post frontal clearing takes place though with lingering surface based
-instability there may be a few additional showers developing in the
-afternoon. Clearing and less wind tonight, with light cold air drainage
-winds developing in the valleys overnight into Monday morning. After
-a quick soaking rain with frontal passage today, will need to watch
-for fog development (or frost where wind is calm) under clearing,
-radiative cooling and light winds tonight and Monday morning.
-
-Vicinity of SFO...VFR, south to southeast wind increasing at SFO while
-a cold front is approaching the terminal from the northwest. Wind becoming
-strong and gusty near and during cold frontal passage mid to late this
-morning. Wind shifting to westerly by 20z today. Vicinity showers and
-gusty west wind in the afternoon, wind easing by late afternoon. VFR
-in dry weather tonight and Monday morning.
+Vicinity of SFO...VFR. Light northwest to northeast wind.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...VFR, south to southeast winds increasing with
-light to moderate rain arriving prior to cold frontal passage early
-in the afternoon. Rain may also be briefly heavy during frontal passage
-with conditions deteriorating to MVFR-IFR. Conditions improving to VFR
-by late afternoon, with a few additional passing showers possible. VFR
-and light cold air drainage winds tonight and Monday morning. Will have
-to watch for patchy fog development as well tonight and Monday morning.
+Monterey Bay Terminals...Areas of IFR forming per surface
+observations and satellite imagery, otherwise light and variable
+winds this morning. Onshore winds 5 to 10 knots likely developing
+from late morning to afternoon, improving conditions to VFR during
+this time. VFR tonight and Tuesday morning with southeasterly
+drainage winds near 5 knots developing.
 
 &&
 
 .MARINE...
-Issued at 325 AM PST Sun Dec 29 2024
+(Today through Saturday)
+Issued at 859 AM PST Mon Dec 30 2024
 
-A cold front with gusty winds and rain will move southeastward across
-the coastal waters and bays today. A few post frontal showers develop
-in the afternoon otherwise dry weather returns tonight. Long to moderate
-period swell will continue to run through the waters through
-midweek.
+Fresh northwest winds will prevail across the coastal waters into
+the New Year. Breezy winds and rain will arrive ahead of a cold
+front for the northern waters. The cold front will move eastward
+taking the rain with it as well later Friday. Moderate to long
+period swell will continue to run underneath the wind driven
+waves.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
-CA...High Surf Advisory until 4 AM PST early this morning for CAZ006-
-     505-509-529-530.
+CA...Frost Advisory from 8 PM this evening to 10 AM PST Tuesday for
+     CAZ502-503-505-508-510-512-513-515-529-530.
 
-     Flood Watch until noon PST today for CAZ502>506.
+     Freeze Warning from 8 PM this evening to 10 AM PST Tuesday for
+     CAZ504-506-514-516>518-528.
 
-     Frost Advisory from 2 AM to 9 AM PST Monday for CAZ506-514-518.
+PZ...Small Craft Advisory until 3 AM PST Tuesday for Pigeon Pt to Pt
+     Pinos 0-10 nm-Pt Arena to Pt Reyes 0-10 nm-Pt Pinos to Pt
+     Piedras Blancas 0-10 nm-Pt Reyes to Pigeon Pt 0-10 nm.
 
-PZ...Small Craft Advisory until 3 PM PST this afternoon for SF Bay N
-     of Bay Bridge.
-
-     Small Craft Advisory from 9 AM this morning to 3 PM PST this
-     afternoon for Mry Bay.
-
-     Small Craft Advisory until 9 PM PST this evening for Pigeon Pt
-     to Pt Pinos 0-10 nm-Pt Arena to Pt Reyes 0-10 nm-Pt Pinos
-     to Pt Piedras Blancas 0-10 nm-Pt Reyes to Pigeon Pt 0-10 nm.
-
-     Small Craft Advisory from 3 PM to 9 PM PST Monday for Pt Pinos
-     to Pt Piedras Blancas 0-10 nm.
-
-     Gale Warning until 9 AM PST this morning for Pt Arena to Pt
+     Small Craft Advisory until 3 AM PST Tuesday for Pt Arena to Pt
      Reyes 10-60 NM.
 
-     Small Craft Advisory until 9 PM PST Monday for Pigeon Pt to Pt
+     Small Craft Advisory until 9 AM PST Tuesday for Pigeon Pt to Pt
      Pinos 10-60 NM.
 
 &&
@@ -171,7 +173,7 @@ $$
 SHORT TERM...Flynn
 LONG TERM....Flynn
 AVIATION...Canepa
-MARINE...Canepa
+MARINE...Murdock
 
 Visit us at www.weather.gov/sanfrancisco
 
