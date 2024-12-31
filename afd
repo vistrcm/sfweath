@@ -1,34 +1,32 @@
 
-659
-FXUS66 KMTR 301702
+718
+FXUS66 KMTR 311644
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-902 AM PST Mon Dec 30 2024
+844 AM PST Tue Dec 31 2024
 
 ...New UPDATE, MARINE...
 
 .SYNOPSIS...
-Issued at 1203 AM PST Mon Dec 30 2024
+Issued at 214 AM PST Tue Dec 31 2024
 
-A new weather pattern will bring much colder temperatures to the
-Bay Area this week. The next couple weeks look much drier than
-recent trends.
+Dry for much of the service area until the Friday. The exception
+will be for the North Bay counties where light rain may clip them on
+Wednesday.
 
 &&
 
 .UPDATE...
-Issued at 859 AM PST Mon Dec 30 2024
+Issued at 840 AM PST Tue Dec 31 2024
 
-Lingering fog and low stratus remains around the interior East and
-South Bay down to Holister, the southern Salinas Valley, and
-around the Watsonville area, with the rest of the region remaining
-generally clear. Low temperatures this morning were somewhat
-warmer than the forecast, and the operations team will take a
-closer look at forecast lows for the next couploe of days with the
-next update, particularly with regards to any impacts on the
-Freeze and Frost products to be issued.
+Mainly clear skies with some high clouds along the North bay coast
+and the southern portion of Monterey County. This morning`s lows
+did run a couple degrees above the forecast, mainly due to partly
+to mostly cloudy skies overnight. The operations team will
+evaluate the need for any further frost and freeze products with
+the next forecast update.
 
 DialH
 
@@ -36,144 +34,91 @@ DialH
 
 .SHORT TERM...
 (Today and tonight)
-Issued at 1203 AM PST Mon Dec 30 2024
+Issued at 214 AM PST Tue Dec 31 2024
 
-The big question over the short term is how cold will it get this
-morning. Much drier air has arrived in the post frontal
-environment. The precipitable water has dropped from around 1.3"
-during the rain yesterday, to around 0.37" as measured by GOES 18.
-We`ve been expecting this dry air to cause much colder
-temperatures tonight. The forecast challenge stems from the fact
-that the temperature can`t drop below the dew point. If the
-temperature drops to the dew point, the air is saturated and any
-further cooling will condense water vapor into liquid (cloud or
-fog formation). This process actually releases heat back into the
-air, and the clouds restrict radiational cooling to space, both
-putting a big damper on further cooling. While the precipitable
-water (water vapor through the entire troposphere depth) is
-behaving as expected, the surface dew points are still elevated.
-The recent rounds of rain have led to elevated soil moisture. USGC
-soil moisture gauges across the region are showing around 25-30%
-water content in the soil (we get worried about landslides around
-35%). As the dry air moves in, this water is evaporating, which
-increases the water vapor content and therefore the surface dew
-point. Now this process is overshadowed by the plummeting dew
-points in the new air mass, but it does work to slow the fall.
-Many areas are starting to report mist starting to form and the
-temperatures are still widely in the mid 40s at this time. I used
-a new forecast blend (33% NBM, 33% NBM ensemble mean, 33% bias
-corrected consensus of short term guidance) that warmed the
-temperature a couple degrees this morning, but somehow the
-confidence on a 6 hour temperature forecast is still rather low. I
-decided not to make any changes to the frost advisory for now. If
-things continue, the Santa Clara Valley may have to be removed.
-Other than the cold temperatures in the morning, it will be a
-beautiful brisk day getting into the upper 50s with lots of
-sunshine and only a gentle breeze.
+Mainly zonal upper level flow holds through the short term, with a
+shortwave upper level trough moving into the PacNW tonight. This
+will lead to dry weather for the period with increasing cloud cover
+by the afternoon. Partly to mostly cloudy skies are expected
+overnight, which could make low temperatures for New Year`s morning
+might be a bit trickier to forecast. Given the cloud cover and above
+freezing 850mb temps, opted to trend warmer than the NBM forecast.
+Most areas should stick to the 40s, though valleys and higher
+terrain could dip into the mid to upper 30s. Given the uncertainty
+of the forecast, opted to hold off on any additional cold weather
+products for the time being.
 
 &&
 
 .LONG TERM...
-(Tuesday through Sunday)
-Issued at 1203 AM PST Mon Dec 30 2024
+(Wednesday through Monday)
+Issued at 214 AM PST Tue Dec 31 2024
 
-Tuesday morning will be the coldest of the week. Temperatures are
-expected to drop into the low to mid 30s for many inland
-locations and lower 40s along the coast. While it`s becoming
-increasingly rare to break daily low temperature records (22
-degrees at San Jose from 1895), the last day of 2024 will bring
-the coldest temperatures of the year for much of the Bay Area and
-Central Coast. Radiational cooling is the dominate reason. Long
-nights, calm winds, clear skies and dry air will enhance this
-process. With zonal flow, the actual air mass isn`t that cold. The
-850 mb (roughly 5,000 ft) temperature will be around 41 F, which
-is near the Dec 31 average of 43 F. It`s much easier to forecast
-large air masses than shallow, boundary layer processes. A little
-bit of wind could mix warmer air down to the surface, for
-instance. As such, it`s not quite clear exactly how cold it will
-get Tuesday, but the bike commuters out there will want to wear
-gloves for sure.
-
-Wednesday low temps will jump up a few degrees as a plume of
-moisture from the subtropical Pacific takes aim at far northern
-California. This warming will be gradual, and there will very
-likely still be some frost advisories for the typical cold spots
-Wednesday morning. The moisture plume will slide south through
-Friday, when we may pick up some light rain. There`s an equal
-chance that it just brings some clouds, but the impacts will be
-limited either way. More dry air moves in over the weekend and
-into next week as the jet stream becomes meridional, and a more
-stable ridge anchors over the Eastern Pacific. While there may be
-a day of light rain Fri, the next couple weeks look dry enough to
-put the cushions back on the patio furniture to me.
+The short wave trough scoots across the PacNW on Wednesday, which
+may bring some light rain to the North Bay counties. Elsewhere, dry
+conditions prevail. Ensemble and model guidance then show upper
+level ridging building in and exiting the region by late Thursday. A
+more robust upper level trough looks to move across the PacNW
+Friday, which should spread light to moderate rain across the
+region. Upper level ridging builds in the trough`s wake, though
+another quick moving disturbance may slide across northern CA and
+into NV on Sunday.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 415 AM PST Mon Dec 30 2024
+Issued at 341 AM PST Tue Dec 31 2024
 
-Post cold frontal conditions are varying from clear /VFR/ to
-patchy fog /LIFR-VLIFR/. Light mixing winds and a clear to mainly
-clear sky (radiative cooling to space) are helping to form patches
-of fog. Fog will mix out through morning with a northerly to
-northeasterly light wind gradually increasing to 5 to 10 knots by
-late morning and early afternoon in the Bay Area. Closer to the
-coast winds likely become onshore 5 to 10 knots in the afternoon.
-VFR in the afternoon and tonight, though a few additional fog
-patches may form late at night and Tuesday morning.
+VFR except for patchy morning fog /LIFR-IFR/. Mainly light winds
+except up to 10 knots along the coast during the afternoon.
 
-Vicinity of SFO...VFR. Light northwest to northeast wind.
+Vicinity of SFO...VFR. Light and variable wind becoming northeast
+around or after daybreak, wind becoming northwesterly near 10 knots
+in the afternoon and early evening. Light westerly wind tonight
+becoming light and variable overnight into Wednesday morning.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...Areas of IFR forming per surface
-observations and satellite imagery, otherwise light and variable
-winds this morning. Onshore winds 5 to 10 knots likely developing
-from late morning to afternoon, improving conditions to VFR during
-this time. VFR tonight and Tuesday morning with southeasterly
-drainage winds near 5 knots developing.
+Monterey Bay Terminals...VFR. Southeasterly winds 5 to 10 knots in
+the morning, becoming light and variable to locally northwesterly
+5 to 10 knots in the afternoon. Light southeasterly winds tonight
+and Wednesday morning.
 
 &&
 
 .MARINE...
-(Today through Saturday)
-Issued at 859 AM PST Mon Dec 30 2024
+(Today through Sunday)
+Issued at 840 AM PST Tue Dec 31 2024
 
-Fresh northwest winds will prevail across the coastal waters into
-the New Year. Breezy winds and rain will arrive ahead of a cold
-front for the northern waters. The cold front will move eastward
-taking the rain with it as well later Friday. Moderate to long
-period swell will continue to run underneath the wind driven
-waves.
+Breezy winds develop by midweek ahead of a cold front moving
+through on Friday. Moderate to long period swell will continue to
+run underneath the wind driven waves and will begin to build late
+in the week and into the upcoming weekend.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
-CA...Frost Advisory from 8 PM this evening to 10 AM PST Tuesday for
-     CAZ502-503-505-508-510-512-513-515-529-530.
+CA...Frost Advisory until 10 AM PST this morning for CAZ502-503-505-
+     508-510-512-513-515-529-530.
 
-     Freeze Warning from 8 PM this evening to 10 AM PST Tuesday for
-     CAZ504-506-514-516>518-528.
+     Freeze Warning until 10 AM PST this morning for CAZ504-506-514-
+     516>518-528.
 
-PZ...Small Craft Advisory until 3 AM PST Tuesday for Pigeon Pt to Pt
-     Pinos 0-10 nm-Pt Arena to Pt Reyes 0-10 nm-Pt Pinos to Pt
-     Piedras Blancas 0-10 nm-Pt Reyes to Pigeon Pt 0-10 nm.
+PZ...Small Craft Advisory until 9 AM PST Wednesday for Pt Pinos to Pt
+     Piedras Blancas 0-10 nm.
 
-     Small Craft Advisory until 3 AM PST Tuesday for Pt Arena to Pt
-     Reyes 10-60 NM.
-
-     Small Craft Advisory until 9 AM PST Tuesday for Pigeon Pt to Pt
-     Pinos 10-60 NM.
+     Small Craft Advisory until 9 PM PST this evening for Pigeon Pt
+     to Pt Pinos 10-60 NM.
 
 &&
 
 $$
 
-SHORT TERM...Flynn
-LONG TERM....Flynn
+SHORT TERM...KR
+LONG TERM....KR
 AVIATION...Canepa
-MARINE...Murdock
+MARINE...RGass
 
 Visit us at www.weather.gov/sanfrancisco
 
