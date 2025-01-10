@@ -1,118 +1,179 @@
 
-444
-FXUS66 KMTR 091107
+220
+FXUS66 KMTR 101222
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-307 AM PST Thu Jan 9 2025
+422 AM PST Fri Jan 10 2025
 
 ...New AVIATION, MARINE...
 
 .SYNOPSIS...
-Issued at 1209 AM PST Thu Jan 9 2025
+Issued at 1233 AM PST Fri Jan 10 2025
 
-Offshore winds have largely ended across the region. Gusty
-conditions this afternoon isolated to the ridgetops of the
-interior North Bay. Quiet weather Friday with returning offshore
-winds Saturday into early next week.
+Another beautiful day Friday! Strong offshore winds return to the
+higher elevations early Saturday through Sunday morning, with
+another push early Monday through Tuesday. The overall pattern
+will keep mostly clear skies and unseasonably dry weather around
+through the week.
 
 &&
 
 .SHORT TERM...
-(Today and Friday)
-Issued at 1209 AM PST Thu Jan 9 2025
+(Today and tonight)
+Issued at 1233 AM PST Fri Jan 10 2025
 
-Gusty offshore winds have thankfully coming to and end across the
-Bay Area this morning. Some isolated gusts along the ridgetops of
-the interior North Bay mountains may linger through this
-afternoon, but are expected to be very isolated to these higher
-peaks. For example, as of writing, Mt. St. Helena is gusting to 60
-mph, and Sonoma County Airport is at 0 mph. Overall today will be
-a very nice day across the Bay Area and Central Coast with mostly
-clear skies and temps in the 60s to lower 70s. Much of the same
-Friday with temps perhaps a bit lower due to an incoming cold
-front associated with a transient upper low set to push through
-the Great Basin this weekend.
+We are keeping a close eye on a push of strong winds overnight,
+but so far anything over 30 mph is mostly confined to the highest
+peaks in the North and East Bay. As such, no wind advisory is
+needed. The SFO-WMC gradient peaked around -14.5 mb around 8 PM
+Thursday, and has since relaxed to -10.5 mb. This trend will
+continue as the ridge axis becomes centered over the Bay Area and
+extends to the NE, leading to a gentle breeze Friday. With clear
+skies, abundant sunshine, and afternoon temperatures about 5
+degrees above normal, Friday will be a spectacular day across the
+Bay Area and Central Coast, although some haze may get trapped
+under the strong high pressure. By Friday night, the next
+disturbance in the 500 mb pattern will begin sliding down from the
+Pacific Northwest towards the Rocky Mountains. At the surface, a
+back-door cold front will form, with cold air taking hold across
+the intermountain west. This will tighten the gradient with the
+subtropical high pressure offshore, refreshing the strong N-NE
+winds by early Saturday morning.
 
 &&
 
 .LONG TERM...
-(Saturday through Wednesday)
-Issued at 1209 AM PST Thu Jan 9 2025
+(Saturday through Thursday)
+Issued at 1233 AM PST Fri Jan 10 2025
 
-By Saturday, surface high pressure begins to build over the PNW
-and Great Basin, once again promoting offshore winds. At this
-time, the forecast has trended downwards slightly in terms of
-magnitude, but winds will likely be more widespread across the
-North Bay and Bay Area. The current forecast keeps things under
-Wind Advisory criteria, but we are keeping a close eye on the
-Saturday night/Sunday morning timeframe. The offshore pressure
-gradient lingers through the first half of next week with a
-deepening upper low moving into the Desert SW. However, there is
-still a good deal of uncertainty with exactly how this slow moving
-and nearly stagnant upper low pattern will play out, and the
-uncertainty as of now mainly exists in varying degrees of
-offshore wind. The other impactful bit of weather over the next
-few days will be the cool overnight temperatures this weekend and
-early next week. Overnight lows are currently forecast in the mid-
-to- upper 30s in the North Bay valleys and interior Central Coast
-beginning Sunday morning into the middle of the week.
+By Saturday morning, the leading edge of the back-door cold front
+will extend somewhere along the Sierra or Central Valley. The
+current prognostic charts from the Weather Prediction Center
+supports 850 mb temperature anomaly guidance that this front will
+push to the coast and beyond through the day Saturday. Unlike our
+typical cold fronts that bring maritime moisture, this inland
+front will only bring another round of strong offshore winds and
+colder temperatures. More than likely, there won`t be any clouds
+associated with this frontal passage, much less any rain. I
+leaned heavily on the local WRF for winds and gusts in the
+official forecast, mainly since it preformed so well with
+Tuesday`s offshore event. A wind advisory is in effect from
+midnight Friday night through 10 AM Sunday for most of the higher
+elevations across the Bay Area, where gusts are expected to reach
+up to 50 mph. The 850 mb temperature is currently around 16C and
+will steadily fall to around 7C by Saturday morning. That`s a
+drop from around the 99th percentile to the daily mean for this
+time of year, and will bring a return of more seasonable
+temperatures.
+
+The next feature of interest moves through Sunday. A pair of short
+wave troughs are expected to move through the Bay Area, and will
+likely combine forces to spawn a cut-off low pressure system off
+the coast of Southern California. While this sounds similar the
+the cut-off low earlier this week, the position is farther west,
+and may support an unusual E or even SE upper level synoptic wind
+direction across the region. Once it becomes cut-off on Monday or
+early Tuesday, this system will remain in place through the
+majority of the work week without any upper level support to pick
+it up. The strongest winds look to be Monday before the low
+gradually weakens. The NBM doesn`t currently trigger any wind
+advisory criteria, but it may not handle this situation well due
+to the bias correction fighting the unusual set-up. We will have
+to wait another day or two to start seeing more high resolution
+solutions to this problem before making that determination.
+
+In summary, we will have a couple more pushes of strong offshore
+winds and temperatures will retreat to normal. Otherwise, this
+unusual dry stretch will continue. We`re in the middle of the
+rainy season, and the ECMWF and GFS ensemble members all show a 0%
+chance of rain through the 16th, with less than 10% through the
+20th. Roughly 1/2 of the members are dry through the 25th and
+there is no indication of significant rainfall after that. It`s
+still early, but there`s a good chance this will go down as the
+driest January in the last decade. Downtown San Francisco has
+0.19" so far this month, and would need to beat 0.61" from 2022 to
+avoid this benchmark. Normal January rainfall is 4.38 inches.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 307 AM PST Thu Jan 9 2025
+Issued at 422 AM PST Fri Jan 10 2025
 
-Offshore winds will ease today with dry conditions and VFR expected
-through much of the TAF period. There is a signal for potential LIFR
-fog at the KSTS terminal early Thursday morning and again Friday
-morning.
+Widespread VFR and light to moderate winds last into Friday evening.
+Lower CIGs and mist will roll through the areas from the north to
+the south starting friday evening as a trough pushes through the
+region. LIFR/IFR CIGs and reductions in visibility will affect most
+areas, but will be quick to clear into the late night and early
+Saturday as more moderate to breezy north winds arrive.
 
-Vicinity of SFO...VFR with light and variable winds continuing
-through Thursday morning when winds increase marginally out of the
-northwest in the afternoon. Winds ease and become light/variable
-late Thursday night and into Friday morning.
+
+Vicinity of SFO...VFR lasts into the night with light to moderate
+winds. Winds stay easterly through the mid morning before becoming
+more variable. Winds become westerly into the afternoon and
+northwesterly Friday night. As the winds turn northwest, expect IFR
+CIGs to fill around the SF Bay with some reduction in visibility.
+CIGs dissipate and VFR returns into early Saturday as moderate
+northerly winds build.
+
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...VFR with light southerly winds through the
-Thursday morning. Winds will increase slightly Thursday afternoon
-out of the north-northwest before becoming southerly once again
-Friday morning.
+Monterey Bay Terminals...VFR lasts into the late night. Expect light
+to moderate southeasterly drainage winds to affect the terminals
+through the late morning, with lighter and more variable winds
+expected in the afternoon. LIFR/IFR CIGS and mist affect the
+terminals into the late night and last through the end of the TAF
+period.
+
 
 &&
 
 .MARINE...
-(Today through Tuesday)
-Issued at 307 AM PST Thu Jan 9 2025
+(Today through Wednesday)
+Issued at 422 AM PST Fri Jan 10 2025
 
-High pressure over the Great Basin will result in generally light
-offshore winds across the bays and coastal waters through late
-Thursday night. On Friday the high pressure system weakens while a
-low pressure trough moves eastward across the Pacific Northwest.
-Surface high pressure then rebuilds over the Great Basin during
-the weekend. This will bring a return of offshore winds to the
-bays and coastal waters over the weekend. Seas and gusty north
-winds gradually abate during the remainder of the week then build
-again over the weekend into the early part of next week.
+Stronger and gustier north winds build into the day with elevated
+wave heights between 10 to 15 feet developing into the night. The
+strongest winds will be located over the northern outer waters
+where gale force gusts are likely over the weekend. Seas reamin
+elevated into the work week, but winds look to reduce.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
-CA...None.
-PZ...Small Craft Advisory from 3 PM to 9 PM PST Friday for Pt Arena
-     to Pt Reyes 10-60 NM.
+CA...Wind Advisory from midnight tonight to 10 AM PST Sunday for
+     CAZ504-512-514-515.
+
+PZ...Gale Warning from 3 AM Saturday to 3 AM PST Sunday for SF Bay N
+     of Bay Bridge.
+
+     Small Craft Advisory from 3 AM Saturday to 3 AM PST Sunday for
+     Mry Bay-Pigeon Pt to Pt Pinos 0-10 nm-Pt Pinos to Pt
+     Piedras Blancas 0-10 nm-Pt Reyes to Pigeon Pt 0-10 nm.
+
+     Small Craft Advisory from 3 PM this afternoon to 3 AM PST Sunday
+     for Pt Arena to Pt Reyes 0-10 nm.
+
+     Small Craft Advisory from 3 PM this afternoon to 9 PM PST this
+     evening for Pt Arena to Pt Reyes 10-60 NM.
+
+     Gale Warning from 9 PM this evening to 3 AM PST Sunday for Pt
+     Arena to Pt Reyes 10-60 NM.
+
+     Small Craft Advisory from 9 PM this evening to 3 AM PST Sunday
+     for Pigeon Pt to Pt Pinos 10-60 NM.
 
 &&
 
 $$
 
-SHORT TERM...Behringer
-LONG TERM....Behringer
-AVIATION...RGass
-MARINE...RGass
+SHORT TERM...Flynn
+LONG TERM....Flynn
+AVIATION...Murdock
+MARINE...Murdock
 
 Visit us at www.weather.gov/sanfrancisco
 
