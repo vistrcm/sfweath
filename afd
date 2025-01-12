@@ -1,202 +1,153 @@
 
-127
-FXUS66 KMTR 111222
+705
+FXUS66 KMTR 121655
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-422 AM PST Sat Jan 11 2025
+855 AM PST Sun Jan 12 2025
 
-...New AVIATION, MARINE...
+...New UPDATE, MARINE...
 
 .SYNOPSIS...
-Issued at 1209 AM PST Sat Jan 11 2025
+Issued at 1209 AM PST Sun Jan 12 2025
 
-Dry weather continues through the week with periods of strong
-offshore winds and cold morning temperatures.
+Continued dry weather this week with chilly mornings and mostly clear
+skies.
+
+&&
+
+.UPDATE...
+Issued at 853 AM PST Sun Jan 12 2025
+
+The Frost Advisory has been allowed to expire and the Wind Advisory
+was allowed to be cancelled an hour early as winds outside of Mt.
+St. Helena have diminished below Wind Advisory criteria. The targets
+of opportunity for the upcoming forecast will be minimum
+temperatures and the potential for Frost Advisories as well as wind
+and the potential for Wind Advisories. Outside of that, it`ll be
+another mild and dry day.
+
+Sarment
 
 &&
 
 .SHORT TERM...
 (Today and tonight)
-Issued at 1209 AM PST Sat Jan 11 2025
+Issued at 1209 AM PST Sun Jan 12 2025
 
-The wind advisory went into effect at midnight and verified within
-10 minutes in the North Bay Mountains (PGE Station Healdsburg
-Hills North 2480 ft, N35G54 mph at 1210 AM). The 06Z surface
-analysis from the Weather Prediction Center shows the dry cold
-front has moved south of the Monterey Bay, with a surface low
-developing near Sacramento. This analysis makes sense as the dew
-point has been falling at Santa Rosa, Napa and San Francisco. Some
-of this can be explained with dry offshore winds, but the pressure
-has also been rising everywhere north of Monterey, (compared to
-24 hours ago to eliminate the diurnal pattern). This means the
-front has been much faster than expected, likely due to the
-cyclogenesis near Sacramento helping to move things along. Since
-this back-door cold front came from the NE instead of the typical
-NW, it has not brought any rain. It has, however, encouraged
-areas of low stratus across the SF Peninsula Coast, East Bay,
-North Bay, Santa Clara Valley, the Monterey Coast and Salinas
-Valley. These clouds are expected to clear in the next 2-6 hours
-from N-S as dry air above and below the cloud layer begins to mix
-in.
-
-Comparing the current winds to various models, I am encouraged to
-lean fully into the local WRF solution through this event. The new
-forecast agrees well with the current wind advisory, if not a bit
-stronger along the ridgelines. The big question going into this
-shift was a possible extension into Sunday and/or Monday night,
-which will be addressed in the Long Term section below. &&
-
-.LONG TERM...
-(Sunday through Friday)
-Issued at 1209 AM PST Sat Jan 11 2025
-
-The latest trend has been stronger winds Sunday night and weaker
-winds Monday night. If this holds, the wind advisory may be left
-to expire as scheduled Sunday morning, or only extended for the
-North Bay Mountains. It`s less likely we will need something out
-Monday night, but we can`t rule that out yet. Due to the frontal
-passage, the SFO-WMC gradient has been on a roller coaster from
--11 mb to +3 mb and now back to slightly negative and quickly
- falling. This all happened over the last 24 hours. As the surface
- high builds behind the front, the gradient will stabilize through
- the weekend, somewhere around -8 to -12 mb. This will continue to
- encourage dry, offshore winds and clear skies. By Monday, a E-W
- oriented short wave trough will move quickly through California
- and become cut-off west of the Channel Islands. This disturbance
- won`t bring much more than a pretty sunrise to the region,
- however, as PWAT percent of normal will only jump from 30-50%
- over the weekend to 50-70% Monday and quickly fall again Tuesday.
- The biggest effect will be on wind direction. The gradient
- between the unmoving low pressure off the coast of S.
- California/N. Mexico and high pressure over the Intermountain
- West will continue to support 925 mb NE winds across the North
- Bay, but shift to E winds in the Central and South Bay, and
- support uncommon SE winds along the Central Coast. These dry,
- offshore winds will support clear skies which means cold nights.
- Many areas will drop into the mid 30s for several days this week.
- The wind speed should decrease through the week as the low
- pressure system gradually weakens without any upper level
- support. Cluster analysis shows the following system will likely
- be another positively tilted trough next weekend, but
- fortunately none of the ensemble clusters have it getting cut-
- off, so hopefully it will be a little more progressive. Overall
- though, the long wave pattern will continue to support an omega
- block centered over the E Pacific, and there is no rain in the
- forecast through at least next weekend. Both GFS and ECMWF
- ensemble members support this, though the uncertainty really
- balloons in the following week (starting Jan 20th). The mostly
- likely outcome is that January will fall well short of normal
- rainfall, possibly averaging around 10% if we don`t get much help
- in the final week of the month.
+The atmosphere is very dry. The 00Z sounding found a 0.15" PWAT.
+That`s in the bottom 0.2% across 56,000 weather balloon launches
+going back to 1948. While there`s no direct reason to discuss the
+LCL on this cloudless night, the high temperature and low dew
+point are demonstrated by the 3353m surface based LCL, which is
+89m higher the previous record for the month of January
+(1/20/1963). With this exceptionally dry air mass, there isn`t a
+cloud in the sky anywhere over California. The dry air and clear
+skies will allow much more efficient radiative heat loss
+overnight, and temperatures are generally dropping much faster
+than last night. The temperatures are a bit of a mixed bag
+however, with some downsloping flow keeping some areas warmer (and
+drier) for longer. A good example is Napa, where it`s 54 degrees
+with a dewpoint of 19F, compared to Santa Rosa, where it`s 39
+degrees with a dewpoint of 37F. I reverted the temperature
+forecast back to the standard NBM, but since it`s so sensitive to
+wind direction, the uncertainty is high even for the minimum
+temperatures this morning. Nevertheless, it will be a chilly start
+for most. Winds are still strong across higher elevations,
+especially in the North Bay. We are continuing to rely heavily on
+the local WRF winds in the official forecast, which suggests the
+10 AM expiration time on the Wind Advisory is appropriate for all
+but the North Bay Mountains, where winds will likely pick up to
+advisory level Sunday evening, and persist through the day Monday.
+Otherwise, Sunday will be another very nice day with comfortable
+afternoon temperatures generally in the 60s, and plenty of
+sunshine.
 
 &&
 
 .LONG TERM...
-(Sunday through Friday)
-Issued at 1209 AM PST Sat Jan 11 2025
+(Monday through Saturday)
+Issued at 1209 AM PST Sun Jan 12 2025
 
-The latest trend has been stronger winds Sunday night and weaker
-winds Monday night. If this holds, the wind advisory may be left
-to expire as scheduled Sunday morning, or only extended for the
-North Bay Mountains. It`s less likely we will need something out
-Monday night, but we can`t rule that out yet. Due to the frontal
-passage, the SFO-WMC gradient has been on a roller coaster from
--11 mb to +3 mb and now back to slightly negative and quickly
- falling. This all happened over the last 24 hours. As the surface
- high builds behind the front, the gradient will stabilize through
- the weekend, somewhere around -8 to -12 mb. This will continue to
- encourage dry, offshore winds and clear skies. By Monday, a E-W
- oriented short wave trough will move quickly through California
- and become cut-off west of the Channel Islands. This disturbance
- won`t bring much more than a pretty sunrise to the region,
- however, as PWAT percent of normal will only jump from 30-50%
- over the weekend to 50-70% Monday and quickly fall again Tuesday.
- The biggest effect will be on wind direction. The gradient
- between the unmoving low pressure off the coast of S.
- California/N. Mexico and high pressure over the Intermountain
- West will continue to support 925 mb NE winds across the North
- Bay, but shift to E winds in the Central and South Bay, and
- support uncommon SE winds along the Central Coast. These dry,
- offshore winds will support clear skies which means cold nights.
- Many areas will drop into the mid 30s for several days this week.
- The wind speed should decrease through the week as the low
- pressure system gradually weakens without any upper level
- support. Cluster analysis shows the following system will likely
- be another positively tilted trough next weekend, but
- fortunately none of the ensemble clusters have it getting cut-
- off, so hopefully it will be a little more progressive. Overall
- though, the long wave pattern will continue to support an omega
- block centered over the E Pacific, and there is no rain in the
- forecast through at least next weekend. Both GFS and ECMWF
- ensemble members support this, though the uncertainty really
- balloons in the following week (starting Jan 20th). The mostly
- likely outcome is that January will fall well short of normal
- rainfall, possibly averaging around 10% if we don`t get much help
- in the final week of the month.
+On Monday, a fast moving short wave trough will move from N to S
+across California, eventually becoming cut-off west of Southern
+California. This will transform the pattern from an Omega block
+to a Rex block (high pressure north of low pressure), which will
+be with us through the majority of the week. While there is some
+discrepancy in the ensemble clusters, the most likely outcome is
+that the low will eventually dissipate or perhaps hitch a ride to
+the East, as the ridge retreats back to the Eastern Pacific. In
+other words a return to a very stable Omega blocking pattern by
+next weekend. All this means that there is still no rain in the
+official forecast through the 18th and the global ensembles show
+this dry period has a 90% chance to extend through the 25th and
+likely beyond. The pattern this week will also support some
+offshore winds, though the strength should decrease substantially
+by mid-week. With enhanced radiational cooling, morning
+temperatures will be chilly. The 850 mb temp is hovering between
+the 50th and 75th percentile, so we are not expecting wide-spread
+freezing temperatures, but most inland areas will drop into the
+30s before the sun comes up.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 421 AM PST Sat Jan 11 2025
+Issued at 416 AM PST Sun Jan 12 2025
 
-VFR through the TAF period. Light and variable winds turn northerly
-and breezy in the mid to late morning with some of more favored
-windy areas seeing gusty winds through much of the day. Winds reduce
-into the night, becoming light into early Sunday.
+VFR through the TAF period. Moderate winds last through the mid
+morning before reducing. Northerly winds build this afternoon for
+all but the Monterey Bay sites. Winds ease into the evening but
+northeast winds return in the late night for the North Bay and SF
+Bay sites. Southeast drainage winds look to affect the Monterey Bay
+terminals into early Monday.
 
-
-Vicinity of SFO...VFR through the TAF period. Northerly winds
-increase the mid morning with gusts around 25 kts expected. Gusts
-reduce into the early night, but winds stay moderate through early
-sunday before becoming light and variable.
+Vicinity of SFO...VFR through the TAF period. Moderate northerly
+winds last into the afternoon before turning more westerly. Expect
+light and variable winds into the early night, but winds look to
+turn northeast and become moderate to breezy into early Monday.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...VFR through the TAF period. Winds stay
-light through much of the morning, but become breezy in the
-afternoon as they turn north and northwest. Winds reduce in the
-evening and become light into the night.
+Monterey Bay Terminals...VFR through the TAF period. Southeast winds
+last through the morning before becoming light and variable at MRY
+while SNS sees moderate northwest winds into the afternoon. Winds at
+SNS reduce into the night but southeast drainage winds build into
 
 &&
 
 .MARINE...
-(Today through Thursday)
-Issued at 421 AM PST Sat Jan 11 2025
+(Today through Friday)
+Issued at 853 AM PST Sun Jan 12 2025
 
-Expect strong and gusty northerly winds through much of the day.
-Wave heights build to 10 to 15 feet and remain elevated through
-the weekend. The strongest winds will be located over the northern
-outer waters where gale force gusts are likely through the
-weekend. Seas reamin elevated into the start of the upcoming
-workweek, but winds look to reduce later into the week.
+Strong winds continue across portions of the northern outer
+waters with gale force gusts. Breezy to gusty winds continue for
+the waters through the day, but look to ease into the work week.
+Hazardous conditions for small crafts will persist through Monday
+with elevated wave heights between 10 to 15 feet expected.
+Significant wave heights will remain elevated through the early
+work week but will subside below small craft criteria by mid
+week.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
 CA...Coastal Flood Advisory until noon PST today for CAZ006-506-508.
 
-     Wind Advisory until 10 AM PST Sunday for CAZ504-512-514-515.
+PZ...Small Craft Advisory from 3 AM to 3 PM PST Monday for Pt Reyes
+     to Pigeon Pt 0-10 nm-SF Bay N of Bay Bridge.
 
-     Frost Advisory until 9 AM PST this morning for CAZ516>518.
-
-PZ...Gale Warning until 3 AM PST Sunday for SF Bay N of Bay Bridge.
-
-     Small Craft Advisory until 9 AM PST Sunday for Mry Bay-Pigeon Pt
-     to Pt Pinos 0-10 nm-Pt Reyes to Pigeon Pt 0-10 nm.
-
-     Small Craft Advisory until 3 PM PST Sunday for Pt Arena to Pt
+     Small Craft Advisory until 3 PM PST Monday for Pt Arena to Pt
      Reyes 0-10 nm.
 
-     Small Craft Advisory until 3 AM PST Sunday for Pt Pinos to Pt
-     Piedras Blancas 0-10 nm.
+     Small Craft Advisory until 9 AM PST this morning for Pigeon Pt
+     to Pt Pinos 0-10 nm-Pt Reyes to Pigeon Pt 0-10 nm.
 
-     Gale Warning until 3 PM PST Sunday for Pt Arena to Pt Reyes 10-
+     Gale Warning until 9 AM PST Monday for Pt Arena to Pt Reyes 10-
      60 NM.
 
-     Small Craft Advisory until 3 AM PST Monday for Pigeon Pt to Pt
+     Small Craft Advisory until 9 AM PST Monday for Pigeon Pt to Pt
      Pinos 10-60 NM.
 
 &&
@@ -206,7 +157,7 @@ $$
 SHORT TERM...Flynn
 LONG TERM....Flynn
 AVIATION...Murdock
-MARINE...Murdock
+MARINE...RGass
 
 Visit us at www.weather.gov/sanfrancisco
 
