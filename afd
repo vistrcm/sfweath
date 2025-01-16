@@ -1,125 +1,120 @@
 
-286
-FXUS66 KMTR 151124
+025
+FXUS66 KMTR 161129
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-324 AM PST Wed Jan 15 2025
+329 AM PST Thu Jan 16 2025
 
-...New AVIATION, MARINE, BEACHES...
+...New AVIATION, MARINE...
 
 .SYNOPSIS...
-Issued at 1054 PM PST Tue Jan 14 2025
+Issued at 1153 PM PST Wed Jan 15 2025
 
-Mostly clear skies, dry weather, light winds, cold mornings and
-mild afternoons will continue through the week.
+Quiet weather continues for the next several days, with some
+marine layer stratus this weekend. There is an increasing
+potential for strong offshore winds early next week.
 
 &&
 
 .SHORT TERM...
-(Tonight through Thursday)
-Issued at 1054 PM PST Tue Jan 14 2025
+(Tonight through Friday)
+Issued at 1153 PM PST Wed Jan 15 2025
 
-While low elevation temperatures are running a degree or two
-colder than 24 hours ago, surface dew points are around 5 degrees
-higher than last night. This will put a limit on the cooling
-tonight, as moist air cools much less efficiently than dry air.
-As a result, the minimum temps will be a few degrees higher than
-yesterday and there may be some mist in the air near river
-valleys. Despite this, it will still be a chilly start across the
-Bay Area and Central Coast with temperatures dropping into the
-upper 30s and low 40s across the Bay Area, and down to the low 30s
-across inland portions of the Central Coast. After the chilly
-start, it will be another beautiful day with plenty of sunshine,
-high temps in the 60s and light winds.
+Inland temperatures are dropping quickly again overnight, and the
+dew points are a couple degrees higher than yesterday. As such,
+there is a better chance for some mist and fog this morning across
+the typical inland valleys. 3 of the ingredients are in place for
+radiational fog; calm, clear and cool. The only missing piece is
+moisture. While surface dew points have increased over the last
+few days, light offshore winds are keeping the moisture below
+average for this time of year. The 00Z sounding found a PWAT of
+0.39", which is right at the 25th percentile for this time of
+year. Thursday will be a rinse and repeat of Wednesday. Clear
+skies, cool morning, and light offshore winds.
 
 &&
 
 .LONG TERM...
-(Thursday night through next Tuesday)
-Issued at 1054 PM PST Tue Jan 14 2025
+(Friday night through next Wednesday)
+Issued at 1153 PM PST Wed Jan 15 2025
 
-There are some interesting developments in the long term forecast.
-The overall pattern continues to be dominated by high pressure
-offshore, and Wednesday and Thursday will be very similar to
-the previous few days. By Friday, a weak cold front will move
-through from the north, bringing cooler temperatures and some
-clouds (no rain) back to the Bay Area skies. The 1000-500 mb
-thickness and 850 mb temperature will only drop slightly, but the
-disturbance will bring the return of onshore flow, and even a
-marine layer. Remember the marine layer? The cold front will also
-cause the max and min temps to drop, and more widespread frost
-advisories are expected this weekend into early next week. The
-onshore wind won`t last long. While the uncertainty balloons by
-Saturday, it looks like there will be a return to offshore winds.
-There is now a bi-modal solution in the ensemble guidance
-regarding how strong these winds will be. The deterministic SJSU
-2km WRF with GFS boundary conditions shows the SFO-WMC gradient
-dropping below -18 mb by Monday. This would bring critical
-offshore winds with hydraulic jumps and gusts in the 60-80 mph
-range. However, a peak at the ensemble solutions show roughly 50%
-support for this high end event, with the other members much less
-aggressive, huddled around -4 mb. There are no solutions in the
-vast gap between these two. This makes the forecast extremely
-tricky. On one hand, it might make sense to split the difference
-and go with the ensemble mean. The problem is that the mean has no
-support in the individual solutions. The other option is to pick
-one of the 2 extremes and message the uncertainty. That`s what we
-will do for now. I am going with the weak scenario since it has
-been more consistent in previous model runs. However, this new
-emerging solution is too strong to ignore, so we will begin
-messaging the possibility of very strong offshore winds. Just know
-it can still go either way. While there is plenty of time for the
-guidance to change, right now it looks like the winds will either
-be gentle or just about as strong as they get on Monday. Stay
-tuned.
+The cut-off low west of Baja will finally begin to move on
+Friday, bringing more interesting weather. The subtropical jet
+stream will move north and push the feature back inland, where it
+will be picked up by the PFJ. At the same time, a short wave
+trough will move downstream of the ridge axis at 500 mb, bringing
+a weak, rainless cold front across the Bay Area. The combination
+of the low evacuating and higher pressure returning behind the
+cold front will bring back the typical onshore, NNW flow starting
+Friday. This will also allow a marine layer to develop, with
+periodic stratus and possible fog finally ending our sunshine
+streak. This pattern will only last for a few days before offshore
+winds return early next week.
 
-If you`re here to see if it`s going to rain anytime soon, it`s
-not. We`re looking dry through the end of next week, at least.
+The most interesting aspect of the forecast is how strong the
+offshore winds will be next week. We`ll start with Monday. The
+overall pattern has very cold air moving through the majority of
+the US, supported by extremely high pressure at the surface. In
+fact there is a area from Western Montana to SE Wyoming on Monday
+where the NAEFS mean MSLP is outside of the 1979-2009 CFSR
+climatology from January 10 through January 31. The surface
+pressure looks to build to at least 1045 mb in that area. With
+pressure that high inland, it makes sense that there will be
+strong, down gradient flow, especially across the higher terrain.
+While the global deterministic models have backed off, there is
+still good support for a strong offshore event in ensemble space.
+The SJSU WRF SFO-WMC pressure gradient still shows a bi-modal
+solution with the more aggressive models dropping to around -20
+mb. That`s about as low as we have ever seen, and would support a
+major wind event across the North Bay Mountains. The uncertainty
+is still quite high. There is now a second, possibly stronger push
+of offshore winds possible next Wednesday. Unfortunately, both of
+these events will likely bring strong dry winds back to southern
+California.
+
+When will it rain? It still looks dry through the forecast. For
+what it`s worth, the GFS ensemble mean suggests the East Pacific
+Oscillation will move back to a positive (wet) phase around the
+29th, while the ECMWF ensemble mean holds on to the negative
+phase through February 4th. We`re trying to find rain for you, but
+just not seeing it yet.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 320 AM PST Wed Jan 15 2025
+Issued at 323 AM PST Thu Jan 16 2025
 
-Generally VFR with some patchy fog (IFR to MVFR) in the N Bay.
-Winds generally light and variable/to drainage flow. Patchy fog
-again Thursday morning.
+VFR again most areas...with the exception of STS. MVFR vis for
+KSTS this morning. VFR all areas this afternoon with relatively
+light winds. Low level moisture increases tonight leading to
+shallow cigs.
 
-Vicinity of SFO...VFR.
+Vicinity of SFO...VFR today. Cigs AOB 1k ft late tonight and early
+Friday.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...VFR.
+Monterey Bay Terminals...VFR. Shallow cigs develop this evening
+and will linger through Friday AM.
 
 &&
 
 .MARINE...
-(Today through Monday)
-Issued at 320 AM PST Wed Jan 15 2025
+(Today through Tuesday)
+Issued at 323 AM PST Thu Jan 16 2025
 
-High pressure to the north will keep light and variable winds over
-the coastal waters. Winds will ultimately become more northerly
-by Thursday. Northerly winds will gradually increase on Friday
-and persist into the weekend. Seas will build over the weekend
-with increasing winds.
-
-&&
-
-.BEACHES...
-Issued at 322 AM PST Wed Jan 15 2025
-
-Still some energetic surf zone early on Wednesday with a moderate
-period northwest swell. The northwest swell will gradually
-subside later Wednesday. There is a slight risk of sneaker waves.
-Remember to never turn your back on the ocean.
+Light to moderate winds will persist over the coastal waters
+Thursday. Winds will gradually increase and become more northerly
+on Friday. Seas will increase over the weekend.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
-CA...Frost Advisory until 9 AM PST this morning for CAZ516>518.
+CA...Frost Advisory until 9 AM PST this morning for CAZ506-510-513-
+     516>518.
 
 PZ...None.
 &&
