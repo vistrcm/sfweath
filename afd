@@ -1,31 +1,33 @@
 
-498
-FXUS66 KMTR 081545
+549
+FXUS66 KMTR 091526
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-845 AM PDT Tue Apr 8 2025
+826 AM PDT Wed Apr 9 2025
 
-...New UPDATE, MARINE...
+...New UPDATE...
 
 .SYNOPSIS...
-Issued at 405 AM PDT Tue Apr 8 2025
+Issued at 323 AM PDT Wed Apr 9 2025
 
-Pleasant spring weather is expected through the extended forecast.
-The warmest days will be Wednesday and Thursday with inland
-temperatures in the 70s and 80s, and 60s near the coast.
+A ridge of high pressure across the west coast will result in mostly
+sunny skies, above normal temperatures and light winds for the
+second half of the work week, with minor HeatRisk concerns in the
+afternoon.
 
 &&
 
 .UPDATE...
-Issued at 838 AM PDT Tue Apr 8 2025
+Issued at 821 AM PDT Wed Apr 9 2025
 
-Fog is the primary short term hazard this morning, particularly in
-coastal and valley locations. Visible satellite imagery does show
-a trend in the right direction with fog beginning to dissipate
-with the help of offshore/downslope winds. Other than that, the
-forecast remains on track with no updates needed at this time.
+Visible satellite shows just a few clouds over the region this
+morning which will allow for temperatures to rise efficiently
+before onshore flow kicks in. Today will be the warmest day of the
+week. We will be monitoring temperatures closely to see how the
+NBM deterministic and probabilistic forecasts perform,
+particularly along the coast.
 
 Sarment
 
@@ -33,80 +35,68 @@ Sarment
 
 .SHORT TERM...
 (Today and tonight)
-Issued at 405 AM PDT Tue Apr 8 2025
+Issued at 323 AM PDT Wed Apr 9 2025
 
-Zonal upper level synoptic flow will begin to gradually transition
-into amplified ridging today and begin a pleasant spring warming
-trend. Weak onshore flow at the surface will allow scattered low
-level stratus to linger along portions of the coast most of the day
-with more clearing inland. Temperatures will be close to normal
-along the coast and at or slightly above normal for the rest of our
-area. As the upper ridge begins to amplify and axis develops to our
-east, we`ll see weak offshore flow develop overnight limiting low
-stratus development overnight and more mild overnight lows into
-early Wednesday morning that we`re seeing early this morning.
+Upper level ridging will continue to gradually amplify today,
+steering high cirrus clouds to our north. The mostly sunny skies,
+light winds and above normal temperatures will result in beautiful
+weather area wide today. As the ridge axis shifts farther inland
+tonight, a return of weak onshore flow and a weak marine layer will
+bring a return to some stratus development along the coast tonight
+into Thursday morning. There is minor HeatRisk associated with the
+warm up the next few days, with no other impactful weather concerns
+through the extended forecast.
 
 &&
 
 .LONG TERM...
-(Wednesday through Monday)
-Issued at 405 AM PDT Tue Apr 8 2025
+(Thursday through Tuesday)
+Issued at 323 AM PDT Wed Apr 9 2025
 
-As the upper level ridging pattern continues to amplify through the
-middle of the week we`ll see the warmest temperatures tomorrow and
-Thursday with weak offshore flow limiting marine layer development
-along the coast. Mostly sunny skies inland will see temperatures in
-the 70s to low 80s especially the farther south you go into the
-valleys of the Central Coast. A return of weak onshore flow out
-ahead of a developing trough late Wednesday into Thursday will
-result in more low level stratus development Wednesday night and
-Thursday morning from the Santa Cruz mountains north into the North
-Bay. A return of boundary layer offshore flow late Thursday and
-Friday will limit marine layer development once again. There may be
-some coastal drizzle where the marine layer is able to develop but
-otherwise the forecast is dry through the extended forecast area
-wide. Cooler temperatures closer to normal for this time of year can
-be expected by next weekend as the upper level ridging shifts to our
-east.
+As the upper ridging pattern shifts farther inland a developing
+trough in the Gulf of Alaska will struggle to dig far enough south
+to influence weather around our area. The lower H50 heights and weak
+backdoor cold front pushing south from the troughing to our north
+will cool temperatures closer to normal for the weekend and the
+remainder of the extended forecast. Expect dry conditions across our
+whole area through the extended forecast with the exception of any
+drizzle along the coast from weak marine layer development.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 422 AM PDT Tue Apr 8 2025
+Issued at 421 AM PDT Wed Apr 9 2025
 
-Areas of low clouds and fog /LIFR-IFR-MVFR/ will increase in
-coverage through early this morning. Otherwise skies mostly
-clearing today from late morning onward with some lingering
-high clouds.
+A few patches of fog may develop this morning otherwise it`s VFR.
+Coastal low clouds and fog developing tonight and Thursday morning.
 
-Vicinity of SFO...MVFR ceiling until 16z today. Clearing 16z
-today with VFR for the rest of the day. Breezy onshore wind to 17
-to 24 knots in the afternoon to mid evening.
+Vicinity of SFO...VFR. Mainly west wind 5 to 10 knots with afternoon
+gusts 12 to 15 knots.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...Areas of low clouds and fog /LIFR-IFR/ then
-patchy MVFR ceilings during late morning. Clearing in the afternoon
-with VFR into the evening.
+Monterey Bay Terminals...VFR today, IFR due to low clouds forming
+tonight and Thursday morning. Light winds becoming west to northwest
+10 to 15 knots in the afternoon.
 
 &&
 
 .MARINE...
-(Today through Sunday)
-Issued at 838 AM PDT Tue Apr 8 2025
+(Today through Monday)
+Issued at 323 AM PDT Wed Apr 9 2025
 
-High pressure over the California coastal waters will keep light
-to moderate northerly flow in place. Winds will be locally
-stronger Tuesday afternoon south of Point Sur. Gradual improvement
-of the sea state as swell heights subside through midweek.
+Breezy winds continue today for areas south of Point Sur. Expect
+a gradual improvement of the sea state as swell heights subside
+through midweek. Winds increase late this week and a larger swell
+will rebuild this weekend.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...Small Craft Advisory from 3 PM this afternoon to 3 AM PDT
-     Wednesday for Pt Pinos to Pt Piedras Blancas 0-10 nm.
+PZ...Small Craft Advisory from 9 AM to 3 PM PDT Thursday for Pt Pinos
+     to Pt Piedras Blancas 0-10 nm.
 
 &&
 
@@ -115,7 +105,7 @@ $$
 SHORT TERM...JM
 LONG TERM....JM
 AVIATION...Canepa
-MARINE...MM
+MARINE...Canepa
 
 Visit us at www.weather.gov/sanfrancisco
 
