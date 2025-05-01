@@ -1,137 +1,146 @@
 
-381
-FXUS66 KMTR 301123
+713
+FXUS66 KMTR 011129
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-Issued by National Weather Service Eureka CA
-423 AM PDT Wed Apr 30 2025
+429 AM PDT Thu May 1 2025
 
 ...New AVIATION, MARINE...
 
 .SYNOPSIS...
-Issued at 1203 AM PDT Wed Apr 30 2025
+Issued at 108 AM PDT Thu May 1 2025
 
-While we could see some fog and a few isolated rain drops today,
-overall fair conditions will persist through Friday. A cold front
-will bring strong winds, cooler temperatures, and a slight chance
-for rain this weekend.
+Fairly standard weather continues through Friday with warm inland
+temperatures and cooler, cloudy weather in the marine layer. A
+disturbance will bring strong winds and cooler temperatures
+Saturday.
 
 &&
 
 .SHORT TERM...
 (Today and tonight)
-Issued at 1203 AM PDT Wed Apr 30 2025
+Issued at 108 AM PDT Thu May 1 2025
 
-The threat for fog returns later this morning. The marine layer is
-currently around 1,000 feet according to area profilers. With some
-light dry offshore wind in the North Bay, the best chance for fog
-is along the San Francisco Peninsula coast and Monterey Bay
-region, including Big Sur and the Salinas Valley. A few upper
-level clouds and some wind could limit radiation fog, but even so,
-the typical foothill locations will almost certainly be dealing
-with reduced visibility in the marine layer cloud deck. Slightly
-elevated coastal areas such as Corallitos and Hurricane Point
-have the best chance.
-
-A weak short wave trough is moving from north to south across
-California today. This system will bring slightly colder air to
-the upper levels while the surface temperature remains warm. With
-relatively high moisture (PW around 0.8") and conditionally
-unstable lapse rates, there is a chance for some isolated
-convection today. In fact the HRRR, NAM, and ECMWF deterministic
-model soundings for Santa Rosa all agree that the MUCAPE will
-exceed 1,000 J/kg this afternoon. On the other hand, some weak
-offshore winds will keep the low-level moisture suppressed and
-there will be a bit of convective inhibition below the LCL. Most
-likely if this convection is realized, it will only create some
-puffy cumulus clouds. There is very little support in the guidance
-for thunderstorms, or even rain, but there is still a non-zero
-chance based on the instability and relatively high integrated
-moisture.
+The enhanced IR satellite view shows extensive marine layer
+stratus across the Bay Area and Central Coast. Interestingly the
+stratus is filling the Salinas Valley all the way to Paso Robles,
+while further north it`s hardly reaching the East Bay. This
+suggests the marine layer depth is not uniform. The Ft. Ord
+profiler reveals a depth of 2,500 feet in Monterey County,
+compared to 1,000-1,500 feet near the San Francisco Bay according
+to the PGE-WRF. This depth difference is caused by a weak
+disturbance in the 500 mb ridge over Southern California, while
+the ridge axis moves over Northern California. Basically there is
+less air pushing down on the marine layer over the Central Coast
+compared to the Bay Area, which is allowing the marine layer to
+expand deeper with decreasing latitude. The pattern is pretty slow
+to evolve through the day, and this trend will likely hold.
+Inland and higher elevation areas will have another nice day in
+the mid 70s with plenty of sunshine. There is a slight chance of
+convection, mainly east and south of the Bay Area, though SPC has
+placed southern Monterey and San Benito counties in a general
+thunder risk today. With cold air aloft there is good instability
+this afternoon (HRRR shows 1000 J/kg of CAPE at Paso Robles), but
+it`s elevated above some moderate inhibition, and the CAMs don`t
+show any activity developing.
 
 &&
 
 .LONG TERM...
-(Thursday through Tuesday)
-Issued at 1203 AM PDT Wed Apr 30 2025
+(Friday through Wednesday)
+Issued at 108 AM PDT Thu May 1 2025
 
-By Thursday the weak disturbance and associated instability will
-move into southern California. This will allow the ridge to
-rebuild over northern and central California, bringing us another
-day of warm inland temperatures and cool marine layer conditions
-along the coast. Temperatures will start to fall a bit on Friday
-as a much more robust trough approaches the coast. This system
-will support a fast moving cold front at the surface late Friday
-or early Saturday, and could bring some pre-frontal rain. The
-models have almost universally backed off on the rain chances, but
-we still have PoPs around 15%. While we expect overcast skies and
-much cooler temperatures, the biggest story with this system is
-wind. The trough will spawn a cut-off low that moves into Southern
-California by Saturday. The gradient between the low and higher
-pressure over the Eastern Pacific will support 50-70 mph winds at
-500 mb. As the atmosphere becomes well mixed Saturday afternoon,
-some of this momentum will transfer down to the surface where NW
-winds of 15-30 mph, and gusts as high as 50 mph are expected. The
-strongest winds will be along the coast and in higher terrain.
-
-By Sunday the low will start to move inland towards the desert
-Southwest. We will still be dealing with lingering strong winds,
-but it should be an improvement over Saturday. Early next week a
-ridge will start to rebuild, decreasing the wind speed and causing
-the temperatures will gradually recover. By mid-week we should be
-back to the nice seasonal weather we`ve had this week.
+By Friday a long wave trough will begin to approach the coast.
+This system has been slowing down in recent model runs, which
+should allow the relatively good weather to continue through
+Friday before the cold front brings overcast skies Friday night.
+Any rain associated with this system should be very light as the
+PWAT only reaches around 0.8" and the moisture plume is pretty
+narrow and fast moving ahead of the surface front. By the time the
+sun comes up on Saturday, the front may have already passed
+allowing the skies to gradually clear through the day as much
+drier air filters in. By far the biggest impact will be strong NW
+winds in the post-frontal environment. Subtropical high pressure
+will build over the Eastern Pacific while the surface low
+associated with the cold front moves N-S across Eastern
+California. The gradient between these two features will support
+wind speeds of 15-30 mph with gusts as high as 35-50 mph. The
+strongest winds will be along the coast Saturday afternoon. Strong
+winds will persist Sunday as the low bottoms out around 1004 mb
+near Las Vegas Sunday morning. Despite the wind, the skies will be
+clear and temperatures will start to rebound. Improvement
+continues into next week with offshore winds possible Monday and
+a new ridge becoming established mid-week. Temperatures will
+return to a nice seasonal normal and the marine layer may even
+take a few days off to give coastal areas some sunshine.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 406 AM PDT Wed Apr 30 2025
+Issued at 417 AM PDT Thu May 1 2025
 
-Currently a mixed bag of VFR-IFR at the terminals. The marine
-layer depth is at 1,600 feet and is expected to deepen as a
-shortwave trough traverses the region from north to south. As a
-result, ceilings and visibilities will be relatively higher in
-addition to being able to mix out relatively quicker. VFR is
-expected by this afternoon with clouds sticking to the coast.
-Winds will be diurnal through the TAF period.
+Currently a mixed bag of VFR-IFR at the terminals. A relatively
+deep marine layer of 2,300 feet has been allowed to penetrate
+inland bringing IFR/MVFR ceilings to all terminals except SFO so
+far, but that luck will run out shortly as stratus is converging
+on the terminal. VFR is expected by this afternoon at all
+terminals but HAF. The pattern will remain relatively unchanged
+through the TAF period as the region remains under a mini Rex
+block. Moderate onshore winds will prevail through the TAF period.
 
-Vicinity of SFO...Currently VFR with westerly flow. It`s going to
-be another nail biter this morning with IFR/MVFR stratus to the
-north of OAK and SFO within the San Francisco Bay. The time period
-of possibility for stratus to make a run at the terminal is
-between now and 17Z.
+Vicinity of SFO...Currently VFR with northerly flow. The terminal
+is expected to deteriorate to MVFR as stratus continues to close
+in on the terminal. VFR and moderate westerly winds will prevail
+by this afternoon.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...Currently IFR with westerly flow at MRY
-and IFR with northerly flow at SNS. Both terminals will begin to
-gradually improve by mid-to-late morning, but low clouds are
-expected to hug the coast throughout the day. Diurnal winds will
-prevail through the TAF period with a return to IFR conditions
-towards the end of the TAF period.
+Monterey Bay Terminals...Currently IFR with southwesterly flow at
+MRY and IFR with westerly flow at SNS. VFR is expected by this
+afternoon with clouds lingering at the coast. IFR conditions
+return again this evening.
 
 &&
 
 .MARINE...
-(Today through Monday)
-Issued at 406 AM PDT Wed Apr 30 2025
+(Today through Tuesday)
+Issued at 417 AM PDT Thu May 1 2025
 
-Strong northwesterly breezes with near-gale force gusts will
-continue over the outer waters through Thursday morning along
-with rough seas. Strong northwesterly breezes return Friday
-afternoon, strengthening to become gale-force by Saturday. Rough
-seas return to the outer waters by Saturday.
+Moderate to strong northwesterly breezes and moderate seas will
+prevail through Friday. Widespread hazardous marine conditions
+are expected over the weekend and into early next week in the form
+of gale-force northerly winds with up to storm-force gusts
+possible. Rough to very rough seas are also forecast for the
+weekend.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...Small Craft Advisory until 9 AM PDT this morning for Pigeon Pt
-     to Pt Pinos 10-60 NM-Pt Arena to Pt Reyes 0-10 nm.
+PZ...Small Craft Advisory from 3 PM Friday to 9 AM PDT Saturday for
+     SF Bay N of Bay Bridge.
 
-     Small Craft Advisory until 3 PM PDT Thursday for Pt Arena to Pt
+     Small Craft Advisory from 9 AM Friday to 9 AM PDT Saturday for
+     Mry Bay-Pigeon Pt to Pt Pinos 0-10 nm-Pt Reyes to Pigeon Pt
+     0-10 nm.
+
+     Gale Watch from Saturday morning through late Saturday night for
+     Mry Bay.
+
+     Small Craft Advisory from 3 AM Friday to 9 AM PDT Saturday for
+     Pigeon Pt to Pt Pinos 10-60 NM-Pt Arena to Pt Reyes 0-10 nm-
+     Pt Pinos to Pt Piedras Blancas 0-10 nm.
+
+     Gale Watch from Saturday morning through Sunday morning for
+     Pigeon Pt to Pt Pinos 0-10 nm-Pigeon Pt to Pt Pinos 10-60
+     NM-Pt Arena to Pt Reyes 0-10 nm-Pt Arena to Pt Reyes 10-60
+     NM-Pt Pinos to Pt Piedras Blancas 0-10 nm-Pt Reyes to
+     Pigeon Pt 0-10 nm.
+
+     Small Craft Advisory until 9 AM PDT Saturday for Pt Arena to Pt
      Reyes 10-60 NM.
 
 &&
