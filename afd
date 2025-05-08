@@ -1,152 +1,169 @@
 
-493
-FXUS66 KMTR 071633
+552
+FXUS66 KMTR 081633
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-933 AM PDT Wed May 7 2025
+933 AM PDT Thu May 8 2025
 
-...New MARINE...
+...New UPDATE, MARINE...
 
 .SYNOPSIS...
-Issued at 112 AM PDT Wed May 7 2025
+Issued at 309 AM PDT Thu May 8 2025
 
-Warm and dry conditions through Saturday, unsettled weather
-returns the second half of the weekend.
+Warm and dry conditions through Saturday, unsettled weather Sunday
+and into early next week.
 
 &&
 
 .UPDATE...
-Issued at 919 AM PDT Wed May 7 2025
+Issued at 905 AM PDT Thu May 8 2025
 
-A very deep marine layer is bringing stratus throughout all of the
-North Bay, although dry air is keeping some parts of the remaining
-interior Bay Area scattered. The biggest forecast challenge today
-is high temperatures Friday-Saturday. Our current forecast is
-based entirely on the National Blend of Models deterministic
-output, which is running near the 25th percentile of the NBM
-ensemble mean. While there is little uncertainty with the pattern
-through Saturday, small changes in wind direction can have a big
-impact/ For example, I looked back at past years when the 850 mb
-temperature was measured between 17-18 C during the middle 2
-weeks of May. While this is in the 90th percentile of
-observations, the high temperature at King City has ranged from
-75F to 98F within my small random sample of 6. This obviously
-could have a big impact on any possible heat advisory for the
-Southern Salinas Valley and, once I figure out the official
-forecast blend, I will discuss my methods and reasoning on the
-afternoon AFD.
+The marine layer fog and stratus is eroding and retreating back to
+the coast. The reported visibility has increased above 1 mile at
+Santa Rosa, Petaluma, and Gnoss Field. Traffic cameras have also
+shown improvement along the 101-corridor through the mid-morning.
+As such, the Dense Fog Advisory for the North Bay Interior
+Valleys has been allowed to expire as planned at 9 AM. We have two
+main forecast challenges today. First is the temperature forecast
+during the warm snap from Fri-Sat. This is particularly
+interesting for the Southern Salinas Valley, where our current
+forecast is right on the cusp of triggering enough HeatRisk to
+justify a Heat Advisory. My concern is that our current forecast
+may not be warm enough. Both the ECMWF deterministic and ensemble
+based MOS data show 101 at Paso Robles on Friday, while Oxnard`s
+forecast gets to 97. This is typically a decent proxy for the
+southerly Salinas Valley in Monterey County (our responsibility).
+On the other hand, up valley winds make it a bit trickier. King
+City and areas north will likely get some marine air influence.
+Regardless, there is a decent chance we will issue a Heat
+Advisory after the next forecast update this afternoon. The
+second challenge is rain on Monday. Our current forecast keeps
+light rain confined to the North Bay, but there is a lot of
+guidance coming in that shows up to 1/10th or more is possible
+throughout our CWA. While this still isn`t terribly impactful, I
+do expect a significant increase in both the POP and QPF forecast
+this afternoon.
 
 &&
 
 .SHORT TERM...
 (Today and tonight)
-Issued at 112 AM PDT Wed May 7 2025
+Issued at 309 AM PDT Thu May 8 2025
 
-Zonal flow will result in a pretty average Bay Area and Central
-Coast day, at least weather wise. Temperatures will be near seasonal
-normals and diurnal winds will return this afternoon. The marine
-layer is being observed at 3,000 feet at the Fort Ord Profiler.
-Satellite shows stratus filling in coastal and valley locations and
-continuing to expand with the possibility of drizzle through the
-morning. Stratus is expected to retreat towards and remain
-confined to the coast during the afternoon hours. A dry cold front
-will bring high cloud cover to the region this afternoon, so
-perhaps a beautiful sunset is on tap for this evening.
+The Fort Ord profiler shows the marine layer being observed around
+3,000 feet; however, satellite is modest given the depth (not
+penetrating as far inland as it did last night with the same depth).
+Satellite trends show stratus continuing to expand, but expect it to
+be slower and less expansive than normal. Two reasons for this are:
+high clouds from a dry cold front and downslope flow. Another
+byproduct of this is temperatures are generally lower than they
+were 24 hours ago due to less insulation. In fact, San Francisco
+Downtown (SFOC1) will come close to its daily minimum temperature
+record of 46 degrees set in 1999, the current forecast has the
+official minimum temperature of 49 degrees occurring this morning.
+Heights will rise today as the upper-level shortwave ridge builds
+into the West. Subsidence aloft will allow for the marine layer to
+compress and retreat towards the coast by this afternoon and only
+impact coastal locations overnight. The warming trend continues
+today with moderate HeatRisk in the Southern Salinas Valley and
+minor HeatRisk elsewhere. Temperature wise this translates to
+temperatures being around 10 degrees above normal away from the
+immediate coast.
 
 &&
 
 .LONG TERM...
-(Thursday through Tuesday)
-Issued at 112 AM PDT Wed May 7 2025
+(Friday through Wednesday)
+Issued at 309 AM PDT Thu May 8 2025
 
-20 degrees above normal Friday to 20 degrees below normal Tuesday is
-the definition of a spring roller coaster, buckle up. The warming
-trend kicks off Thursday as an upper-level shortwave ridge begins
-to build in to the West. Friday will be the warmest day of the
-week with moderate HeatRisk in the Southern Salinas Valley and
-minor HeatRisk elsewhere. Heights begin to fall as the upper-level
-shortwave ridge shifts eastward and troughing begins to develop
-off the West Coast. There still remains uncertainty in the
-strength and subsequently location and timing of the upper-level
-low/trough, but generally speaking expect cool and windy
-conditions, an increase in cloud cover, and light rain in the
-North Bay the second half of the weekend and into early next week.
+Friday will be the warmest day of the week outside of interior
+Monterey and San Benito Counties with moderate HeatRisk expected in
+the Santa Clara Valley, East Bay Interior Valleys, and the Interior
+Central Coast with minor HeatRisk elsewhere. Due to the orientation
+of the upper-level shortwave ridge, Saturday will be the warmest day
+of the week for interior Monterey and San Benito Counties with
+moderate HeatRisk expected in this region as well as the East Bay
+Interior Valleys with minor HeatRisk expected elsewhere. To put all
+of this into context, all climate sites with the exception of San
+Jose have experienced temperatures at or above what the official
+forecast calls for so far this year either in late March or earlier
+this month with no records in jeopardy. Heights begin to fall Sunday
+as an upper-level low develops off the Pacific Northwest coast,
+nudging the upper-level shortwave ridge to the east. Global
+ensemble clusters diverge on solutions by Monday when 63% percent
+show a solution with an upper-level low off the Pacific Northwest
+Coast and 37% show an open wave somewhere over the West. Taking a
+deeper dive into the individual ensemble means, the Canadian, ECMWF,
+and GFS all show the same general pattern of an upper-level low off
+the Pacific Northwest Coast becoming an open wave at some point
+after it moves inland. The divergence comes in the digging, and thus
+the timing. The ECMWF digs farther into the region and thus its
+presence will be felt longer than the Canadian and GFS that only
+dig into Northern California and thus are more progressive. As we
+exit the wet season and enter the dry season, the greatest impact
+from this system will be wind as our attention turns toward fire
+weather. The ECMWF solution shows a northerly (drying) flow regime
+while the Canadian and GFS show an onshore flow regime. Light,
+beneficial rainfall is still on tap for the North Bay Monday.
+Temperatures will also plummet to 10 to 20 degrees below normal
+with the Oakland Museum (OAMC1) forecast to approach its daily
+minimum temperature records of 47 degrees set in 1974 on Tuesday
+and Wednesday, the official forecast is 50 degrees.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 500 AM PDT Wed May 7 2025
+Issued at 430 AM PDT Thu May 8 2025
 
-Stratus has penetrated much farther inland this morning, with
-satellite imagery showing the majority of our valleys and coastal
-areas blanketed by cloud cover. Sites have generally been reporting
-MVFR cigs overnight, though there were some periods of IFR cigs.
-Expect stratus to gradually erode throughout the morning leaving
-most TAF sites with VFR conditions for the afternoon. The exception
-looks to be at KHAF where the clouds should hug close enough to the
-coast to keep MVFR cigs in place and while sea spray continues to
-reduce visibility. Tonight, stratus surges inland again bringing
-another night of widespread MVFR cigs to much of the region. There
-is some uncertainty about East and South Bay valleys and sites,
-though opted to hint at the potential given that some hi-res model
-guidance is quite aggressive.
+Interesting a somewhat tricky set up this morning with a slightly
+abnormal marine layer due to a dry cold front washing out over the
+Bay Area. Bay Area TAFs as a later arrival of cigs/fog, but most
+terminals have cigs this morning. Cigs will lingering in the AM
+rush, but then VFR by this afternoon. Central Coast TAF had early
+arrival of cigs overnight with a deep push and clearing will be
+later - 18-19Z. Tonight...morning compressed marine layer with
+KMRY/KSNS primarily in the action. There`s a low chance(20%) for
+some cigs at other terminals late tonight/early Friday. Onshore
+flow kicks up this afternoon with gusts over 20 kt for KSFO.
 
-Vicinity of SFO...Stratus has more or less surrounded KSFO this
-morning with VFR conditions holding overnight. Guidance has tried to
-depict at the stratus closing in at the terminal for a few hours
-around sunrise this morning, but confidence is low to medium in that
-happening. Rather than carry BKN or OVC MVFR cigs for several hours,
-opted to hint at that potential with a TEMPO and keeping the
-prevailing as FEW010 or FEW015 later on this morning. We should see
-stratus retreat by mid to late morning, leave us with an afternoon
-of VFR conditions. Another tricky night is on tap, with models
-struggling on whether or not the stratus settles over SFO. Opted to
-hint at the possibility of MVFR cigs overnight but ultimately kept
-VFR conditions in place. This will likely be dependent on how strong
-the westerly moisture surge becomes.
+Vicinity of SFO...Cigs continue to fill in over SF Bay. Will have
+cigs clear 18-19Z. Gusts up to 25 kt this afternoon.
 
-SFO Bridge Approach...Similar to SFO.
+SFO Bridge Approach...Similar to SFO. Solid cigs for the approach
+with heights right around 1500 feet.
 
-Monterey Bay Terminals...We are substantially more socked in with
-stratus this morning compared to yesterday, with mainly MVFR to
-localized pockets of IFR being reported so far. Expect cloud cover
-to hold for the next couple of hours, and then gradually retreat as
-the sun comes out and mixes things up. The question for today will
-be, will the stratus retreat all the way to the coast and peninsula.
-Most guidance suggests yes for a few hours of VFR conditions this
-afternoon. The stratus surges back in this evening with another
-night of MVFR cigs. There are some signs of IFR cigs possible but
-opted to go with more of the persistence forecast based on the
-observations we`ve seen the last two nights.
+Monterey Bay Terminals...IFR through 18-19Z. Cigs return tonight,
+but super late.
 
 &&
 
 .MARINE...
-(Today through Monday)
-Issued at 933 AM PDT Wed May 7 2025
+(Today through Tuesday)
+Issued at 905 AM PDT Thu May 8 2025
 
-Moderate northwest winds persist over the northern coastal waters
-through this evening before fresh gusts build back in Wednesday
-night into Thursday. Elsewhere, gentle to moderate southerly winds
-will gradually turn northwesterly throughout the day. Moderate
-seas continue through the end of the forecast period. Moderate to
-fresh northwest winds will continue ease through this morning.
-Northerly winds strengthen Friday through Saturday with widespread
-fresh to strong gusts expected as an upper level trough moves
-inland.
+High pressure will build in from the north today and persist
+through Saturday. As such, building high pressure will maintain
+light to moderate northerly flow over the waters heading into the
+weekend. Winds will be locally stronger north of Point Reyes and
+along the Big Sur coast. Moderate seas continue through the end of
+the forecast period.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...Small Craft Advisory from 3 PM to 9 PM PDT Thursday for Pt Arena
-     to Pt Reyes 0-10 nm.
+PZ...Small Craft Advisory from 3 PM this afternoon to 3 AM PDT Friday
+     for Pt Arena to Pt Reyes 0-10 nm-Pt Pinos to Pt Piedras
+     Blancas 0-10 nm.
 
-     Small Craft Advisory from 9 PM this evening to 9 PM PDT Thursday
-     for Pt Arena to Pt Reyes 10-60 NM.
+     Small Craft Advisory from 3 PM this afternoon to 9 PM PDT this
+     evening for Pigeon Pt to Pt Pinos 0-10 nm.
+
+     Small Craft Advisory until 3 AM PDT Friday for Pt Arena to Pt
+     Reyes 10-60 NM.
 
 &&
 
@@ -154,8 +171,8 @@ $$
 
 SHORT TERM...Sarment
 LONG TERM....Sarment
-AVIATION...KR
-MARINE...Kennedy
+AVIATION...MM
+MARINE...RGass
 
 Visit us at www.weather.gov/sanfrancisco
 
