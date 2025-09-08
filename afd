@@ -1,107 +1,125 @@
 
-025
-FXUS66 KMTR 071658
+903
+FXUS66 KMTR 081159
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-958 AM PDT Sun Sep 7 2025
+459 AM PDT Mon Sep 8 2025
 
-...New UPDATE, MARINE...
+...New AVIATION, MARINE...
 
 .KEY MESSAGES...
-Updated at 1208 AM PDT Sun Sep 7 2025
-
- - Below normal temperatures through the week.
+Updated at 1222 AM PDT Mon Sep 8 2025
 
  - Chance for light rain Monday through Wednesday.
 
-&&
-
-.UPDATE...
-Issued at 958 AM PDT Sun Sep 7 2025
-
-No changes to the forecast this morning. Stratus slowly recedes
-across the San Francisco, San Mateo and East Bay counties. Look
-for sunny skies across the area later this afternoon.
-
+ - Below normal temperatures through the week.
 
 &&
 
 .SHORT TERM...
-Issued at 1208 AM PDT Sun Sep 7 2025
+Issued at 1222 AM PDT Mon Sep 8 2025
 (Today and tonight)
 
-Patchy marine layer stratus is filling in this morning under a
-full moon. The pattern today is dominated by the interaction
-between weak ridging over northern Mexico and an approaching
-trough off the coast. Dry air at 925 mb will gradually filter out
-over the next 24 hours, but will continue to impact the low cloud
-cover through the majority of the day today. Despite the increased
-sunshine, 850 mb temperatures are below normal and will keep
-surface temperatures around 5 degrees cooler than normal, similar
-to yesterday. Marine layer clouds will roll back in tonight with
-more and earlier coverage than the last couple nights as the dry
-air filters out.
+The marine layer will expand through the day as low pressure
+approaches the coast. The Ft. Ord profiler shows the depth currently
+around 1,500 feet, and the PGE WRF suggests it will expand to
+around 3,000 feet tonight before mixing out as colder air aloft
+moves in Tuesday morning. The typical marine layer stratus is
+expected to blanket much of the Bay Area and Central Coast this
+morning before mixing out around mid-day. Temperatures will be a
+few degrees cooler than yesterday, and well below normal for this
+(typically warm) time of year.
+
+Most of our attention is on the cold front slowly moving in from
+the NE Pacific. The surface front should arrive along the coast
+early Tuesday morning, though the latest trend has been delaying
+its arrival. Ahead of the front, a moist air mass will be lifted
+by the cooler denser air, creating a good chance for prefrontal
+stratiform rain. While the precipitable water should be around
+1.0" in the preceeding air mass, we are only expecting around
+1/10" of rain in the warm sector due to lack-luster lift from a
+front that`s more cool than cold, and may not actually make
+landfall intact. This prefrontal rain will begin to fall in the
+North Bay around mid-day, slowly spreading south through Tuesday
+morning. No significant impacts are expected, but still note-
+worthy that this is our first rain producing cold front of the
+season.
 
 &&
 
 .LONG TERM...
-Issued at 1208 AM PDT Sun Sep 7 2025
-(Monday through Saturday)
+Issued at 1222 AM PDT Mon Sep 8 2025
+(Tuesday through Sunday)
 
-Monday will bring a significant pattern change. The 500 mb trough
-will approach the immediate coast with surface low pressure off
-Northern California and an associated cold front extending SW into
-the Eastern Pacific. This pattern will bring SW winds and high
-moisture ahead of the cold front. As the front moves through and
-lifts this air mass, light rain is possible beginning Monday
-morning in the North Bay and pushing south through the day. Any
-accumulation will be low, with up to 1/10th expected in the North
-Bay and only some novelty drops further south. After the front
-moves through, 500 mb temperatures will drop to around -15C late
-Tuesday, which is in the bottom 10th percentile for this time of
-year. It looks like the moisture will survive frontal passage,
-and the PW is expected to remain above 150% of normal through
-Wednesday. Combined with daytime heating, surface based
-instability could be triggered Tuesday through Thursday, with the
-best chance Wednesday afternoon. Expect some cumulus clouds, with
-an outside chance for showers or thunderstorms. By Thursday the
-instability will decrease and shower chances diminish.
+After the front moves through, the combination of colder air
+aloft, high moisture, moderate deep layer shear, and daytime
+surface heating will keep rain chances going in the form of
+convective showers through Thursday afternoon. A deeper dive shows
+that these ingredients are not all lined up perfectly in space
+and time. The coldest air is moving in over the Bay Area Tue-Wed,
+while the jet stream moves through the Central Coast Tuesday and
+then pushes into southern California Wednesday. The instability
+really doesn`t develop until Wednesday with a stubborn elevated
+inversion between 850-700 mb lingering on Tuesday. By the time
+the colder air eliminates the inversion and starts bringing more
+instability to the column, the jet stream will have pushed far to
+the south, cutting off the shear and upper level divergence. The
+low-level moisture has some staying power, however. That won`t be
+an issue. With long, skinny CAPE, the instability is highly
+dependent on surface temperature. For example, the 00Z NAMBufr
+model sounding for OAK has the CAPE peaking at a paltry 97 J/kg at
+10/14Z (7 AM Wed). The surface temperature at that time is
+simulated to be 16.25C with a dew point of 15.58C. Increasing both
+the T and Td by just 1C increases the surface based CAPE from 97
+to 600 J/kg. But again, this is still fighting the fact that the
+shear is basically gone by Wednesday. 0-6 km shear is a whopping
+12 kts at this time. While there`s a chance that some of these
+ingredients could align in a more favorable way for a brief period
+(best chance Tuesday afternoon), the thunderstorm chances in the
+post frontal environment are slight. Most likely we will get some
+shallow cumulus that exist entirely below the freezing level.
+Perhaps a few showers as well, but I don`t have much confidence in
+a big thunderstorm event this time.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 433 AM PDT Sun Sep 7 2025
+Issued at 459 AM PDT Mon Sep 8 2025
 
-Surface pressure gradients are light, as result winds are light.
-Stratus /MVFR-IFR-LIFR/ is slowly developing this morning. Stratus
-will mix out to the coastline by late morning and afternoon. Stratus
-/MVFR-IFR-LIFR/ redevelops tonight and Monday morning.
+Conditions are highly variable from inland to the coast, varying
+from VFR to LIFR. There`s plenty of water vapor in the air resulting
+in low clouds, fog and coastal drizzle. A few spots have already
+lightly measured 0.01" possibly more at the moment. KHAF has been
+1/4 mile or less in drizzle and fog. General duration of cloud cover,
+fog and drizzle is a low confidence forecast in the 12z TAFs. Onshore
+winds continue during the 12z TAFs.
 
-Vicinity of SFO...Stratus /MVFR/ prevailing until 19z today then
-VFR until stratus /MVFR/ redevelops 07z this evening. West wind
-10 to 20 knots today, wind decreasing to near 5 knots tonight and
-Monday morning.
+Vicinity of SFO...MVFR-IFR for the morning, improving chance of
+VFR in the afternoon. Onshore wind near 5 knots, except 10 to 20
+knots in the afternoon and evening. Low confidence if KHAF drizzle
+will reach KSFO this morning, otherwise light showers tonight and
+Tuesday morning.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...Stratus /IFR/ until late morning. VFR
-during the afternoon. Stratus /IFR/ returns tonight and Monday
-morning. Mainly onshore winds 5 to 10 knots.
+Monterey Bay Terminals...IFR-LIFR in low clouds, fog and possibly
+drizzle. Low confidence MVFR-VFR in the afternoon. IFR in low
+clouds, fog and drizzle tonight and Tuesday morning. Onshore winds
+5 to 10 knots.
 
 &&
 
 .MARINE...
-(Today through Friday)
-Issued at 958 AM PDT Sun Sep 7 2025
+(Today through Saturday)
+Issued at 444 AM PDT Mon Sep 8 2025
 
-Gentle to moderate northwesterly breezes will prevail through
-Monday. Moderate to fresh northwesterly breezes will prevail
-Tuesday and Wednesday with widespread strong gusts. Light rain can
-be expected Monday with a nonzero chance for thunderstorms Tuesday
-and Wednesday. Moderate seas will prevail through Thursday.
+Winds increase to become fresh with breezy conditions Tuesday
+through Thursday. Light rain is expected tonight into Tuesday
+morning with convection possible during the afternoons of Tuesday
+through Thursday, chances increase with latitude.
 
 &&
 
