@@ -1,170 +1,162 @@
 
-475
-FXUS66 KMTR 301224 CCA
+944
+FXUS66 KMTR 011554
 AFDMTR
 
-Area Forecast Discussion...CORRECTED
+Area Forecast Discussion
 National Weather Service San Francisco CA
-524 AM PDT Tue Sep 30 2025
+854 AM PDT Wed Oct 1 2025
 
-...New AVIATION, MARINE...
+...New UPDATE, MARINE...
 
 .KEY MESSAGES...
-Updated at 1251 AM PDT Tue Sep 30 2025
+Updated at 1213 AM PDT Wed Oct 1 2025
 
- - Scattered showers possible along the coast and the higher
-   elevations through the day
+ - Beneficial rain today
 
- - Another cold front brings renewed chances for rain tonight into
-   Wednesday
+ - Warming and drying trend starts Friday
 
- - Slight warming and drying trend begins Thursday with offshore
-   flow possible this weekend
+&&
+
+.UPDATE...
+Issued at 851 AM PDT Wed Oct 1 2025
+
+Overcast skies and scattered showers remain through the day with
+some slight slowing in the frontal passage. Some slight
+adjustments will be needed to be made in the spread of rainfall in
+the forecast package, otherwise the forecast remains on track.
+
+-Murdock
 
 &&
 
 .SHORT TERM...
-Issued at 1251 AM PDT Tue Sep 30 2025
-(Today and Wednesday)
+Issued at 1213 AM PDT Wed Oct 1 2025
+(Today and tonight)
 
-The short term forecast is dominated by a pair of cold fronts
-stemming from a developing low off the coast of the Alaska Panhandle
-and British Columbia, which is expected to pull in moisture from the
-remnants of Typhoon Neoguri as it develops in the North Pacific. As
-of midnight a band of showers associated with a weak cold front was
-located off the coast of Monterey County, coming onshore in western
-Santa Cruz and extreme southern San Mateo counties with the band
-falling apart beyond the crest of the Santa Cruz Mountains. This
-band is expected to continue diminishing as it travels southward
-with any rain in the Central Coast limited to the coastal regions.
-Any accumulations will be light and generally below a tenth of an
-inch. To the north, scattered post-frontal showers linger through
-the day across topographically favored locations across the North
-Bay and into the Bay Area, again with generally light accumulations
-expected through the evening.
-
-A second weak cold front will then approach the region tonight
-through Wednesday, bringing a new chance for rainfall. Pre-frontal
-showers will begin tonight across the North Bay before the main rain
-band comes through the region on Wednesday. Rainfall totals for this
-system remain rather similar to the previous forecast. The mountains
-of Sonoma and Marin counties should expect 0.5-1" with this system,
-with 0.25-0.5" in the North Bay Valleys, 0.1-0.25" in the San Mateo
-Peninsula, the western part of Santa Cruz County, and the East Bay
-west of the Berkeley Hills and north of Oakland, and less than 0.1"
-in the interior East Bay, South Bay, and the Central Coast.
-
-High temperatures today remain around 5 to 10 degrees below
-seasonal averages, with the inland valleys reaching the lower to
-middle 70s and the coastal regions seeing the lower 60s to the
-lower 70s.
+Light rain showers are ongoing across the Bay Area ahead of a cold
+front located about 200 miles west of San Francisco. This front is
+connected to a mature, cut off low pressure system way up in the
+southern Gulf of Alaska. This separation from the parent low is
+causing a very slow forward progression of the cold front. A
+ribbon of moisture on the latest water vapor imagery is already
+showing signs of stalling. As a result, the prefrontal rain will
+continue through the day. Fortunately the rain intensity looks to
+remain light outside of a mid day shower or two in the North Bay.
+The West-WRF ensemble shows, within 1 standard deviation, the IVT
+will remain between 250-500 kg of water vapor per meter per
+second today. Thunderstorm chances are less than 10% today. The
+lapse rates are pretty weak (around 5-6 C/km). With the upper
+level low so far removed from the surface front, there is a
+notable lack of cold air aloft needed to create the necessary
+buoyancy. Based on the 00Z sounding, the 850-500 mb lapse rate is
+5.0 C/km, which is actually in the bottom 10th percentile for
+this time of year. The 850 temp isn`t the problem (9.35 C, close
+the bottom 10th percentile), but the 500 mb temp (-11.75C) is
+close to the median for this time of year. Furthermore, the slow
+motion of the cold front doesn`t support robust updrafts. Finally,
+most of the current showers are below the 12,500 foot freezing
+level, limiting the amount of ice particles necessary for the
+charge buildup in thunderstorms. When all is said and done we`re
+expecting up to 1" in the coastal mountains of the North Bay with
+up to 1/4" across the Bay Area and 1/10" across the Central Coast.
+With the rain spread out over the day, this is mostly a
+beneficial event and will help put a damper on fire season.
 
 &&
 
 .LONG TERM...
-Issued at 1251 AM PDT Tue Sep 30 2025
-(Thursday through Monday)
+Issued at 1213 AM PDT Wed Oct 1 2025
+(Thursday through Tuesday)
 
-Upper level troughing remains off the coast through Thursday. By
-Friday, the trough moves inland with an upper level ridge building
-in the eastern Pacific, with a possible inside slider developing
-over the weekend. The ensemble model clusters continue to show
-significant uncertainty in the location and strength of a potential
-inside slider. This, in turn, keeps the uncertainty over the
-potential impacts rather high. A weaker inside slider, or one that
-develops closer to the northern part of California, may keep onshore
-flow in place over the region, while a stronger inside slider that
-develops over Nevada may turn the winds into a northerly/offshore
-pattern. Wetting rains across the North Bay, and to a lesser extent,
-the rest of the Bay Area, will likely alleviate fire weather
-concerns, but not eliminate them.
-
-Beyond the weekend, ensemble model clusters continue to hint at some
-form of troughing persisting over the western United States through
-the early part of next week. While conditions are expected to remain
-on the drier side, the troughing will limit the expected warming,
-perhaps leaving temperatures close to the seasonal averages to start
-the next work week (middle 70s to lower 80s in the inland
-valleys, middle 60s to lower 70s along the coast).
+The prefrontal rain will finally taper off by Thursday morning as
+the moisture plume slides south. The associated 500 mb trough
+will swing through Thursday-Friday. This will cause winds to shift
+from SW to NW, and may support some convection each afternoon,
+though the lack of moisture will be a major limiting factor for
+thunderstorm development. This trough will bring lower surface
+pressure to southern California. Meanwhile higher surface
+pressure will build over the northern Rockies through the weekend.
+The gradient across the pressure field will support some
+northerly, offshore wind from Saturday - Monday. Typically these
+winds pose a fire weather concern. Fortunately the antecedent
+conditions and wind strength are mitigating factors. The PGE-WRF
+ensemble shows the SFO-WMC gradient bottoming out around -2 to -6
+mb. Enough for offshore winds, but not a particularly strong
+event.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 439 AM PDT Tue Sep 30 2025
+Issued at 413 AM PDT Wed Oct 1 2025
 
-It`s a complex set of TAFs this morning. Yesterday`s cold front
-disrupted the marine layer, and there are still lingering isolated
-showers this morning. Today will feature a recovering marine
-layer and patchy low clouds this morning, before a second cold
-front approaches Wednesday. Ahead of this next system, the
-gradient will favor SW winds through the day, although local sea
-breeze and diurnal valley effects may overcome this forcing at
-times in the afternoon. Ceilings are also tricky as the morning
-stratocumulus erodes in the late morning before frontal clouds
-arrive in the afternoon. These frontal clouds will initially
-arrive as broken high clouds before filling in and lowering
-through the evening. Recent forecast trends have delayed the onset
-of rain until late tonight in the North Bay and Wednesday morning
-further south.
+Generally mid-level ceilings prevailing as pre-frontal and frontal
+showers continue throughout most of the TAF period, with some IFR
+stratus in the Monterey Bay region and the Salinas Valley.
+Conditions remain generally VFR with mid-level ceilings through the
+day with some patches of MVFR associated with the strongest showers,
+with the rain chances tapering off through Thursday morning. Winds
+will increase this morning from a southerly direction, shifting to
+the west and northwest as the cold front passes through the region.
 
-Vicinity of SFO...There are still a few isolated showers left over
-from yesterday`s frontal passage, but the coverage and intensity
-is too low to include explicitly in this set of TAFs. MVFR
-ceilings should persist through 18Z, although since the clouds are
-stratocumulus rather than the typical stratus blanket, the
-confidence in the exact clearing time is lower. There is fairly
-high confidence in VFR conditions under some high clouds through
-the afternoon. These clouds will lower overnight before light rain
-showers arrive Wednesday morning. Winds have remained S-SW over
-the last 24 hours, and that trend is expected to continue ahead of
-Wednesday`s cold front.
+Vicinity of SFO... VFR expected through the TAF period with possible
+periods of MVFR ceilings during intense showers over the terminal.
+Winds from the south will turn to the west as the front passes
+through with gusts up to 25 knots in the afternoon and evening
+hours. Chances for showers taper off Thursday morning.
 
-SFO Bridge Approach...Similar to SFO.
+SFO Bridge Approach... Similar to SFO.
 
-Monterey Bay Terminals...MVFR-VFR ceilings are expected through
-the morning before breaking up around 18Z. Ceilings will likely be
-lower tonight as low level stability briefly increases before the
-next cold front arrives Wednesday evening and disrupts the marine
-layer again. These terminals will be a little further removed
-from the SW gradient and the wind direction may be a little more
-variable through the TAF period as a result.
+Monterey Bay Terminals... MVFR-IFR stratus should persist through
+sunrise, clearing to VFR through the morning. Chances for showers
+begin this afternoon and evening with low to moderate probabilities
+(20-30%) that showers will directly impact MRY or SNS. Winds begin
+to increase from a southerly direction before shifting to the west
+and northwest by the afternoon.
 
 &&
 
 .MARINE...
-(Today through Sunday)
-Issued at 439 AM PDT Tue Sep 30 2025
+(Today through Monday)
+Issued at 851 AM PDT Wed Oct 1 2025
 
-A storm force low pressure system located 10 degrees west of the
-Washington is generating a moderate-rough NW swell that will
-arrive as 10-12 footers to the outer coastal waters Wednesday. A
-cold front associated with this storm will also move through
-Wednesday, bringing a wind shift from S to NW. This system will
-bring gusty conditions and some rain showers as it moves through.
-The swell will gradually subside Thursday before a strong NW
-breeze develops Friday. This will bring another round of rough
-seas and small craft conditions to the coastal waters through
-Saturday.
+Scattered showers continue  across the coastal waters through
+late tonight. A moderate to rough northwest swell associated with
+this system arrives tonight and will bring waves between 10 to 11
+feet across the outer waters. Wave heights will diminish below 10
+feet Thursday and Friday before building again late weekend into
+next week. Winds are expected to strengthen to fresh to strong on
+Friday resulting in a continuation of rough seas and hazardous
+conditions for small crafts into the weekend.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...Small Craft Advisory from 9 AM Wednesday to 3 AM PDT Thursday
-     for Pt Arena to Pt Reyes 10-60 NM.
+PZ...Small Craft Advisory from 9 PM Thursday to 9 AM PDT Friday for
+     Pt Arena to Pt Reyes 0-10 nm-Pt Arena to Pt Reyes 10-60 NM.
 
-     Small Craft Advisory from 3 PM Wednesday to 3 AM PDT Thursday
-     for Pigeon Pt to Pt Pinos 10-60 NM.
+     Small Craft Advisory from 3 PM Thursday to 9 AM PDT Friday for
+     Pt Pinos to Pt Piedras Blancas 0-10 nm.
+
+     Small Craft Advisory until 3 PM PDT Thursday for Pt Arena to Pt
+     Reyes 10-60 NM.
+
+     Small Craft Advisory from 3 PM this afternoon to 9 AM PDT
+     Thursday for Pigeon Pt to Pt Pinos 10-60 NM.
+
+     Small Craft Advisory from 3 AM to 9 AM PDT Friday for Pigeon Pt
+     to Pt Pinos 10-60 NM.
 
 &&
 
 $$
 
-SHORT TERM...DialH
-LONG TERM....DialH
-AVIATION...Flynn
-MARINE...Flynn
+SHORT TERM...Flynn
+LONG TERM....Flynn
+AVIATION...DialH
+MARINE...Murdock
 
 Visit us at www.weather.gov/sanfrancisco
 
