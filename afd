@@ -1,71 +1,112 @@
 
-873
-FXUS66 KMTR 091154
+616
+FXUS66 KMTR 101657
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-354 AM PST Tue Dec 9 2025
+857 AM PST Wed Dec 10 2025
 
-...New AVIATION, MARINE...
+...New UPDATE...
 
 .KEY MESSAGES...
-Updated at 132 AM PST Tue Dec 9 2025
+Updated at 1224 AM PST Wed Dec 10 2025
 
- - Tule fog and stratus will clear this afternoon
+ - Hazardous beach conditions through Friday.
 
- - Quiet weather with warmer temperatures through Friday
+ - Tule fog and stratus continue for the North and East Bay.
 
- - Light rain possible next week
+ - Light rain remains possible next week.
+
+&&
+
+.UPDATE...
+Issued at 856 AM PST Wed Dec 10 2025
+
+This morning we are seeing less cloud cover over the Bay Area
+with the North Bay, East Bay and South Bay seeing similar
+conditions as yesterday. As such, low clouds may clear earlier
+than yesterday but there is low to moderated confidence of that
+actually occuring. As mentioned in the short term discussion
+below, persistence seems to be the best with respect to afternoon
+maximum temperatures. We will continue to monitor these conditions
+and adjust if necessary. Otherwise, no updates to the ongoing
+forecast at this time.
+
+RGass
 
 &&
 
 .SHORT TERM...
-Issued at 132 AM PST Tue Dec 9 2025
+Issued at 1224 AM PST Wed Dec 10 2025
 (Today and tonight)
 
-Another round of morning clouds and patchy fog across the Bay Area.
-The coverage is less than yesterday and these clouds will clear in
-the afternoon as temperature climbs a few degrees warmer than recent
-days. The prolonged ridging pattern continues with the amplitude
-notching up over the next few days. The Eastern Pacific high now
-extends a ridge across northern California, and there is even a
-somewhat uncommon cut off high way up at 250 mb directly over the
-Bay Area. This is the jet stream altitude where the average wind
-speed this time of year is around 60 knots. We`ll be lucky to break
-10 knots on the 12Z sounding. This vertically stacked dome of high
-pressure is leading to widespread subsidence, calm winds, stagnant
-surface air, and warmer than normal temperatures.
+Tule fog and stratus continue with very similar coverage to 24
+hours ago. In addition to the entire Central Valley, most of the
+North Bay and the interior East Bay are impacted by this
+persistent radiation fog. This is caused by unmoving high pressure
+bringing clear, dry, and calm conditions to the troposphere.
+Combined with long December nights, nocturnal radiative cooling
+from both the Earth`s surface and cloud tops are enhanced. Since
+the cooling is coming from the bottom up, it`s very stable (cold
+air sinks). And since the cooling at night is enough to reach
+saturation and form or bolster the existing clouds, a positive
+feedback loop sets up where the clouds then block incoming
+sunlight during the day. All this works to keep the day-time
+temperatures cool under the clouds, and the models have been
+struggling to capture just how cool. Kentfield stayed between 43
+and 46 degrees all day Tuesday. The forecast is challenging
+because there is very warm air just above the clouds. The 850
+temperature has blown past the 90th percentile is now approaching
+the daily max on record. Boulder Creek stayed clear and reached
+78 degrees yesterday. This big discrepancy between the thin cold
+layer and everything else is really tough to nail down. When the
+advanced weather models let us down, we often fall back on the
+most rudimentary form of forecasting in existence: persistence. In
+other words, what happened yesterday will happen today.
+Specifically Tuesday`s high temperatures are making up 66% of the
+forecast for Wednesday. With an unchanging pattern, that`s not a
+bad guess. If the clouds clear early though, watch out for
+temperatures to spike. Areas outside of the clouds (Central Coast,
+SF Peninsula) will have cooler mornings and warmer afternoons.
+Maybe just a couple degrees warmer than yesterday.
 
 &&
 
 .LONG TERM...
-Issued at 132 AM PST Tue Dec 9 2025
-(Wednesday through Monday)
+Issued at 1224 AM PST Wed Dec 10 2025
+(Thursday through Tuesday)
 
-While the ridge has been the main scapegoat for the ongoing Tule
-Fog, the increasing ridge intensity will compress this cool moist
-layer closer to the surface and limit it`s horizontal spread to the
-Central Valley and colder interior valleys across the Bay Area. Air
-quality may also suffer as a result. The 850 mb temperature will
-climb to around 17C by Wednesday, and park there until Friday.
-That`s around 10C warmer than normal, close to the average for June.
-Surface temperatures will respond and warm up to 10F above normal,
-pushing some clear areas of the Bay Area and Central Coast to the
-mid 70s. This heat will peak on Thursday with noticeable cooling by
-the weekend. Despite the warm afternoons, the dry atmosphere (PW 0.3-
-0.5") and long December nights will still bring morning temperatures
-into the 40s. The ridge axis will finally move through this weekend,
-allowing the pattern to become more zonal. This opens the door for
-some rain next week. While zonal flow doesn`t support strong storms
-or atmospheric rivers, it looks likely that we`ll at least end the
-dry streak sometime next week, possibly as early as Monday.
+Temperatures should climb a degree or two each day through Friday
+before the ridge axis finally moves through on Saturday. That will
+mark the end of this prolonged boring pattern as a more zonal jet
+stream moves in. We should finally see some high clouds by Sunday
+with a chance for rain starting Monday or Tuesday. While we are
+finally losing the ridge, we`re not getting a substantial trough,
+so any rain bearing systems should be relatively light. On the
+other hand the active zonal flow could bring these weaker systems
+in quick succession. CW3E shows both the ECCC and NCEP AR
+activity anomaly peaking around +2 AR days per week from
+12/15-12/21 before falling back to near the climatological norm
+for the following 2 weeks. In other words if we don`t get any
+substantial rain next week, there is no strong signal for it to
+come during the rest of the month. Perhaps the best chance is
+around the 20th, but there`s a lot of uncertainty. The 00Z ECMWF
+ensemble members range from 0.0" to 8.4" of total rain at SFO
+through the 21st. So the total dispersion is massive, but the
+more reasonable interquartile range is 0.4" - 2.0". The GEFS is
+drier with a medial closer to 0.5". Temperatures will cool this
+weekend, but should remain warmer than normal through next week.
+The CPC temperature outlooks are about as confident as we ever
+see that it will remain warmer than normal for the next couple
+weeks, but that doesn`t necessarily take our famous microclimates
+into account.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 349 AM PST Tue Dec 9 2025
+Issued at 324 AM PST Wed Dec 10 2025
 
 Higher confidence in clearing out of the fog and stratus today for
 North Bay terminals. Day-to-day change gradually improving as high
@@ -73,11 +114,11 @@ pressure builds aloft. Patchy stratus invof SF Bay providing lower
 confidence there, but based on persistence forecast KOAK likely to
 remain VFR.
 
-Vicinity of SFO...Patch of stratus and fog moving along the
-peninsula likely to persist through sunrise, clearing to VFR in the
-few hours following. Lower chance of stratus overnight into
-Wednesday morning compared to this morning. Medium confidence in
-cigs holding off until just before sunrise Wednesday.
+Vicinity of SFO...Patchy stratus around the Bay this morning, but
+much less coverage than 24 hours ago. Some stratus invof the
+terminal may linger through sunrise. Not enough confidence to
+include in TAF attm. Most of the area around the terminal,
+including bridge approach, expected to remain mostly stratus-free.
 
 SFO Bridge Approach...Similar to SFO.
 
@@ -88,34 +129,44 @@ flow during the afternoons.
 &&
 
 .MARINE...
-(Today through Sunday)
-Issued at 349 AM PST Tue Dec 9 2025
+(Today through Monday)
+Issued at 324 AM PST Wed Dec 10 2025
 
-Northwest winds increase to a strong breeze today into mid week
-across the outer waters. Gentle breeze persists across the inner
-coastal waters. A new, long period northwesterly swell is
-expected by midday Wednesday, lasting into the early weekend.
+Northerly fresh breeze continues across the outer waters with
+lighter closer to shore. Light offshore flow through the San
+Francisco Bay and Delta result in light easterly flow through the
+Golden Gate. A new, long period northwesterly swell anticipated to
+arrive today, lasting into this weekend.
 
 &&
 
 .BEACHES...
-Issued at 132 AM PST Tue Dec 9 2025
+Issued at 1224 AM PST Wed Dec 10 2025
 
-Long period swell will impact the coast Wednesday - Friday. This
+Long period swell will reach the coast Wednesday - Friday. This
 energy brings strong rip currents, an increased risk for sneaker
-waves, and large breaking waves. NW swell around 8 feet with a 15
-second period will translate to breaking waves up to 15-20 feet.
-These conditions may warrant a Beach Hazards Statement, particularly
-with the warm weather likely luring more people to the Beach.
+waves, and large breaking waves. The Bodega Bay Buoy is reporting
+a WNW swell of 9 feet with a 13 second period. That translates to
+breaking waves of 12-16 feet along west facing beaches. This
+coincides with nice warm weather, which will likely lure more
+people to the beach under a false sense of security. A Beach
+Hazard Statement is in effect through Friday evening. Respect the
+power of the ocean and never turn your back on it.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement from Wednesday morning through Friday
-     evening for CAZ006-505-509-529-530.
+CA...Beach Hazards Statement through Friday evening for CAZ006-505-
+     509-529-530.
 
-PZ...Small Craft Advisory until 9 PM PST this evening for Pt Pinos to
+PZ...Small Craft Advisory until 9 AM PST this morning for Pt Pinos to
      Pt Piedras Blancas 0-10 nm.
+
+     Small Craft Advisory until 3 AM PST Thursday for Pt Arena to Pt
+     Reyes 10-60 NM.
+
+     Small Craft Advisory until 3 PM PST this afternoon for Pigeon Pt
+     to Pt Pinos 10-60 NM.
 
 &&
 
@@ -124,7 +175,7 @@ $$
 SHORT TERM...Flynn
 LONG TERM....Flynn
 AVIATION...Behringer
-MARINE...Behringer
+MARINE...MM
 
 Visit us at www.weather.gov/sanfrancisco
 
