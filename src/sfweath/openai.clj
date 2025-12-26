@@ -50,6 +50,22 @@
                         {:status (:status data)
                          :body (:body data)}))))))
 
+(defn prep-image-prompt-body [summary full-text]
+  (let [prompt-text (str "Please use summary and full text of the weather forecast discussion presented below and create a prompt for gpt-image-1.5 model to draw an image showing this weather.\n\n"
+                         "----\n"
+                         "summary: \n"
+                         summary "\n"
+                         "----\n"
+                         "full text:\n"
+                         full-text)]
+    (ch/generate-string {:model model
+                         :messages [{:role "user" :content prompt-text}]})))
+
+(defn create-image-prompt [key summary full-text]
+  (let [body (prep-image-prompt-body summary full-text)
+        response (request key body)]
+    (-> response :body :choices first :message :content)))
+
 
 (comment
   (def resp (generate-image (System/getenv "OPENAI_API_KEY") "a beautiful sunset over mountains"))
