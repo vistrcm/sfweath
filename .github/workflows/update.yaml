@@ -9,13 +9,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: SF channel
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CH: ${{ secrets.TELEGRAM_CH_SF }}
-          SEND_PROBABILITY: 0.1
-        run: lein run sfweath.core
       - name: main channel
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
