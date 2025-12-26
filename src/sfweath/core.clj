@@ -7,22 +7,24 @@
 (def base-url
   "https://forecast.weather.gov/product.php?site=NWS&issuedby=MTR&product=AFD&format=txt&version=1&glossary=0")
 
-(defn get-param-or-exit [name]
-  (let [val (System/getenv name)]
-    (if (nil? val)
-      (do
-        (println (str "please set " name))
-        (System/exit 1))
-      val)))
+(defn exit-if-not-set!
+  [name val]
+  (when (or (nil? val)
+            (= "" val))
+    (println (str "please set " name))
+    #_(System/exit 1)))
 
-(def openapi-key
-  (get-param-or-exit "OPENAI_API_KEY"))
+(comment
+  (exit-if-not-set! "namehel" "hello")
+  (exit-if-not-set! "anothername" nil)
+  (exit-if-not-set! "token?" "")
+  #_())
 
-(def telegram-token
-  (get-param-or-exit "TELEGRAM_BOT_TOKEN"))
+(def openapi-key (System/getenv "OPENAI_API_KEY"))
 
-(def telegram-channel
-  (System/getenv "TELEGRAM_CH"))
+(def telegram-token (System/getenv "TELEGRAM_BOT_TOKEN"))
+
+(def telegram-channel (System/getenv "TELEGRAM_CH"))
 
 (def send-probability
   (let [val (System/getenv "SEND_PROBABILITY")]
@@ -33,16 +35,21 @@
 (defn fetch-url [url]
   (html/html-resource (java.net.URL. url)))
 
-(def page
+(defn fetch-page
+  []
   (fetch-url base-url))
 
-(def text
+(defn extract-text
+  [page]
   (first (html/texts (html/select page [:pre.glossaryProduct]))))
 
-(def r-body (sfweath.openai/prep-body (str/replace text "&&" "")))
+(defn r-body
+  [text]
+  (sfweath.openai/prep-body (str/replace text "&&" "")))
 
-(def summary
-  (-> (sfweath.openai/request openapi-key r-body)
+(defn fetch-summary
+  [text]
+  (-> (sfweath.openai/request openapi-key (r-body text))
       :body
       :choices
       first
@@ -50,15 +57,20 @@
       :content))
 
 (defn -main [& _]
-  (spit "afd" text)
-  (spit "afd.sum" summary)
+  ;; check if everything is set
+  (exit-if-not-set! "OPENAI_API_KEY" openapi-key)
+  (exit-if-not-set! "TELEGRAM_BOT_TOKEN" telegram-token)
 
-  (if (and (some? telegram-channel)
-           (<= (rand) send-probability))
-    (sfweath.telegram/send-message telegram-token telegram-channel summary)
-    (println (str "skipping telegram message. prob: " send-probability ". ch: " telegram-channel)))
-  (println summary))
+  (let [page (fetch-page)
+        text (extract-text page)
+        summary (fetch-summary text)]
+    (spit "afd" text)
+    (spit "afd.sum" summary)
+    (if (and (some? telegram-channel)
+             (<= (rand) send-probability))
+      (sfweath.telegram/send-message telegram-token telegram-channel summary)
+      (println (str "skipping telegram message. prob: " send-probability ". ch: " telegram-channel)))
+    (println summary)))
 
 (comment
-  (-main)
-  )
+  (-main))
