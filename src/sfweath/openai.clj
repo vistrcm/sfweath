@@ -35,10 +35,9 @@
 (defn generate-image [key prompt]
   (try
     (client/post image-url
-                 {:body (ch/generate-string {:model "dall-e-3"
+                 {:body (ch/generate-string {:model "gpt-image-1.5"
                                               :prompt prompt
                                               :size "1024x1024"
-                                              :response_format "b64_json"
                                               :n 1})
                   :content-type :json
                   :headers {"Authorization" (str "Bearer " key)}
