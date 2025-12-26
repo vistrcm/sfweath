@@ -15,6 +15,7 @@
    (request auth method nil)))
 
 (defn- get-udates [auth]
+  "used mostly to get chat id for testing"
   (request auth "getUpdates"))
 
 (defn send-message [auth chat-id msg]
