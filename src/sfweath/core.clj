@@ -57,6 +57,14 @@
       :message
       :content))
 
+(defn prep-image
+  [summary full-text]
+  (let [ dalle-prompt (sfweath.openai/create-image-prompt openapi-key summary full-text)
+        resp (sfweath.openai/generate-image openapi-key dalle-prompt)
+        img-b64 (-> resp :body :data first :b64_json)
+        img-bytes (.decode (Base64/getDecoder) img-b64)]
+    img-bytes))
+
 (defn -main [& _]
   ;; check if everything is set
   (exit-if-not-set! "OPENAI_API_KEY" openapi-key)
@@ -64,14 +72,16 @@
 
   (let [page (fetch-page)
         text (extract-text page)
-        summary (fetch-summary text)]
+        summary (fetch-summary text)
+        img (prep-image summary text)]
     (spit "afd" text)
     (spit "afd.sum" summary)
     (if (and (some? telegram-channel)
              (<= (rand) send-probability))
-      (sfweath.telegram/send-message telegram-token telegram-channel summary)
+      (sfweath.telegram/send-photo telegram-token telegram-channel img summary)
       (println (str "skipping telegram message. prob: " send-probability ". ch: " telegram-channel)))
     (println summary)))
+
 
 (comment
   (-main)
