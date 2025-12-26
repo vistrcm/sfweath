@@ -1,26 +1,26 @@
 
-818
-FXUS66 KMTR 260113
+391
+FXUS66 KMTR 261454
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-513 PM PST Thu Dec 25 2025
+654 AM PST Fri Dec 26 2025
 
-...New AVIATION, MARINE, BEACHES...
+...New UPDATE, BEACHES...
 
 .KEY MESSAGES...
-Updated at 1211 PM PST Thu Dec 25 2025
+Updated at 104 AM PST Fri Dec 26 2025
 
- - Severe thunderstorms are possible through the afternoon and
-   evening. Damaging wind gusts are the main threats, with
-   tornadoes possible.
+ - More rain showers, with up to a 15-20% chance for
+   thunderstorms through Friday.
 
- - Strong southerly winds continue through Friday.
+ - Breezy south to southwest winds with gusts up to 20-35 mph for much
+   of the region and up to 30-45, locally higher for the
+   mountains.
 
- - A flood watch remains in effect through Friday evening across
-   the region. The main threat is flash flooding and landslides
-   from high rain rates.
+ - A Flood Watch remains in effect through Friday evening for
+   flash flooding and landslides from high rain rates.
 
  - Dangerous beach and marine conditions continue through Friday
    across the Pacific coast and adjacent beaches.
@@ -29,103 +29,110 @@ Updated at 1211 PM PST Thu Dec 25 2025
 
 &&
 
-.SHORT TERM...
-Issued at 1211 PM PST Thu Dec 25 2025
-(This evening through Friday)
+.UPDATE...
+Issued at 638 AM PST Fri Dec 26 2025
 
-The active weather continues through this evening. While the
-widespread damaging winds have generally eased to a strong breeze,
-there are still reports of gusts near 50 mph across the Bay Area.
-The main threat today is possible severe thunderstorms. There has
-been some scattered storms through the morning, particularly in
-the North Bay with small hail and an unconfirmed funnel cloud
-reported. The first organized band of showers and possible
-thunderstorms is reaching San Francisco now. This will gradually
-slide south through the afternoon. The big event today will push
-through this evening, around 4-7 PM. A short wave with a robust
-low level jet will help trigger what looks like a very organized,
-fast moving N-S oriented line of thunderstorms. The early
-thunderstorms were somewhat unexpected and we decided to launch a
-special 18Z balloon to get better ground truth on how unstable the
-atmosphere actually is. The result was somewhat mixed. The
-overall CAPE was 170 J/kg, lower than some CAMs analyzed. But the
-distribution of was favorable, with most of the instability above
-the freezing level, but below 3 km. Overall the parameters were
-good for both high shear low CAPE tornados, and QLCS severe wind
-gusts. There is actually a very good signal on radar for a
-possible waterspout over the Monterey Bay at the moment,
-increasing confidence that the atmosphere can support tornadic
-activity today.
+The 12Z sounding showed some signs of life remain in the
+atmosphere. There is 123 J/kg of 100 mb ML CAPE, 25 kts of 0-1 km
+shear and 32 kts of 0-6 km mean wind. Most of the CAPE remains
+above the freezing level, but below 3 km. While the total overall
+instability is marginal, this distribution optimizes the potential
+for ice particles to generate thunderstorms, and low-level
+updrafts to support mini supercells. The biggest issue is dry air,
+but a band of 0.6-0.7 PW is expected to move through in the
+18Z-00Z time frame. These late morning through afternoon hours are
+our best chance for one last round of active weather before the
+winds shift back to NW and everything finally calms down
+overnight. It`s been a busy week, but we aren`t quite done yet.
+
+&&
+
+.SHORT TERM...
+Issued at 104 AM PST Fri Dec 26 2025
+(Today and tonight)
+
+Another disturbance will move through the region, bringing
+additional rainshowers and perhaps some isolated thunderstorms to
+the region. The primary hazards for today`s storms will be heavy
+rainfall, small hail, and perhaps some stronger wind gusts. Chances
+for rain begin to taper of later in the day and by Friday evening as
+the disturbance tracks eastward. Winds shift to the north, which
+should cutback on moisture. Showers may linger through Friday night
+and into Saturday morning.
 
 &&
 
 .LONG TERM...
-Issued at 1211 PM PST Thu Dec 25 2025
-(Friday night through next Wednesday)
+Issued at 104 AM PST Fri Dec 26 2025
+(Saturday through Thursday)
 
-Starting Friday, winds and shower activity will gradually
-decrease as the low pressure system offshore opens up into a
-trough and moves into northern Oregon. The associated surface
-trough axis will move across the Bay Area Friday evening. This
-will finally flip the winds back to northerly, bringing drier,
-cooler weather for the weekend. The 1000-500 mb thickness actually
-increases this weekend, with the cooling coming mainly from
-enhanced radiation during in the cloudless nights. Sunday through
-Tuesday look particularly calm, clear and cool as a 500 mb ridge
-sets in. The next troughing pattern looks probable on the 1st or
-2nd, just in time for King Tides. There`s no strong signal for
-major impacts yet, but the CW3E ECCC AR Activity tool shows higher
-than normal chances for atmospheric rivers through the first half
-of January.
+Drier weather works its way into the region as upper level ridging
+builds over the west. Chilly nights are tap through early next week,
+thanks to high pressure and clear skies. High temperatures will be
+either at or below their seasonal average for this time of year as
+well. Cluster analysis shows the upper level ridge gets nudged to
+our east around or just after New Year`s day, with upper level
+troughing trying to set up over the Gulf of Alaska. This may end the
+work with rain chances.
 
 &&
 
 .AVIATION...
-(00Z TAFS)
-Issued at 513 PM PST Thu Dec 25 2025
+(12Z TAFS)
+Issued at 353 AM PST Fri Dec 26 2025
 
-A strong cold front continues to move eastward across the coastal
-waters resulting in showers and widely scattered thunderstorms.
-Expect rapidly changing weather conditions across the Bay Area and
-the north Central Coast through mid to late evening at the latest
-with quickly moving downpours and additional thunderstorms which
-may approach severe criteria of wind gusts to 50 knots (58 mph) or
-greater; conditions favor low level wind shear (LLWS), will add
-LLWS to TAFs as needed. The cold front will continue to press
-eastward out of the area overnight with winds gradually easing
-behind the front. It`s VFR except MVFR-IFR in passing downpours,
-conditions easing overnight after the front moves to the east of
-the forecast area. Cooler air mass arriving may still bring widely
-scattered to scattered showers tonight and Friday.
+Isolated light to moderate showers through late morning into
+midday today. Low confidence in exact timing and coverage, but hi
+res ensemble guidance seems to have a decent grasp on a couple of
+bands of showers moving through the region between the 18-22Z
+hours. Gusty S winds continue through this period, but diminish
+shortly thereafter this afternoon. Skies gradually clearing into
+tonight and winds begin to veer back to our typical onshore
+regime.
 
-Vicinity of SFO...Strong southerly winds, downpours and thunderstorms
-are also possible through mid evening to possibly late evening.
-Conditions easing overnight behind the passage of the cold front.
-Generally VFR for the period except MVFR-IFR in downpours.
+Vicinity of SFO...A few showers invof the terminal through midday
+today, and should remain light to moderate in intensity. By the
+afternoon hours, showers become more widely scattered and skies
+begin to clear gradually. As the strong surface low pulls away
+inland, onshore NW flow looks to be restored by Saturday morning.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...Strong southerly winds, downpours and
-thunderstorms are also possible through mid evening to possibly
-late evening. Conditions easing overnight behind the passage of
-the cold front. Generally VFR for the period except MVFR-IFR in
-downpours.
+Monterey Bay Terminals...A few lingers strong showers will quickly
+vacate the area this morning, giving way to another round of
+isolated showers by late morning. Overall precipitation intensity
+trends downward gradually this afternoon.
 
 &&
 
 .MARINE...
-(Tonight through next Tuesday)
-Issued at 350 PM PST Thu Dec 25 2025
+(Today through Wednesday)
+Issued at 353 AM PST Fri Dec 26 2025
 
-...HAZARDOUS MARINE CONDITIONS CONTINUE INTO EARLY FRIDAY...
-Southeast gales continue across the coastal waters and will
-persist into Friday morning. These dangerous winds are accompanied
-by a chance for thunderstorms and possible waterspouts through
-the evening hours. Very rough, choppy seas will accompany these
-gales and linger through the day Friday, reinforced by a moderate
-westerly swell. If your vessel is not able to handle these
-conditions return to port or seek protected waters as soon as
-possible.
+Additional showers continue to develop throughout the waters today
+with activity gradually diminishing through the day. Winds greatly
+diminish as the surface low moves inland. Rough and choppy seas
+linger through today before subsiding through the weekend. Much
+quieter marine conditions anticipated for next week.
+
+&&
+
+.BEACHES...
+Issued at 638 AM PST Fri Dec 26 2025
+
+A High Surf Advisory is then valid for the coast through 10 PM
+Friday. Expect large breaking waves up to 25 feet, strong rip
+currents and sneaker waves. Dangerous swimming and surfing
+conditions and localized beach erosion can be expected. Sneaker
+waves can sweep across the shoreline without warning, pulling
+people into the sea from rocks, jetties and beaches. Large
+breaking waves can overpower swimmers resulting in significant
+physical injury and increase the risk of drowning.
+
+Stay off of jetties, piers, rocks, and other waterside
+infrastructure. Remain out of the water to avoid hazardous surf
+and NEVER turn your back on the ocean. Monitor local weather,
+surf and tide forecasts at www.weather.gov/mtr.
 
 &&
 
@@ -155,33 +162,32 @@ infrastructure. Remain out of the water to avoid hazardous surf
 and NEVER turn your back on the ocean. Monitor local weather,
 surf and tide forecasts at www.weather.gov/mtr.
 
-
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
-CA...Beach Hazards Statement through late tonight for CAZ006-505-509-
-     529-530.
-
-     Flood Watch through Friday evening for CAZ006-502>506-508>510-
+CA...Flood Watch through this evening for CAZ006-502>506-508>510-
      512>518-528>530.
 
-     High Surf Advisory from 4 AM to 10 PM PST Friday for CAZ006-505-
+     High Surf Advisory until 10 PM PST this evening for CAZ006-505-
      509-529-530.
 
-PZ...Gale Warning until 3 AM PST Friday for Mry Bay-Pigeon Pt to Pt
-     Pinos 0-10 nm-Pigeon Pt to Pt Pinos 10-60 NM-Pt Arena to Pt
-     Reyes 0-10 nm-Pt Arena to Pt Reyes 10-60 NM-Pt Pinos to Pt
-     Piedras Blancas 0-10 nm-Pt Reyes to Pigeon Pt 0-10 nm-SF
-     Bay N of Bay Bridge.
+PZ...Small Craft Advisory until 3 PM PST this afternoon for Mry Bay-
+     Pigeon Pt to Pt Pinos 0-10 nm-Pigeon Pt to Pt Pinos 10-60
+     NM-Pt Arena to Pt Reyes 0-10 nm-Pt Pinos to Pt Piedras
+     Blancas 0-10 nm-Pt Reyes to Pigeon Pt 0-10 nm-SF Bay N of
+     Bay Bridge.
+
+     Small Craft Advisory until 3 AM PST Sunday for Pt Arena to Pt
+     Reyes 10-60 NM.
 
 &&
 
 $$
 
-SHORT TERM...Flynn
-LONG TERM....Flynn
-AVIATION...Canepa
-MARINE...Flynn
+SHORT TERM...KR
+LONG TERM....KR
+AVIATION...Behringer
+MARINE...Behringer
 
 Visit us at www.weather.gov/sanfrancisco
 
