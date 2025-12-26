@@ -3,6 +3,7 @@
             [cheshire.core :as ch]))
 
 (def url "https://api.openai.com/v1/chat/completions")
+(def image-url "https://api.openai.com/v1/images/generations")
 
 (def initial-setup (slurp "setup.txt"))
 (def prompt (slurp "prompt.txt"))
@@ -29,3 +30,29 @@
     (catch Exception e
       (println "Request failed:" (.getMessage e))
       (System/exit 1))))
+
+(defn generate-image [key prompt]
+  (try
+    (client/post image-url
+                 {:body (ch/generate-string {:model "dall-e-3"
+                                              :prompt prompt
+                                              :size "1024x1024"
+                                              :response_format "b64_json"
+                                              :n 1})
+                  :content-type :json
+                  :headers {"Authorization" (str "Bearer " key)}
+                  :as :json})
+    (catch clojure.lang.ExceptionInfo e
+      (let [data (ex-data e)]
+        (println "OpenAI Image API error:" (:status data))
+        (println (:body data)))
+      (System/exit 1))
+    (catch Exception e
+      (println "Image request failed:" (.getMessage e))
+      (System/exit 1))))
+
+
+(comment
+  (def resp (generate-image (System/getenv "OPENAI_API_KEY") "a beautiful sunset over mountains"))
+  (:body resp)
+  #_())

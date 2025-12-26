@@ -2,7 +2,8 @@
   (:require [net.cgrand.enlive-html :as html]
             [sfweath.openai]
             [sfweath.telegram]
-            [clojure.string :as str]))
+            [clojure.string :as str])
+  (:import [java.util Base64]))
 
 (def base-url
   "https://forecast.weather.gov/product.php?site=NWS&issuedby=MTR&product=AFD&format=txt&version=1&glossary=0")
@@ -74,4 +75,13 @@
 
 (comment
   (-main)
+
+  (import '[java.io FileOutputStream])
+
+  (let [resp (sfweath.openai/generate-image openapi-key "squall line on prog chart")
+             img-b64 (-> resp :body :data first :b64_json)
+        img-bytes (.decode (Base64/getDecoder) img-b64)]
+    (with-open [out (java.io.FileOutputStream. "img-tst.png")]
+      (.write out img-bytes))
+    (spit "img-tst.txt" img-b64))
   #_())
