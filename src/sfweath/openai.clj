@@ -9,17 +9,23 @@
 
 (defn prep-body [afd]
   (ch/generate-string
-   {:model "gpt-4o"
+   {:model "gpt-5-mini"
     :messages [{:role "system" :content initial-setup}
-               {:role "user" :content (str prompt "\n" afd)}]
-    :max_tokens 200
-    :temperature 1.2
-    :n 1}
+               {:role "user" :content (str prompt "\n" afd)}]}
    {:escape-non-ascii true}))
 
 (defn request [key body]
-  (client/post url
-               {:body body
-                :content-type :json
-                :headers {"Authorization" (str "Bearer " key)}
-                :as :json}))
+  (try
+    (client/post url
+                 {:body body
+                  :content-type :json
+                  :headers {"Authorization" (str "Bearer " key)}
+                  :as :json})
+    (catch clojure.lang.ExceptionInfo e
+      (let [data (ex-data e)]
+        (println "OpenAI API error:" (:status data))
+        (println (:body data)))
+      (System/exit 1))
+    (catch Exception e
+      (println "Request failed:" (.getMessage e))
+      (System/exit 1))))
