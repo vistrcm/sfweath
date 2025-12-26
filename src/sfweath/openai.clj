@@ -26,11 +26,11 @@
     (catch clojure.lang.ExceptionInfo e
       (let [data (ex-data e)]
         (println "OpenAI API error:" (:status data))
-        (println (:body data)))
-      (System/exit 1))
-    (catch Exception e
-      (println "Request failed:" (.getMessage e))
-      (System/exit 1))))
+        (println (:body data))
+        (throw (ex-info "OpenAI API request failed"
+                        {:status (:status data)
+                         :body (:body data)}
+                        e))))))
 
 (defn generate-image [key prompt]
   (try
@@ -46,11 +46,10 @@
     (catch clojure.lang.ExceptionInfo e
       (let [data (ex-data e)]
         (println "OpenAI Image API error:" (:status data))
-        (println (:body data)))
-      (System/exit 1))
-    (catch Exception e
-      (println "Image request failed:" (.getMessage e))
-      (System/exit 1))))
+        (println (:body data))
+        (throw (ex-info "OpenAI Image API request failed"
+                        {:status (:status data)
+                         :body (:body data)}))))))
 
 
 (comment
