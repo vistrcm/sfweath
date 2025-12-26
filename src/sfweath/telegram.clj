@@ -21,3 +21,17 @@
 (defn send-message [auth chat-id msg]
   (request auth "sendMessage" {:chat_id chat-id
                                :text msg}))
+
+(defn send-photo
+  ([auth chat-id photo-bytes]
+   (send-photo auth chat-id photo-bytes nil))
+  ([auth chat-id photo-bytes caption]
+   (let [parts [{:name "chat_id" :content (str chat-id)}
+                {:name "photo"
+                 :content photo-bytes
+                 :filename "weather.png"}]]
+     (client/post (method-url auth "sendPhoto")
+                  {:multipart (if caption
+                                (conj parts {:name "caption" :content caption})
+                                parts)
+                   :as :json}))))
