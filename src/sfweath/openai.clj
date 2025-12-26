@@ -4,13 +4,14 @@
 
 (def url "https://api.openai.com/v1/chat/completions")
 (def image-url "https://api.openai.com/v1/images/generations")
+(def model "gpt-5-mini")
 
 (def initial-setup (slurp "setup.txt"))
 (def prompt (slurp "prompt.txt"))
 
 (defn prep-body [afd]
   (ch/generate-string
-   {:model "gpt-5-mini"
+   {:model model
     :messages [{:role "system" :content initial-setup}
                {:role "user" :content (str prompt "\n" afd)}]}
    {:escape-non-ascii true}))
