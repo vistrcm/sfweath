@@ -88,10 +88,14 @@
 
   (import '[java.io FileOutputStream])
 
-  (let [resp (sfweath.openai/generate-image openapi-key "squall line on prog chart")
+  (let [summary (slurp "afd.sum")
+        full-text (slurp "afd")
+        dalle-prompt (sfweath.openai/create-image-prompt openapi-key summary full-text)
+        resp (sfweath.openai/generate-image openapi-key dalle-prompt)
              img-b64 (-> resp :body :data first :b64_json)
         img-bytes (.decode (Base64/getDecoder) img-b64)]
     (with-open [out (java.io.FileOutputStream. "img-tst.png")]
       (.write out img-bytes))
-    (spit "img-tst.txt" img-b64))
+    (spit "img-tst.txt" img-b64)
+    (sfweath.telegram/send-photo telegram-token put-your-chat-id-here  img-bytes "Weather visualization"))
   #_())
