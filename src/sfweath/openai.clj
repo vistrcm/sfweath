@@ -9,11 +9,16 @@
 (def initial-setup (slurp "setup.txt"))
 (def prompt (slurp "prompt.txt"))
 
-(defn prep-body [afd]
+(defn prep-body
+  [current prev]
   (ch/generate-string
    {:model model
     :messages [{:role "system" :content initial-setup}
-               {:role "user" :content (str prompt "\n" afd)}]}
+               {:role "user" :content (str prompt
+                                           "\n"
+                                           "current afd:\n" current
+                                           "\n\n"
+                                           "previous afd:\n" prev)}]}
    {:escape-non-ascii true}))
 
 (defn request [key body]

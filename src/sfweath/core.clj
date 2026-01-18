@@ -13,7 +13,7 @@
   (when (or (nil? val)
             (= "" val))
     (println (str "please set " name))
-    #_(System/exit 1)))
+    (System/exit 1)))
 
 (comment
   (exit-if-not-set! "namehel" "hello")
@@ -45,12 +45,13 @@
   (first (html/texts (html/select page [:pre.glossaryProduct]))))
 
 (defn r-body
-  [text]
-  (sfweath.openai/prep-body (str/replace text "&&" "")))
+  [prev current]
+  (sfweath.openai/prep-body (str/replace current "&&" "")
+                            (str/replace prev    "&&" "")))
 
 (defn fetch-summary
-  [text]
-  (-> (sfweath.openai/request openapi-key (r-body text))
+  [prev current]
+  (-> (sfweath.openai/request openapi-key (r-body prev current))
       :body
       :choices
       first
@@ -70,9 +71,10 @@
   (exit-if-not-set! "OPENAI_API_KEY" openapi-key)
   (exit-if-not-set! "TELEGRAM_BOT_TOKEN" telegram-token)
 
-  (let [page (fetch-page)
+  (let [prev (slurp "afd")
+        page (fetch-page)
         text (extract-text page)
-        summary (fetch-summary text)
+        summary (fetch-summary prev text)
         img (prep-image summary text)]
     (spit "afd" text)
     (spit "afd.sum" summary)
