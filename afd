@@ -1,223 +1,188 @@
 
-693
-FXUS66 KMTR 271217
+724
+FXUS66 KMTR 281431
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-517 AM PDT Fri Mar 27 2026
+731 AM PDT Sat Mar 28 2026
 
-...New AVIATION, MARINE...
+...New CLIMATE...
 
 .KEY MESSAGES...
-Updated at 900 PM PDT Thu Mar 26 2026
+Updated at 1010 AM PDT Fri Mar 27 2026
 
- - Above normal temperatures persist into the weekend
+ - Above normal temperatures continue through the weekend
 
- - Offshore winds across the North Bay Interior Mountains thru
-   Friday morning
-
- - Pattern change with chances for largely beneficial rain and
-   increased breezes next week
+ - Beneficial rain possible next week
 
 &&
 
 .SHORT TERM...
-Issued at 900 PM PDT Thu Mar 26 2026
-(Tonight through Friday Night)
+Issued at 1210 AM PDT Sat Mar 28 2026
+(Tonight through Sunday)
 
-Above normal warmth is anticipated to continue as we end the
-work-week. The current expectation is that we`ll see a modest push
-of offshore breezes through the pre-dawn hours on Friday. 925mb
-flow of 20 to 30 knots is forecast to extend from the northern
-Sacramento Valley southward through the Bay Area and portions of
-the Central Coast. This could translate to wind gusts at the
-highest elevations of the North Bay exceeding 35-45 mph thanks to
-mountain wave activity through sunrise Friday. In addition to the
-compressional warming associated with offshore wind patterns, the
-marine layer will remain nearly non-existent. With a dry airmass
-in place, there should be a large diurnal temperature range with
-MinT values in the 40s (a few upper 30s cannot be discounted) with
-Friday afternoon MaxTs in the 70s and 80s, even across coastal
-regions.
+The longwave pattern over the region is mostly zonal flow aloft
+with a few embedded ripples, which are discernible on water vapor
+imagery. At the surface we`re seeing a pattern shift. High
+pressure over the Great Basin and troughiness at the coast led to
+notable offshore flow yesterday. That has since faded as the
+surface high weakened and began to shift eastward toward the
+Plains. A quick look at the satellite fog product shows the
+fading offshore flow is being replaced by a slow advancing
+southerly surge. Low clouds and fog are slowly oozing northward
+toward along the Big Sur coast. Hi-res WRF/HRRR/HREF guidance
+bring the surge northward initially to Monterey Bay and then
+farther northward up the coast by mid to late morning. The surge
+of clouds are predicted to hug the coast for most of the day
+today. The cooler marine influence will keep coastal areas in
+check temp wise, but move a few miles inland and it will be much
+warmer with highs int he 70s and 80s. Those highs will be 10-15
+degrees above normal with a few climate sites make a run at
+records again.
+
+Tonight through Sunday...Shallow marine layer will hug the coast
+and nose its way inland Saturday night. Given the compressed
+nature some patchy fog will be possible along the coast. Expect
+clouds/fog to linger through Sunday morning. Stronger northerly
+flow ramps up through the day Sunday with a hint of offshore flow.
+As such, the marine layer clouds will dissipate and be most
+prevalent along the Central Coast. No big change in the airmass on
+Sunday and less marine influence will actually lead to warmer
+temperatures around the region. Temps will be 70s and 80s with a
+few interior Central Coast spots making a run for 90. Goes with
+out saying, a few records may fall.
 
 &&
 
 .LONG TERM...
-Issued at 900 PM PDT Thu Mar 26 2026
-(Saturday through next Thursday)
+Issued at 1210 AM PDT Sat Mar 28 2026
+(Sunday night through next Friday)
 
-The weekend will be largely pleasant with the start of our
-cooling trend expected to commence early next week. Highs on
-Saturday and Sunday are expected to remain above normal,
-especially for areas away from the coast. That said, there are
-some signs that onshore flow may be a *slightly* stronger on
-Saturday which may equate to MaxTs a few degrees lower than
-Sunday. In fact, higher resolution NWP from PGE/SJSU WRF hint that
-a very shallow and compressed marine layer may try to invade
-coastal regions (Pacific Coast and SF/Monterey Bays) on Saturday
-with potentially some morning drizzle/patchy fog. We`ll fine tune
-this in future forecasts. By Saturday afternoon, however, most of
-the shallow moisture should be scoured out with mostly sunny skies.
-Depending on the breadth/inland extent, this could modulate MaxTs
-by 2-5 degrees. Still, it`ll be largely pleasant on Saturday.
-Offshore surface to 925mb flow appears more organized on Sunday,
-and while morning low clouds/fog cannot be discounted during this
-time,especially along the coast, Sunday for sure looks to be the
-warmest day this weekend.
-
-After an extended time of above normal warmth, there will be a
-very noticeable change as unsettled conditions take shape. This
-will mean opportunities for rainfall and increased onshore winds.
-Our stubborn area of high pressure will be dislodged eastward by
-our longwave pattern that is well-advertised by a majority of
-deterministic and ensemble guidance. There are some differences
-with respect to the overall amplitude/depth of the upper trough.
-That said, the greatest spread in the NWP is due to differences in
-the progression of various upper troughs. What this translates to
-is high confidence that we`ll see widespread cloud cover and
-rainfall with lower confidence in specific onset/end times.
-
-A discernible plume of precipitable water (above 150% of normal
-for this time of year) will stretch from the Central Pacific
-eastward toward the West Coast by the time we get into Monday.
-Confidence is increasing that a bulk of the more widespread
-activity will be later Monday and into Tuesday as a ribbon of
-50-70 knot mid-level flow develops ahead of a positively titled
-upper trough. This corridor of greater winds has shifted a bit
-farther south compared to what was forecast yesterday by NWP. Not
-surprisingly, the richest plume of moisture appears that it`s
-aimed a bit more at the Central Coast compared to areas north of
-the Golden Gate. In fact, the latest QPF through Thursday evening
-has increased across the Santa Lucia Range/Big Sur Coastline while
-ticking down slightly across the Western Sonoma Hills. This
-aligns well with both GEFS and EPS probability of Integrated Vapor
-Transport above 250 kilogram/meter/second maximized south of the
-Golden Gate (and probably south of Monterey Bay), at least with
-this initial upper trough on Tuesday.
-
-A second, more compact upper trough will swing through the region
-early Wednesday. This second opportunity for precipitation will
-be what allows totals to tick up a little higher across the North
-Bay. In total, rain amounts across the Coastal Ranges in Sonoma
-County still have the best chance of eclipsing 1" (around a 40%
-chance), with the probability of 1" lower farther south. Of
-course, areas such as the Santa Cruz Mountains and Santa Lucia
-Range are likely to be the spots where rain totals could rival
-regions farther north. Instability does build a little bit more
-with this second system. While the probability of thunder remains
-around 10%, the convective nature of activity does complicate rain
-amounts some due to the isolated to scattered nature of precip.
-
-It does appear that ridging will return sometime Thursday and
-into Friday, but timing of when this trough will progress eastward
-is highly uncertain. Total rain amounts are forecast to average
-between one tenth of an inch across inland areas (including the
-population centers) to half an inch across coastal regions of the
-Central Coast and portions of the North Bay. As noted above,
-western Sonoma County will have the best chance for rain amounts
-at or above 1 inch. It should be restated that if this second
-system amplifies more than currently anticipated, then the window
-for rainfall could be extended into Friday which could drive
-totals upward. Still, rain amounts appear largely beneficial as
-even the 90th percentile QPF (reasonable-worst case scenario) are
-largely 1-2" across the region which shouldn`t translate to a
-major flood risk given the recent dry spell.
-
-This second system will have the potential to produce the
-stronger non-convective winds (largely across the higher terrain)
-as the breadth of higher momentum resides through the column.
-Probability of 40 mph winds are around 60-80% across the North Bay
-Mountains, East Bay Hills, Sonoma Coastal and Gabilan Range(s).
-
-Ridging is expected to return toward the end of next week. At the
-surface a cold front will slide southward and dry out the low
-levels. As surface pressures rise across the Great Basin, we may
-find ourselves in another period with modest offshore winds. We`ll
-examine this a little closer with time.
+To kick off the work week we`ll begin to see a more noticeable
+change in the overall sensible weather. The persistent ridge of
+high pressure will get knocked down first by a weak upper level
+disturbance moving through the PacNW and much more robust upper
+trough deepening over the region by mid-week. Temperatures will
+initially drop by 5 to 10 degrees from Sunday to Monday. Despite
+the drop forecast highs on Monday are still a few above normal.
+Further cooling is expected through out the week with near normal
+or seasonably cool temperatures by Wednesday. While the drop in
+temps will be welcomed sight for some much for was is being put
+on rain chances. So will it rain midweek? Previous model runs were
+kinda split in two camps: one a deeper trough with more direction
+impact over Central CA or less deepening of the trough and more
+impact northward. If you`re looking for precip the trend isn`t
+your and tonight`s model trend is drier. The developing upper
+trough midweek is looking more like an inside slider with less
+"down the coast" trajectory. We were also monitoring a decent
+tropical moisture plume/tap as well. Sadly, this plume does take a
+Central Coast path, but quickly gets shunted southward as the
+inside slider moves through. While rain falls amounts have lowered
+we haven`t completely removed rain just yet. Current forecast
+still brings light rain back to the region on Tuesday with more
+widespread/steadier rain Wednesday into Thursday. Now for the
+rainfall amounts: Interior Central Coast and far E Bay nothing to
+a trace/0.01", coast, North Bay, and Bay Area a few hundredths,
+and coastal mts up to 0.25"
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 517 AM PDT Fri Mar 27 2026
+Issued at 439 AM PDT Sat Mar 28 2026
 
-It`ll continue VFR through today with surface pressure gradients
-supporting light winds in the valleys to offshore winds in the
-hills and mountains. The gradient pattern then quickly eases and
-reverses to onshore including possibly southerly winds developing
-along the north Central Coast later today, tonight and Saturday
-according to recent high resolution rapid refresh (hrrr) model
-output. If it does develop this may bring stratus /IFR/ northward
-along the coast to KSNS and KMRY and possibly as far north as KHAF
-if it develops and becomes stronger than currently forecast. At this
-time, satellite shows stratus gathering south of Point Conception.
-However, the SMX-SFO and SBA-SFO pressure gradients do not currently
-support southerly winds.
+Stratus is making its way up the coastline with HAF reporting
+ceilings around 500 ft. Kept in fog chances for STS but it is
+looking less likely for other airports tonight. Stratus is arriving
+later this morning than originally forecast but it should fill in
+along the coastline within the next few hours. Guidance continues to
+indicate clearing by 17-19Z but there is some potential for stratus
+to last longer at coastal sites (HAF, MRY, SNS). A shallow marine
+layer looks to develop again tonight which will bring stratus back
+to coastal sites. Confidence is mixed as to the timing of tonight`s
+stratus return. Guidance is favoring a later return of stratus
+(after 06Z) compared to an early return (00-06Z) like was in the 06Z
+TAFs. Given the later return of stratus tonight, I tended to agree
+with the later stratus arrival tomorrow night but this may need to
+be adjusted.
 
-Vicinity of SFO...VFR. Light and variable wind becoming westerly
-10 knots in the afternoon and evening. Wind light and variable
-tonight and Saturday morning.
+Vicinity of SFO...VFR with a low potential for stratus to reach SFO
+this morning. Confidence is highest that the shallow marine layer
+(~500 ft) will keep stratus confined directly to the coastline and
+won`t filter into the SF Bay. Breezy NW winds continue through this
+afternoon before winds ease this evening/overnight. Low chance for
+stratus to reach SFO again tonight but confidence is low given that
+the marine layer is forecast to be shallow and around 500 ft again.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...VFR through today and early evening, then
-there is a low probability of a southerly wind reversal bringing
-stratus /IFR/ to KSNS and KMRY this evening to Saturday morning.
-Currently satellite imagery shows stratus gathering south of Point
-Conception. There is an upper level trough to our southwest and as
-it moves northeastward today it may help develop a southerly wind
-reversal. Recent high resolution model output show a weak 1 mb SMX-
-SFO gradient developing but not until early tonight; ideally for a
-robust southerly reversal the SMX-SFO gradient should reach at least
-2 mb or greater.
+Monterey Bay Terminals...Stratus is filtering into the Monterey Bay
+and Salinas Valley. IFR ceilings are expected to reach SNS by 12/13Z
+and last through the late morning. Ceilings will take slightly
+longer to fill in at MRY but will at least temporarily arrive
+between 13-17Z. Moderate confidence that ceilings will clear 17/18Z
+but there is some potential for ceilings to last longer than in the
+current forecast. HREF guidance shows stratus hanging around along
+the coastline through this afternoon. If the stratus bank does not
+dissipate much during the day then we may see an earlier return of
+stratus tonight. For now leaned towards a later arrival of stratus
+but this may need to be adjusted.
 
 &&
 
 .MARINE...
-(Today through Wednesday)
-Issued at 441 AM PDT Fri Mar 27 2026
+(Today through Thursday)
+Issued at 439 AM PDT Sat Mar 28 2026
 
-Winds and seas ease today. Light onshore winds and moderate seas
-over the weekend. Light rain returns by the middle of next week.
+Moderate to fresh northerly winds continue with localized strong
+gusts and moderate seas across the northern outer water. Light
+rain  is possible early to midweek as upper level troughing
+returns with  winds becoming more westerly to southerly. Strong to
+near gale force  gusts are expected late Thursday into the
+weekend. Seas build late  Thursday into Friday with significant
+wave heights between 10 to 12  feet expected across the outer
+waters.
 
 &&
 
 .CLIMATE...
-Issued at 301 AM PDT Fri Mar 27 2026
+Issued at 717 AM PDT Sat Mar 28 2026
 
 Here are the record high temperatures at the long term sites for
-March 27th and March 29th.
+March 28th and March 29th.
 
-Location          March 27th          March 29th
+Location          March 28th          March 29th
 
-Santa Rosa        87 in 1930          86 in 2018
-San Rafael        82 in 1969, 1951    85 in 2018
-Kentfield         90 in 1923          84 in 1935
-Napa              86 in 1930          83 in 2018, 1968
-Richmond          82 in 1952          79 in 1968
-Livermore         82 in 1969, 1930    85 in 2015
-San Francisco     84 in 1923          81 in 2018
-SFO Airport       77 in 2021, 1986    81 in 2018
-Redwood City      83 in 1969          85 in 2018, 1968
-Half Moon Bay     76 in 1952          77 in 2004
-Oakland           79 in 1986          79 in 2003
-San Jose          85 in 1923          82 in 2018
-Salinas Airport   80 in 1969, 1952    86 in 2018
+Santa Rosa        85 in 1923          86 in 2018
+San Rafael        81 in 2018          85 in 2018
+Kentfield         91 in 1923          84 in 1935
+Napa              83 in 2015          83 in 2018, 1968
+Richmond          81 in 1969          79 in 1968
+Livermore         82 in 2015          85 in 2015
+San Francisco     81 in 1986          81 in 2018
+SFO Airport       77 in 2018          81 in 2018
+Redwood City      81 in 2018          85 in 2018, 1968
+Half Moon Bay     79 in 1968          77 in 2004
+Oakland           79 in 2015          79 in 2003
+San Jose          84 in 1923          82 in 2018
+Salinas Airport   84 in 2004          86 in 2018
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...None.
+PZ...Small Craft Advisory until 3 PM PDT Sunday for Pt Arena to Pt
+     Reyes 10-60 NM.
+
 &&
 
 $$
 
-SHORT TERM...Bain
-LONG TERM....Bain
-AVIATION...Canepa
-MARINE...Canepa
+SHORT TERM...MM
+LONG TERM....MM
+AVIATION...Kennedy
+MARINE...Kennedy
 
 Visit us at www.weather.gov/sanfrancisco
 
