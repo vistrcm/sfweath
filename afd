@@ -1,105 +1,93 @@
 
-480
-FXUS66 KMTR 291139
+723
+FXUS66 KMTR 301135
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-439 AM PDT Sun Mar 29 2026
+435 AM PDT Mon Mar 30 2026
 
 ...New AVIATION, MARINE...
 
 .KEY MESSAGES...
-Updated at 142 AM PDT Sun Mar 29 2026
+Updated at 1136 PM PDT Sun Mar 29 2026
 
- - Above normal temperatures today.
+ - Warm and dry today with cooling trend beginning.
 
- - Cooler conditions return Monday, though temperatures remain above
-   normal.
-
- - Periodic chances for light rain Tuesday-Thursday.
-
- - High temperatures Tuesday-Thursday will be near normal to below
-   normal.
+ - Light rain Tuesday through Thursday.
 
 &&
 
 .SHORT TERM...
-Issued at 142 AM PDT Sun Mar 29 2026
-(Today and tonight)
+Issued at 1136 PM PDT Sun Mar 29 2026
+(Tonight through Tuesday)
 
-Quiet weather continues through Sunday, with the morning forecast
-including a southerly surge of stratus. This can be seen on
-satellite this morning as it creeps up the coast of Monterey. The
-question becomes how far up the coast it makes it before it gets
-mixed out by morning. After that, another warm day is on tap with
-high temperatures being above normal again.
+The upper level pattern is a bit interesting, with near zonal flow
+over the Bay Area and Central coast, while weak ridging flattens
+over the eastern Pacific. The forecast challenge for today will be
+high temperatures, as we should begin a cooling trend. Looking at
+the soundings from 12Z Sun and 0Z Mon, the 925mb and 850mb remained
+warm. Given the forecast isn`t deviating too much, looked into the
+GEFS and ECMWF ensembles, plus deterministic model guidance. Both
+favored elevated temperatures in those heights with high
+temperatures being a few degrees warmer than the NBM out put. Opted
+to run with the NBM EXP to push temperatures a few degrees warmer.
 
 &&
 
 .LONG TERM...
-Issued at 142 AM PDT Sun Mar 29 2026
-(Monday through Saturday)
+Issued at 1136 PM PDT Sun Mar 29 2026
+(Tuesday night through next Sunday)
 
-Zonal flow continues through Monday, though a cooling trend will
-begin. High temperatures will remain above normal for one more
-day, before becoming near normal to just below normal on Tuesday
-due to a pattern change. An shortwave trough passes over the
-region which will bring 20-40% chance of rain, favoring the
-coastal mountains and the Bay Area. Wednesday chances increase for
-the North Bay before gradually tapering off into Thursday.
-Temperatures begins to rise Friday and into the weekend. An upper
-low slides into the PacNW Thu and then looks to slide into
-intermountain west, while high pressure builds over the western
-Pacific. This may also bring some breezier winds.
+The pattern change continues on Tuesday as an upper level
+disturbance passes over California. Rain chances continue into
+Wednesday into Thursday morning as a disturbances passes over the
+PacNW. Each time rain amounts look to be light, generally around
+0.10" or less for interior locations and up to a 0.25" in the
+coastal mountains. After that, drier weather looks to be on tap as
+high pressure builds in from the west and the upper low slides digs
+into the intermountain. Breezier offshore/northerly winds are
+expected late in the week, especially for the interior mountains and
+areas of higher terrain.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 439 AM PDT Sun Mar 29 2026
+Issued at 434 AM PDT Mon Mar 30 2026
 
-VFR for all sites except MRY and SNS where stratus is attempting to
-fill in over the Monterey Bay. High clouds are expected to build in
-this afternoon and will persist through the remainder of the TAF
-period. Breezy onshore winds return this afternoon with winds
-peaking between 10 to 15 knots. Winds diminish overnight becoming
-variable at times. Another shallow marine layer looks possible
-tonight but HREF guidance keeps the stratus bank located along the
-Big Sur coastline.
+VFR. Diurnally driven moderate onshore winds return this afternoon
+and evening before winds ease again overnight, becoming offshore to
+locally variable. High clouds continue to filter in across the
+region with gradual lowering (but still VFR ceilings) expected
+tonight into tomorrow. There is a low chance for drizzle after 12Z
+on Tuesday but confidence is too low to include in the current TAFs.
+Rain becomes more likely Wednesday into Thursday.
 
-Vicinity of SFO...VFR. Onshore winds strengthen by early this
-afternoon with winds peaking around 15 knots. Winds weaken overnight
-before strengthening again late tomorrow morning into the afternoon.
+Vicinity of SFO...VFR. Winds remain light through late morning
+before moderate onshore winds to around 15 knots develop this
+afternoon and evening before weakening again overnight.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...Currently VFR with the potential for IFR
-CIGs to return this morning. Confidence is mixed as to if stratus
-will fill in over the Monterey Bay and reach SNS/MRY. Recent high
-resolution guidance suggests stratus will stay out of the Monterey
-Bay while other models suggest it will fill in. Kept tempos in for
-IFR CIGs at MRY and SNS from 12Z to 16Z but confidence is low.
-Otherwise, onshore winds increase this afternoon with winds peaking
-between 10 to 14 knots. Another shallow marine layer is likely to
-develop tonight but confidence is mixed as to if it will make it to
-MRY/SNS. For now, leaning towards stratus not reaching MRY/SNS
-tonight but if it does it is likely to occur late (after 12Z Monday).
-
+Monterey Bay Terminals...VFR. Light, offshore to variable winds
+continue through the rest of the morning before onshore winds
+strengthen to around 8 to 12 knots this afternoon and evening. High
+level clouds persist through the TAF period but will see gradual
+lowering tonight into tomorrow.
 
 &&
 
 .MARINE...
-(Today through Friday)
-Issued at 439 AM PDT Sun Mar 29 2026
+(Today through Saturday)
+Issued at 434 AM PDT Mon Mar 30 2026
 
-Moderate to fresh northerly winds continue across the outer waters
-with locally strong gusts across the far northern outer waters.
-Occasional fresh to strong gusts continue across the northern
-waters through early Monday before winds diminish. Light rain is
-possible Tuesday through Thursday. Hazardous conditions for small
-crafts return mid to late week as significant wave heights build
-and winds increase to near gale force.
+A gentle to moderate northerly breeze continues through midweek.
+Winds briefly shift more southerly late Tuesday into Wednesday as
+a  weak cold front passes through with northerly winds returning
+Thursday. Hazardous conditions for small craft return late week as
+northwest winds strengthen to near gale force and seas build to 10
+to 12 feet.
 
 &&
 
@@ -129,12 +117,7 @@ Salinas Airport   86 in 2018
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...Small Craft Advisory from 3 PM this afternoon to 9 PM PDT this
-     evening for Pt Arena to Pt Reyes 0-10 nm.
-
-     Small Craft Advisory until 9 AM PDT Monday for Pt Arena to Pt
-     Reyes 10-60 NM.
-
+PZ...None.
 &&
 
 $$
