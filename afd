@@ -1,125 +1,138 @@
 
-380
-FXUS66 KMTR 021140
+088
+FXUS66 KMTR 031140
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-440 AM PDT Thu Apr 2 2026
+440 AM PDT Fri Apr 3 2026
 
 ...New AVIATION, MARINE...
 
 .KEY MESSAGES...
-Updated at 1145 PM PDT Wed Apr 1 2026
+Updated at 1205 AM PDT Fri Apr 3 2026
 
- - Unsettled weather through early Thursday morning with cool,
-   gusty, and rainy conditions.
+ - Moderate to strong offshore flow Friday
 
- - Drier weather moves in mid Thursday, with a slight increase in
-   temperatures.
+ - Warm weather returns through the weekend
 
- - Offshore flow and the warming trend continues into the weekend.
+ - Cooler weather and rain chances next week
 
 &&
 
 .SHORT TERM...
-Issued at 1145 PM PDT Wed Apr 1 2026
-(Tonight through Friday)
+Issued at 1205 AM PDT Fri Apr 3 2026
+(Today and tonight)
 
-A cold front passes through the region tonight, which will spread
-showers across the region from north to south. Ahead of its arrival,
-breezy southeasterly winds are being observed with gusts up to 20-30
-mph for much of the region, while higher points of terrain see gusts
-up to 45 mph. Winds eventually become northwesterly after the
-frontal passage and will remain breezy into Thursday morning. In
-terms of rain amounts for the very near term, now through Thursday
-morning, the mountains and hills of the Bay Area and Santa Cruz
-County will see up to 0.25" while valley locations are closer to
-0.05-0.15". For the rest of the Central Coast amounts look to range
-from 0.0-0.15", perhaps up to 0.25" in the Santa Lucia Range. Drier
-weather works in behind the frontal passage, with high
-temperatures making it into the 60s for interior valley
-locations, and in generally in the 50s along the immediate
-coastline and in higher points of elevation.
+Post-frontal high pressure brought strong onshore winds Thursday.
+This feature has moved inland over Oregon, and will continue towards
+northern Nevada over the next 12 hours. As it does, the gradient
+between the surface high and a trough along the coast of California
+will strengthen. The SFO-WMC gradient was +14 mb last night, and is
+dropping sharply. It`s currently around -4.5 mb and will bottom
+out around -10 mb later today. This gradient will support
+moderate to strong offshore winds through midday Friday before the
+high starts to weaken and the offshore gradient gradually relaxes
+through the weekend. The strongest winds should be over the Vaca
+Mountains in Napa County. Stable conditions in the lower
+atmosphere will encourage mountain wave activity that will allow
+strong gusts to reach the valley through the morning hours.
+
+Outside of the burst of offshore winds, a warming trend is the
+biggest story in the short term forecast. Now that the cold front
+has moved well inland, the pattern is flipping back to warm and dry.
+At 500 mb, a NW to SE oriented ridge will build over the next 48
+hours. This upper level high will increase temperatures through
+large scale subsidence and clear skies. The 850 mb temperature
+averaged 2.8 C Thursday, which is between the 10th and 25th
+percentile for this time of year. That metric will shoot up to
+around 13-14 C by Friday afternoon, or roughly the 75th
+percentile. Inland temperatures will respond by reaching the mid
+to upper 70s this afternoon. The coast will get in on the warmer
+temperatures as well, thanks to the offshore winds.
 
 &&
 
 .LONG TERM...
-Issued at 1145 PM PDT Wed Apr 1 2026
-(Friday night through next Wednesday)
+Issued at 1205 AM PDT Fri Apr 3 2026
+(Saturday through Thursday)
 
-High pressure builds into the region on Friday and holds through the
-weekend. This will lead to warm and dry conditions, accompanied with
-offshore winds through the weekend. On Friday, the winds will be the
-strongest, as the pressure gradients tighten over northern
-California. The strongest winds will be found over the mountains,
-with gusts of 40 to 50 mph in the North Bay Interior Mountains with
-gusts of 30 to 40 mph in the East Bay Hills, Eastern Santa Clara
-Hills, and Santa Cruz Mountains. These winds ease Friday evening,
-with lighter winds expected for the weekend.
+We will pick up some high clouds on Saturday as an upper level plume
+of moisture rides over the ridge. Otherwise the warming trend
+will continue through the weekend as the 850 temperatures continue
+to climb. Inland temperatures will reach the mid 80s on Saturday
+and Sunday. That about 15 degrees above normal, and it`s possible
+we could set a daily record or two.
 
-A pattern change looks likely early next week. Cooler weather
-would return along with the 20-40% chance for rain, favoring the
-North Bay.
+The return of weak onshore flow Sunday will likely bring the
+immediate coast back into the low to mid 60s. There is a chance
+for a southerly surge on Sunday as well. This can happen when the
+large scale E-W pressure gradient becomes weakly offshore and the
+afternoon sea breeze butts up against the coastal mountains. If
+the atmosphere is stable, the air can`t make it over the
+mountains and has to either go north or south parallel to the
+coast. The PGE-WRF shows a southerly surge developing Sunday
+morning and reaching San Francisco by midday. Southerly surges are
+hard to predict though, so it could be delayed until Monday or
+not happen at all. There is much higher confidence that the more
+typical marine layer will return Monday as stronger NW winds
+return to the coastal waters. These onshore winds will also cool
+inland areas back into the 70s Mon-Tue.
+
+By mid-week ensemble clusters all agree the pattern will shift back
+to a troughing regime. This pattern will very likely bring a cold
+front across the cwa Wednesday, bringing a chance for
+precipitation. The ECMWF ensemble mean is generally between 1/10
+and 1/4 inch of rain, with a 90% chance it`s will stay below 1".
+That`s firmly in the beneficial category, and there are no
+significant impacts expected. After the rain chance wane Thursday,
+seasonal temperatures continue through late week.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 430 AM PDT Thu Apr 2 2026
+Issued at 434 AM PDT Fri Apr 3 2026
 
-A passing front through the Bay Area early this morning is
-bringing clouds/precip to Monterey Bay region, but clearing for
-terminals to the north. Some patchy fog behind the front for STS
-otherwise VFR for all terminals this afternoon. Drier flow
-tonight with offshore flow developing. Added LLWS for KOAK early
-Friday with gusty NE winds around 2000-2500 ft
+Side note first - there continues to be a comms issue and METARS
+are not making it to the normal data feeds. A fix is in the works.
 
-Vicinity of SFO...VFR. Gusts onshore this afternoon 25-30kt.
+Dry offshore flow and clear skies. VFR through the period. LLWS
+in the forecast for KSTS and KOAK.
+
+Vicinity of SFO...NE early then onshore push later this afternoon.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...Lingering VCSH with IFR to MVFR cigs
-through 14-15Z. VFR this afternoon and tonight.
+Monterey Bay Terminals...VFR.
 
 &&
 
 .MARINE...
-(Today through Tuesday)
-Issued at 430 AM PDT Thu Apr 2 2026
+(Today through Wednesday)
+Issued at 434 AM PDT Fri Apr 3 2026
 
-A passing cold front will bring unsettled weather and fresh to
-strong breezes to the coastal waters today. Winds increase this
-afternoon behind the front over both bays as well. The stronger
-winds will result in hazardous conditions. Northerly breezes
-diminish and seas abate by the weekend.
+Winds continue to ease near shore, but fresh to strong breezes
+persist over the outer waters through Friday morning. Both winds
+and seas will abate by Friday afternoon. Light to moderate
+northerly breezes prevail this weekend and into next week.
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...Small Craft Advisory from 3 PM this afternoon to 9 PM PDT this
-     evening for SF Bay N of Bay Bridge.
-
-     Small Craft Advisory from 11 AM this morning to 3 AM PDT Friday
-     for Mry Bay.
-
-     Small Craft Advisory until 3 AM PDT Friday for Pigeon Pt to Pt
-     Pinos 0-10 nm-Pt Arena to Pt Reyes 0-10 nm-Pt Pinos to Pt
-     Piedras Blancas 0-10 nm-Pt Reyes to Pigeon Pt 0-10 nm.
-
-     Small Craft Advisory until 3 PM PDT Friday for Pt Arena to Pt
+PZ...Small Craft Advisory until 3 AM PDT Saturday for Pt Arena to Pt
      Reyes 10-60 NM.
 
-     Small Craft Advisory until 9 AM PDT Friday for Pigeon Pt to Pt
-     Pinos 10-60 NM.
+     Small Craft Advisory until 9 AM PDT this morning for Pigeon Pt
+     to Pt Pinos 10-60 NM.
 
 &&
 
 $$
 
-SHORT TERM...KR
-LONG TERM....KR
+SHORT TERM...Flynn
+LONG TERM....Flynn
 AVIATION...MM
 MARINE...MM
 
