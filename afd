@@ -1,173 +1,174 @@
 
-738
-FXUS66 KMTR 121648
+857
+FXUS66 KMTR 131153
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-948 AM PDT Sun Jul 12 2026
+453 AM PDT Mon Jul 13 2026
 
-...New UPDATE, MARINE...
+...New AVIATION, MARINE...
 
 .KEY MESSAGES...
-Updated at 1230 AM PDT Sun Jul 12 2026
+Updated at 1104 PM PDT Sun Jul 12 2026
 
- - Warmer and drier conditions continue through midweek with
-   Moderate HeatRisk returning across the region
+ - Monsoon moisture brings a slight chance for thunderstorms
+   through Tuesday
 
- - Coastal Flood Advisory for up to 1.7 feet of inundation above
-   ground level is possible in low-lying areas near shorelines and
-   tidal waterways
+ - Minor coastal flooding continues through Thursday morning due
+   to large tidal swings
 
- - Potential for thunderstorms and elevated fire weather concerns
-   continue today and tomorrow
-
-&&
-
-.UPDATE...
-Issued at 922 AM PDT Sun Jul 12 2026
-
-The forecast is on track this morning. Satellite and radar show
-high clouds and elevated showers over the region. A few locations
-have reported light rain showers, otherwise webcams have shown
-more virga.
+ - Warmer temperatures through Wednesday
 
 &&
 
 .SHORT TERM...
-Issued at 1230 AM PDT Sun Jul 12 2026
-(Today and tonight)
+Issued at 1104 PM PDT Sun Jul 12 2026
+(Tonight through Tuesday)
 
-Monsoonal moisture has started to make its way into the Bay Area and
-Central Coast. ACARS soundings all show a distinct moistening of the
-mid to upper levels of the atmosphere at MRY, SJC, SFO, and OAK.
-This correlates with the influx of mid and high level clouds moving
-over the region. Radar currently (as of midnight) shows a few
-showers moving into the coastal waters and across the interior
-Central Coast. NBM guidance does not show showers reaching the area
-until late Sunday morning. This increases confidence in the high
-resolution models (HRRR, NAM) that have consistently showed showers
-starting Saturday night into Sunday morning before becoming more
-widespread Sunday into Monday. NBM guidance shows a 5% chance of
-scattered thunderstorms on Sunday with high resolution guidance
-suggesting thunderstorm potential will increase starting early this
-morning. The overall confidence that high based thunderstorms
-(compared to high based showers) will develop today and tomorrow
-remains low given a lack of forecast instability in the models. The
-NAM shows the most instability across the region but keeps it
-limited to a few hundred J/kg of MUCAPE. While the overall
-thunderstorm risk is low, that does not mean we won`t see any
-thunderstorms develop today or tomorrow. It often takes just a few
-hundred J/kg of MUCAPE for a thunderstorm to develop here. This is a
-low probability, high impact scenario wherein if a thunderstorm
-develops, fire starts will be more likely given how dry the fuels
-are. Another aspect of this is how much precipitation will reach the
-surface. Given the high based nature of these storms any
-precipitation that falls is likely to evaporate before it reaches
-the ground (virga). Models do support some light rain making it to
-the ground but this peaks at a few hundredths of an inch. To sum it
-up, shower activity associated with the monsoonal moisture surge
-will increase over the next day and a low potential for dry
-thunderstorms to develop remains on the table.
+You may have noticed some colorful sunrises and sunsets over the
+last two days. Those are being caused by monsoon moisture pushing
+up from the south bringing us mid level clouds. Even if it`s
+overcast, there is enough room underneath the clouds (about 10,000
+feet) for the setting sun to illuminate the bottom of these
+altostratus and altocumulus clouds and create the beautiful
+sunsets. It also helps that the low-level marine layer clouds,
+which typically only sit about 1,000 feet above the surface and
+famously ruin sunsets, were not nearly as widespread as we saw
+last week. So that explains the sunset, but what about the
+monsoon?
 
-Temperatures remain in the upper 80s to low 90s across the interior
-today with the far interior Central Coast peaking in the upper 90s
-to low 100s. Coastal areas and the SF Bay shoreline will see
-temperatures peaking in the 70s to low 80s. Conditions may feel more
-humid during the day due to the influx of monsoonal moisture across
-the region. Temperatures drop into the 60s across the lower
-elevations Sunday night and remain in the 70s across the higher
-elevations. Widespread Moderate HeatRisk is expected across the
-higher elevations today with patchy Moderate HeatRisk across the
-urban portions of the Bay Area.
+While the word invokes many different feelings, "monsoon" actually
+describes a seasonal wind direction reversal. The North American
+Monsoon primarily impacts NW Mexico, Arizona, and New Mexico as
+the high summer temperatures in the desert induce thermal low
+pressure that brings in moist air primarily from the Gulf of
+California. This moisture, combined with the instability driven by
+high surface temperatures, often generates thunderstorms over the
+desert states in the Summer. In fact, Tuscon gets 52% of its rain
+from July-September, while we are lucky to get anything. Every
+once in a while the weather pattern aligns in such a way to bring
+some of this monsoon moisture to the Bay Area. In this case it`s
+driven by a very strong high pressure system over the Rockies.
+This system is so strong that Salt Lake City just set their all
+time record high temperature of 109F. Since winds flow clock-wise
+around a high, this system is pushing the monsoon moisture from
+Arizona in a circular pattern towards Southern California and then
+northward to the Bay Area. This final push of southerly winds is
+enhanced by a low pressure trough over the Eastern Pacific. As the
+moisture moves along this conveyer belt it also moves higher in
+the atmosphere (humid air is less dense than dry air). This
+explains where the uncommon mid level clouds are coming from.
+
+While this moisture was mostly harmless today, there is a slight
+chance for thunderstorms through Monday. If that happens it could
+bring significant impacts because the high cloud base and much drier
+lower atmosphere means that most of the rain would evaporate before
+it hits the ground. When lightning strikes without much rain,
+wildfires can start. Thunderstorms need 3 ingredients: instability,
+moisture and a lifting mechanism. We have moisture, check that off
+the list. The instability looks pretty meager. The 00Z weather
+balloon from Vandenberg found the steepest lapse rates to be -7.3
+C/km between 850 and 500 mb. That`s not terrible, but most of the
+moisture is above 600mb, where it`s more like -6.6 C/km, which is
+pretty bad. To add to the issues, there`s not really an obvious
+trigger either. Surface heating is the typical trigger for monsoon
+thunderstorms in the desert, but these would be high based
+thunderstorms that wouldn`t really feel that impact. More likely
+is nocturnal cloud top radiational cooling, combined with cloud
+base heating from surface radiation. While surface cooling makes
+things more stable, cloud top cooling does the opposite. If the
+top of the cloud gets colder and the bottom gets warmer, the
+instability increases due to the steeper lapse rate. The HRRR
+soundings also suggest that in the morning the the moisture plume
+will move further down towards the -10 to -20 C sweet spot where
+the combination of supercooled water and ice maximize particle
+collisions and cloud charging potential. So the best chance is
+probably early Monday morning. Even then it`s a long shot. We`re
+talking like somewhere between 5 and 10%. Don`t be surprised if
+you see another good sunrise and even a few drops of rain,
+however. Otherwise Monday will feel pretty much like Sunday. Maybe
+a couple degrees warmer.
 
 &&
 
 .LONG TERM...
-Issued at 1230 AM PDT Sun Jul 12 2026
-(Monday through Saturday)
+Issued at 1104 PM PDT Sun Jul 12 2026
+(Tuesday night through next Sunday)
 
-Beyond Monday`s thunderstorm chances (discussed in Short Term), shower
-and thunderstorm potential will dissipate Tuesday with most
-models suggesting the monsoonal moisture surge will diminish
-across our CWA. ECMWF guidance suggests enough moisture may linger
-during the day on Tuesday to see an isolated shower or two across
-the higher terrain but confidence is low in that scenario.
-Another round of monsoonal moisture, potentially bringing showers
-back to the region, is possible Friday into next weekend. The
-forecast remains in flux with regards to a second moisture surge
-so stay up to date on the forecast this week.
+The slight high based thunderstorm threat continues through at least
+Tuesday morning. There is some evidence that a short wave will move
+through that could make things more interesting, but the moisture
+also starts to clear by then, so we`re still talking about single
+digit percentages. The bigger story is the heat. As the moisture
+clears out, so do the clouds. The full sunshine will bring
+temperatures into the mid 90s for several of our hotter cities, with
+mid 70s in the more coastal locations. That`s about 5-10 degrees
+above normal. Strong onshore winds will arrive in the afternoon and
+help cool the coast quickly. Wednesday will be very similar to
+Tuesday, just without the thunderstorm threat. By Thursday the
+Eastern Pacific trough that helped pump the moisture earlier in
+the week will arrive and bring a weak cold front, kicking off a
+late week cooling trend.
 
-Outside of shower potential, upper level ridging will continue to
-dominate the western United States with the center of the high
-located over the Intermountain West. Temperatures warm into the
-upper 80s to 90s across the interior with low 100s possible across
-the usual hotspots (far interior East Bay, interior Central Coast)
-Tuesday and Wednesday. Coastal areas will stay in the 60s to 70s
-with low 80s possible along the SF Bay shoreline. Widespread
-Moderate HeatRisk is expected across the higher elevations and most
-of the interior Bay Area. If you are spending significant periods of
-time outdoors, make sure to listen to your body, take breaks in the
-shade, and drink plenty of water. Cooler temperatures return
-Thursday into the weekend as upper level ridging weakens and shifts
-eastward while a deep upper level trough pushes into the PNW.&&
+A quick note on the tropics. As the El Nino Advisory continues, the
+National Hurricane Center is currently tracking 5 disturbances in
+the Central and Eastern Pacific. While these systems rarely
+impact California directly, the residual moisture can bring
+impacts similar to the monsoon with high based thunderstorms.
+Refer to Tropical Storm Fausto, the 2020 lightning outbreak and
+subsequent wildfires for a good example of this. Additionally, the
+ocean swell generated from these storms can bring hazardous beach
+conditions. While there is no immediate threat, there is a high
+chance for an active hurricane season in the Pacific and we`ll be
+watching closely for these impacts.
 
 &&
 
 .AVIATION...
 (12Z TAFS)
-Issued at 439 AM PDT Sun Jul 12 2026
+Issued at 448 AM PDT Mon Jul 13 2026
 
-Marine layer is compressed and primarily confined to the coast.
-Elevated showers are more widespread than expected despite building
-high pressure at the surface, with rainfall evaporating before
-hitting the ground. Some gusty erratic outflow winds can be expected
-in vicinity of these weak bands. Otherwise VFR is expected for all
-terminals except KHAF and KMRY until early Monday morning.
+VFR is expected to prevail through the forecast period with the
+exception of KHAF that may toggle between VFR and IFR/LIFR through
+mid-morning. Slight chance of low end MVFR cigs early Wednesday
+morning for terminals on the immediate coast.
 
-Vicinity of SFO...VFR is expected to prevail through the forecast period
-with a slight chance of MVFR/IFR ceilings early Monday morning.
-Gusty erratic winds are possible in vicinity of the elevated
-showers through the morning.
+Vicinity of SFO...VFR, with breezy onshore flow this afternoon and
+slight chance of low end MVFR cigs early Wednesday morning.
 
 SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...VFR should prevail especially at KSNS, KMRY
-may see-saw between VFR/MVFR ceilings through sunrise into mid-
-morning at times, otherwise expect VFR through the remainder of
-the day, with a chance of MVFR/IFR ceilings returning after
-sunset.
+Monterey Bay Terminals...VFR is expected to prevail through the
+TAF period with a slight chance of low end MVFR ceilings early
+Wednesday morning.
 
 &&
 
 .MARINE...
-(Today through Friday)
-Issued at 922 AM PDT Sun Jul 12 2026
+(Today through Saturday)
+Issued at 448 AM PDT Mon Jul 13 2026
 
-Moderate to fresh northerly winds are outer waters leading to
-hazardous conditions. Otherwise, expect light to moderate north-
-northwest winds with moderate northwest swell. Winds and seas
-build by the middle of next week.
+Moderate to fresh north-northwest winds across the northern outer
+waters continue with hazardous conditions, along with moderate
+northwest swell. Northerly winds over the coastal and outer waters
+become fresh to strong mid to late week, with near gale force
+gusts. Expect building seas in response to the increasing winds
+and long period southerly swell late week into next weekend.
 
 &&
 
 .FIRE WEATHER...
-Issued at 439 AM PDT Sun Jul 12 2026
+Issued at 448 AM PDT Mon Jul 13 2026
 
-Warm and dry conditions persist through much of the upcoming
-week, especially away from the coastal marine influences which are
-forecast to persist. This will increase fire weather concerns as
-fuels rapidly dry out due to low humidities. Fire weather concerns
-further increase later tonight into Monday as a surge of
-monsoonal moisture advects northward around the western periphery
-of the high pressure over the Desert Southwest and Intermountain
-West. If thunderstorms are able to develop, dry lightning and
-gusty, erratic outflow winds would be the main hazards. The
-limiting factor is the lack of instability over our region those
-days. Thus, we will continue to closely monitor these conditions
-through the weekend. Given the combination of the potential for
-dry lightning and rapidly drying fuels, it is important to stay up
-to date on the forecast as it evolves.
+Warming temperatures this will cause fuel moistures to plummet for
+the first half of the week. At the same time we are tracking
+monsoonal moisture moving across the area and any threat of dry
+thunderstorms today and Tuesday. While dry thunderstorms have a
+10% or less chance of development, any strike can start a fire.
+Not to mention, in and around active thunderstorms, winds can
+become gusty and erratic. For more information on the thunderstorm
+threat, see discussion above.
 
 &&
 
@@ -178,17 +179,20 @@ CA...Coastal Flood Advisory until 4 AM PDT Thursday for CAZ006-506-
      Coastal Flood Advisory until 4 AM PDT Wednesday for CAZ505-509-
      529-530.
 
-PZ...Small Craft Advisory until 3 PM PDT Wednesday for Pt Arena to Pt
+PZ...Small Craft Advisory from 3 PM Tuesday to 3 PM PDT Wednesday for
+     Pt Arena to Pt Reyes 0-10 nm.
+
+     Small Craft Advisory until 3 PM PDT Wednesday for Pt Arena to Pt
      Reyes 10-60 NM.
 
 &&
 
 $$
 
-SHORT TERM...Kennedy
-LONG TERM....Kennedy
+SHORT TERM...Flynn
+LONG TERM....Flynn
 AVIATION...JM
-MARINE...KR
+MARINE...JM
 
 Visit us at www.weather.gov/sanfrancisco
 
