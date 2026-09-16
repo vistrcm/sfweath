@@ -1,160 +1,181 @@
 
-461
-FXUS66 KMTR 151806
+036
+FXUS66 KMTR 161746
 AFDMTR
 
 Area Forecast Discussion
 National Weather Service San Francisco CA
-1106 AM PDT Tue Sep 15 2026
+1046 AM PDT Wed Sep 16 2026
 
-...New SHORT TERM, LONG TERM...
+...New AVIATION, MARINE...
 
 .KEY MESSAGES...
-Updated at 1051 AM PDT Tue Sep 15 2026
+Updated at 1230 AM PDT Wed Sep 16 2026
 
  - Cooler temperatures through Thursday
+
+ - Warming trend Friday into the weekend.
+
+&&
+
+.UPDATE...
+Issued at 632 AM PDT Wed Sep 16 2026
+
+The marine layer has grown to roughly 2,400 feet deep this
+morning, with widespread stratus coverage. The NW wind direction
+is supporting downslope drying over the Santa Cruz mountains,
+which is keeping Silicon Valley clear. Otherwise the morning
+clouds are reaching as far as Healdsburg, Dublin, and Pacheco
+Pass. There hasn`t been any measurable drizzle yet. The clouds
+will start to pull back to the coast after the sun comes up.
 
 &&
 
 .SHORT TERM...
-Issued at 1051 AM PDT Tue Sep 15 2026
-(This afternoon through Wednesday)
+Issued at 1208 AM PDT Wed Sep 16 2026
+(Today and tonight)
 
-The marine layer has returned, but it`s not uniform. A mesoscale,
-low-level, cyclonic eddy has formed off the coast of San Mateo
-County. This is producing easterly, offshore winds in the North Bay
-and westerly, onshore winds across the Central Coast. The morning
-sounding measured the marine layer at 1,200 feet deep over Oakland.
-Surface-based marine layer detection shows it`s more shallow to
-the north and deeper to the south. The marine layer in Sonoma
-County is around 800 feet deep with near normal temperatures and
-mostly clear skies. Meanwhile it`s around 2,000 feet deep across
-Monterey County, where max temperatures are around 10 degree
-below normal, and most of the coast was under overcast skies this
+Pretty easy to discern the longwave pattern over the region by
+taking a peek at the water vapor imagery. A wound up upper level
+low is digging over OR/CA border. The band of upper level clouds
+that streamed over the Bay Area the last two days has been shunted
+southward. Switching to a different satellite spectral band
+quickly shows what`s happening at the surface as a result of the
+upper level pattern. Satellite fog product (difference of the
+10.3-3.9 um IR bands) reveals decent stratus/marine layer
+coverage along the coast and pushing into the inland valleys. Per
+observational data depth continues to hover in the 1100-1500 foot
+range. No bucket tips as of yet, but cannot rule out some patchy
+drizzle along the immediate coast. Coverage and confidence isn`t
+high enough to officially include drizzle in the forecast this
 morning.
 
-The synoptic scale pattern features a trough over the west coast and
-a ridge over the SE US. At 500 mb, the trough will become cut-off
-over the next 24 hours and settle somewhere over Northern
-California. As a result, temperatures will be cooler than normal
-today and even more so tomorrow. This low will also bring stronger
-winds Wednesday afternoon, with gusts of 20-30 mph expected across
-the East Bay Hills, Salinas Valley, and both the San Francisco
-and Monterey Bays.
+Other weather highlights for Wednesday include temperatures and
+wind. The dropping upper level low is ushering in some colder
+850mb temperatures. Colder temperatures aloft for September
+standard. As such, the airmass will support high temperatures in
+the 60s at the coast and 70s with a few low 80s inland. While it
+may feel nice, those values are 5 to 10 degrees below normal. The
+colder airmass aloft and surface pressure gradient orientations
+continue to promote gusty onshore flow this afternoon. Forecast
+captures this well and highlights gusty conditions along the
+coast, inland valleys, and inland gaps/passes (specifically
+Altamont/Pacheco Passes). The windiest spots could see gusts up
+40-45 mph. Winds will ease late in the day and more so overnight
+as the onshore gradient relaxes.
+
+For Wednesday night: given the lower 500mb heights overhead the
+marine layer will deep further and exceed 2000 feet with a run
+toward 2500-3000 feet by Thursday morning. Deep marine layer,
+onshore flow, and enhanced orographic lift will lead to higher
+confidence for widespread coastal drizzle. Despite the deeper
+marine layer it`s not looking like a nocturnal drying set up,
+which is good from a fire weather perspective.
 
 &&
 
 .LONG TERM...
-Issued at 1051 AM PDT Tue Sep 15 2026
-(Wednesday night through next Monday)
+Issued at 1250 AM PDT Wed Sep 16 2026
+(Thursday through Tuesday)
 
-The cut-off low will certainly deepen the marine layer Wednesday
-night, and it may provide enough lift to support some drizzle
-Thursday morning. After losing upper level support, the low will
-gradually weaken through the day. As a result, winds will be much
-calmer Thursday afternoon. Temperatures will remain roughly 5-10
-degrees below normal.
+Cloudy, cool, damp to begin the day on Thursday as the upper low
+lingers over NorCal. By Friday, the cut-off low exits to the NE
+with a weak shortwave ridge following for Saturday. This shift in
+the upper level pattern will have a shift in the sensible weather.
+The marine layer will compress slightly and temperatures will
+warm.
 
-The remnants of the cut-off will gradually move off to the NE and
-eventually get caught up in the jet stream flow again. We should be
-on the backside of the trough by Friday, with a weak short-wave
-ridge building Saturday. This feature looks short-lived as another
-cut-off low approaches the coast Sunday or Monday. Temperatures
-should return back to normal Fri-Sun with typical marine layer
-impacts.
-
-By next week the forecast confidence really falls apart. A few of
-the deterministic global models show deep, reinforcing trough
-bringing much cooler weather. The ensembles, however, reveal that
-this is an outlier in the total guidance envelope. The ensemble mean
-is much more benign, and there is at least an equal likelihood of
-warm ridging next week. The ECMWF ensemble actually shows
-anywhere from 5C to 25C 850 mb temperatures by the middle of next
-week. That pretty much covers all of the historical possibilities
-for this time of year. In other words, we don`t yet know what`s
-going to happen next week.
+Longer range is lower confidence as yet another upper low begins
+to move through CA Monday. Expect another dip in temperatures, but
+albeit brief. Thereafter, the strength of the following ridge is
+uncertain. Regardless, current forecast does show warming through
+the middle of next week.
 
 &&
 
 .AVIATION...
 (18Z TAFS)
-Issued at 1029 AM PDT Tue Sep 15 2026
+Issued at 1024 AM PDT Wed Sep 16 2026
 
-MVFR-IFR conditions continue directly along the coastline with VFR
-across the interior. MVFR stratus returns again tonight with IFR
-conditions possible directly along the coastline. Confidence is
-low to moderate that stratus will not reach SJC or LVK overnight
-but if it does occur, it likely will not be until after 09Z.
-Highest potential for IFR conditions directly along the coastline. Onshore
-winds pick up this afternoon to around 10-15 knots with light to
-variable southerly winds overnight.
+An interesting stratus pattern across the region today. Stratus
+should clear within the hour at STS and APC with questions as to
+if OAK and SFO will clear at all today. Model guidance suggests
+patchy reductions in cloud cover are possible for OAK, SFO, MRY,
+and SNS with the general prevailing conditions being MVFR. Kept
+the TAFs slightly more pessimistic with MVFR conditions prevailing
+through the day but there may be brief periods where cloud cover
+is reduced and conditions improve during the day. Breezy onshore
+winds are expected this afternoon and evening with winds between
+10 to 15 knots and gusts to around 25 knots at OAK and SFO. With
+the marine layer deepening to 3000 ft tonight it is likely that
+OVC/BKN clouds will be at a higher depth tonight. This may result
+in cloud cover on the border of MVFR / VFR criteria.
 
-Vicinity of SFO...VFR through the rest of today with MVFR CIGs
-likely to return overnight. Patchy stratus could arrive as early
-as 04Z but it more likely will not arrive until 10Z. Onshore winds
-to around 15 knots expected this afternoon and evening with
-occasional stronger gusts possible. Stratus clears by late
-tomorrow morning with a return of onshore winds around 15 knots
-expected during the afternoon and evening.
+Vicinity of SFO...Stratus continues to push into SFO after
+clearing briefly earlier this morning. Maintained a slightly more
+optimistic TAF with VFR returning this afternoon. MVFR conditions
+return late tonight and prevail through tomorrow morning. Gusts to
+around 25 knots are expected this afternoon.
 
-SFO Bridge Approach...Generally similar to SFO but gusts may be
-slightly stronger (closer to 20 knots) over the bay on the Bridge
-Approach.
+SFO Bridge Approach...Similar to SFO.
 
-Monterey Bay Terminals...MVFR-IFR conditions persist at MRY
-through the rest of today. Confidence is low that a ceiling will
-fully mix out at MRY due to persistent onshore push of stratus
-into MRY from the Monterey Bay region. If stratus does clear, it
-likely will not be until after 19Z. MVFR-IFR CIGs return to SNS
-overnight. Winds remain light through mid morning with westerly
-winds around 12 knots expected today. Winds weaken overnight
-becoming light to variable.
+Monterey Bay Terminals...MVFR conditions at both sites. Given the
+continued push of stratus towards the interior, kept MVFR
+conditions prevailing through the day at both sites. This may need
+to be adjusted if cloud cover is able to break up more than
+originally anticipated. Breezy westerly winds between 10 to 15
+knots expected this afternoon with lighter winds overnight.
 
 &&
 
 .MARINE...
-(Today through Sunday)
-Issued at 1029 AM PDT Tue Sep 15 2026
+(Today through Monday)
+Issued at 1024 AM PDT Wed Sep 16 2026
 
-Northwesterly winds diminish across the inner and southern
-coastal waters today with a moderate breeze and occasional fresh
-gusts prevailing through late week. Strong northwesterly winds
-diminish more slowly across the northern outer waters with
-hazardous conditions continuing into Wednesday. Rough seas linger
-through Wednesday before seas abate and become moderate.
+Moderate northwest to north winds prevail across the outer waters
+with occasional fresh to strong gusts to diminish today. West to
+southwest moderate breezes dominate over the Bays with gusts up to
+25 knots resulting in hazardous conditions for small crafts late
+morning through this evening. By Friday, widespread northwest to
+north breezes increase to fresh with occasional strong gusts.
+Wind driven rough seas to 9 to 10 feet subside to moderate by the
+evening and will remain slight to moderate into the weekend.
 
 &&
 
 .FIRE WEATHER...
-Issued at 345 AM PDT Tue Sep 15 2026
+Issued at 412 AM PDT Wed Sep 16 2026
 
-The transport of cooler air on northwest winds relative to sea
-surface temperatures in the upper 50s to lower 60s continues to
-help produce coastal stratus early this morning. The marine layer
-depth varies from 1500 to 2000 feet. Above the marine layer
-temperature inversion, humidities are currently in the mid 20% to
-30% range. The depth of cool air transport will increase which
-will gradually increase humidities at higher elevations during mid
-to late week. Before humidities reach a maximum, there may be
-temporary, small areas of nocturnal drying at highest elevations,
-coverage though should be minimal.
+A passing trough is allowing the marine layer to expand with the
+depth estimated around 2000-2500 feet in the area around the Timber
+and Plaskett Fires. Above the marine layer inversion, humidities
+remain low with relative humidity values as low as 15% observed. The
+trend for deeper marine layers is expected to continue into Friday,
+with humidities in higher elevations expected to rise as a result.
+Some nocturnal drying is possible in the highest peaks, but minimal
+coverage is expected.
+
+DialH
 
 &&
 
 .MTR WATCHES/WARNINGS/ADVISORIES...
 CA...None.
-PZ...Small Craft Advisory from 9 AM to 9 PM PDT Wednesday for SF Bay
-     N of Bay Bridge.
+PZ...Small Craft Advisory until 9 PM PDT this evening for SF Bay N of
+     Bay Bridge.
 
-     Small Craft Advisory until 3 PM PDT Wednesday for Pt Arena to Pt
-     Reyes 10-60 NM.
+     Small Craft Advisory from 3 PM this afternoon to 9 PM PDT this
+     evening for Mry Bay.
+
+     Small Craft Advisory until 3 PM PDT this afternoon for Pt Arena
+     to Pt Reyes 10-60 NM.
 
 &&
 
 $$
 
-SHORT TERM...Flynn
-LONG TERM....Flynn
+SHORT TERM...MM
+LONG TERM....MM
 AVIATION...Kennedy
 MARINE...Kennedy
 
